@@ -1,28 +1,31 @@
 ### The big picture
-U.S. stocks are lower in midday trading Thursday as the AI trade takes another leg down. The Nasdaq is off more than 2% and the S&P 500 is down about 1.3%. The Dow and the Russell 2000 are holding up far better. The VIX is up roughly 12%, to the high teens. Investors are rotating into defensives: health care, insurers and payments names are higher while semiconductors and AI infrastructure lead the decline.
+The AI trade sold off hard on Thursday, and the major indexes split sharply. The Nasdaq Composite fell 2.60% to 26,008.86, its worst day since June. The Nasdaq-100 lost 2.90% and the S&P 500 dropped 1.21% to 7,663.43. The Dow edged up 0.02% and the Russell 2000 gained 0.11%, as money moved into defensives, financials and smaller companies. The VIX jumped 14% to 19.03.
 
 ### What's driving it
-- **AI funding jitters.** Nvidia's CEO said demand from "neocloud" operators is very strong but capital to fund it is scarce. That landed on a market already worried about CoreWeave, whose shares are down about 35% in October as its credit-default-swap spreads widen.
-- **Chip equipment warning.** Lam Research's outlook cited supply-chain constraints, and Tesla trimmed its near-term spending target. Semiconductor equipment and memory names are falling, including ASML, Micron and AMD. The SMH semiconductor ETF is down more than 5%.
-- **AI power names under pressure.** GE Vernova is down about 11% as the "power for data centers" trade unwinds for a second straight week.
-- **Meta sells off after earnings.** The stock is down about 6% despite a Q3 beat and a stock-split announcement, as investors focus on AI spending.
+- **Meta's capex shock.** Meta fell about 7% even after a Q3 beat and a 2-for-1 split announcement. Roughly $35 billion of quarterly capital spending pushed its free cash flow negative, and its credit-default-swap prices hit record highs.
+- **AI financing worries spread.** Investors questioned how the AI build-out will be funded. CoreWeave fell 10% after Bernstein cut its target to $51, and the stock is down more than a third in October. Lam Research, AMD, ASML and Micron all fell sharply, and the SMH semiconductor ETF lost about 6%.
+- **The AI-power trade unwound.** GE Vernova dropped 10.6%, alongside Vistra, Vertiv, Eaton and Quanta.
+- **Oil and Iran.** Brent rose 3.7% to about $113, its highest since May. The move followed reports that the U.S. may resume strikes on Iran and a deadly attack in Saudi Arabia.
+- **Tesla mixed.** Tesla's profit beat estimates but revenue missed, and the stock fell about 3%.
 
 ### Rates & macro
-- Treasuries are rallying on the risk-off move. The 10-year yield is down about 13 bp to roughly 5.0%, and the curve is lower across the board.
-- Weekly jobless claims fell to 194K, near the lowest level since the 1960s. Layoffs remain low even as housing data softens and the Fed weighs further hikes.
-- A CNBC survey shows approval of the President's handling of the economy at a record low ahead of the midterms. The fiscal 2026 deficit came in near $2 trillion.
+- Treasuries rallied as investors sought safety. The 10-year yield fell about 19 bp to 4.95%, back below 5%. The 5-year fell to 4.77% and the 30-year to 5.29%.
+- Initial jobless claims came in at 194K, against a 200K forecast and 199K the week before. That is near the lowest level since the 1960s.
+- Markets still expect the Fed to hold next week and hike in December.
 
 ### Calendar & forecasts
-- **Tomorrow (Fri):** S&P Global flash PMIs for October (manufacturing forecast 55.4 vs. 57.0 prior; services 57.9 vs. 58.7). Final University of Michigan sentiment is expected unchanged at 46.3, with inflation expectations last at 4.7%.
-- **FOMC, Oct 27–28:** Markets price about an 86% chance the Fed holds at 3.75%–4.00% (CME FedWatch). About 75%–85% odds point to a hike by the Dec 9 meeting. Chair Warsh has moved away from forward guidance, so surprise risk is higher than usual.
-- **Oct 29:** U.S. Q3 GDP advance estimate (previews about 2.7%–3.5% vs. 2.2% prior) and September PCE (core expected +0.3% m/m). The ECB decides the same day. The **BoJ** follows Oct 30 and the **BoE** on Nov 5, where a hike is in play after hot U.K. inflation.
-- **Nov 6:** October U.S. jobs report.
+- **Fri, Oct 23:** S&P Global flash PMIs (manufacturing forecast 55.4 vs. 57.0 prior; services 57.9 vs. 58.7). Flash PMIs for Europe and the U.K. and U.K. retail sales are also due.
+- **Oct 27:** U.S. durable goods, Conference Board consumer confidence (prior 81.9) and new home sales.
+- **Oct 28:** The **FOMC** is expected to hold at 3.75%–4.00%. CME FedWatch shows about 84% for a hold, and odds of a December hike are near 83%. The **Bank of Canada** (2.25%) also decides that day, and its call is closer.
+- **Oct 29:** Q3 GDP advance estimate (nowcasts 2.7%–3.5% vs. 2.2% prior) and September PCE (core expected +0.3% m/m). The **ECB** is expected to hold at 2.50%.
+- **Oct 30:** The **BoJ** is expected to hold at 1.25%. The Q3 Employment Cost Index is also due.
+- **Nov 2:** ISM manufacturing (prior 54.5). **Nov 5:** The **BoE** is expected to hike to 4.00%, with about 90% priced in. **Nov 6:** October jobs report (prior +29K, 4.2% unemployment).
 
 ### Global
-- **Europe:** Broadly lower, led by Italy and France. France's 10-year bond yield hit a 24-year high as political and fiscal pressure builds. U.K. inflation jumped to 3.5%, cementing expectations of a Bank of England hike. Switzerland is flat.
-- **Asia-Pacific:** Every major index closed lower. Hong Kong fell about 3%, and Japan and Taiwan each lost about 1.8% as the tech selloff spread.
-- **Commodities & FX:** Oil is higher again, with Brent above $110 on Iran-related supply risk. Gold, silver and copper are lower. The yen is firmer against the dollar.
-- **Crypto:** Bitcoin is down about 3%, near $81K, pulling IBIT, Coinbase and Strategy lower. Spot bitcoin ETFs have still taken in more than $1B over the last three sessions.
+- **Europe:** Every major index fell. Italy's FTSE MIB lost 2.5% and the Euro Stoxx 50 fell 1.9%, with French fiscal stress still weighing on the region. Switzerland's SMI was flat.
+- **Asia-Pacific:** Every major index fell. Hong Kong's Hang Seng slid 3.9%, Shanghai fell 2.1% and the Nikkei 1.8%.
+- **Commodities & FX:** WTI rose 2.0% to about $99. Gold fell 2.7% to about $4,040 and silver 4.9%. The dollar index slipped 0.1%, and the yen firmed to about 156.8 per dollar.
+- **Crypto:** Bitcoin fell 3.1% to about $81,400 and Ether 3.2%.
 
 ### Watchlist takeaways
-Defensives lead the watchlist: Eli Lilly, Intuitive Surgical, Chubb, Berkshire Hathaway and Mastercard are all higher. AI hardware and power names lag: GE Vernova, CoreWeave, AMD, Meta, Caterpillar and ASML are the biggest decliners. Analyst consensus is still Buy on every covered name. Mean price targets imply sizable upside after the pullback, including roughly 50% or more for NVDA and SPCX. Earnings from Caterpillar, Strategy and Coinbase are on deck next week.
+Only 10 of 33 names rose. Defensives led: Intuitive Surgical gained 3.7%, Eli Lilly 2.8%, Chubb 2.5%, Mastercard 1.7% and Berkshire 1.5%. AI infrastructure lagged. GE Vernova fell 10.6%, CoreWeave 10.1%, SPCX 9.1%, AMD 8.1%, Meta 7.0%, ASML 6.9% and Micron 6.3%. Analyst consensus is Buy on all 29 covered names. Mean price targets now sit well above prices for the sold-off names, about 146% above for CoreWeave and about 55% for Nvidia. Microsoft, Alphabet and Amazon are expected to report next week, though those dates are unconfirmed. Palantir reports Nov 2.

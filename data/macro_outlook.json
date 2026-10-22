@@ -3,66 +3,88 @@
  "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily.",
  "centralBanks": [
   {
+   "bank": "Bank of Canada",
+   "region": "CA",
+   "date": "2026-10-28",
+   "current": "2.25%",
+   "expectation": "Contested: prediction markets lean hold (~61%) vs. a 25 bp hike to 2.50%; September job losses add downside risk.",
+   "source": "https://polymarkettrader.com/events/bank-of-canada-october-2026/"
+  },
+  {
    "bank": "Federal Reserve (FOMC)",
    "region": "US",
    "date": "2026-10-28",
    "current": "3.75%–4.00% (raised Sep 17)",
-   "expectation": "Hold — CME FedWatch ~86% probability of no change (Oct 21); markets price ~75–85% odds of a hike by the Dec 9 meeting.",
-   "source": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
+   "expectation": "Hold. CME FedWatch about 84% no change and 16% for a 25 bp hike (Oct 22). A Reuters poll found 94 of 100 economists expect a hold. No new projections; Chair Warsh's press conference is at 2:30 pm ET.",
+   "source": "https://phemex.com/news/article/fed-rate-hold-probability-hits-839-for-october-meeting-100309"
   },
   {
    "bank": "European Central Bank",
    "region": "EU",
    "date": "2026-10-29",
-   "current": null,
-   "expectation": "Decision 14:15 CET. Watch reaction to French bond-yield stress (10-yr at a 24-year high).",
-   "source": "https://tickward.com/en/calendars/central-bank-meeting-dates/2026"
+   "current": "2.50% deposit rate (raised Sep 10)",
+   "expectation": "Hold. 70 of 73 economists in a Reuters poll expect no change, and most see a 25 bp hike in December. French bond-yield stress is in focus.",
+   "source": "https://www.fxstreet.com/analysis/ecb-october-pause-mrr-in-focus-202610201244"
   },
   {
    "bank": "Bank of Japan",
    "region": "JP",
    "date": "2026-10-30",
-   "current": null,
-   "expectation": "Two-day meeting Oct 29–30 with quarterly Outlook Report; yen strength in focus.",
-   "source": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+   "current": "1.25% (raised Sep 18)",
+   "expectation": "Hold expected; back-to-back hike odds under 5%. Next hike seen in December or January. Quarterly Outlook Report due.",
+   "source": "https://think.ing.com/articles/our-latest-views-on-the-major-central-banks-october-2026/"
   },
   {
    "bank": "Bank of England",
    "region": "UK",
    "date": "2026-11-05",
-   "current": null,
-   "expectation": "Hike expectations firmed after September CPI rose to 3.5% y/y, above forecasts.",
-   "source": "https://tickward.com/en/calendars/central-bank-meeting-dates/2026"
+   "current": "3.75%",
+   "expectation": "Hike to 4.00% expected; OIS pricing about 90% after September CPI hit 3.5% y/y. November Monetary Policy Report due.",
+   "source": "https://www.bluegamma.io/central-banks/central-bank-interest-rate-forecasts/the-bank-of-england-interest-rate-forecast"
   },
   {
    "bank": "Federal Reserve (FOMC)",
    "region": "US",
    "date": "2026-12-09",
    "current": "3.75%–4.00%",
-   "expectation": "Hike is the market's base case (~76% by December per CME FedWatch).",
-   "source": "https://www.forbes.com/sites/simonmoore/2026/10/19/what-to-look-for-from-the-feds-october-meeting/"
+   "expectation": "Hike is the base case, with CME FedWatch about 83% for a hike by December (Oct 22).",
+   "source": "https://www.mitrade.com/insights/more/Central-Banks/fed-october-hold-december-hike-20261022J1428"
   },
   {
    "bank": "ECB · Bank of England",
    "region": "EU/UK",
    "date": "2026-12-17",
    "current": null,
-   "expectation": "Final 2026 decisions for both; BoJ follows Dec 17–18.",
+   "expectation": "Final 2026 decisions for both; 64 of 73 economists expect an ECB hike. The BoJ follows Dec 17–18.",
    "source": "https://tickward.com/en/calendars/central-bank-meeting-dates/2026"
   }
  ],
  "keyReleases": [
   {
+   "date": "2026-10-23",
+   "event": "U.S. S&P Global flash PMIs (October)",
+   "forecast": "Manufacturing 55.4; services 57.9",
+   "previous": "Manufacturing 57.0; services 58.7",
+   "source": "https://www.forexfactory.com/calendar"
+  },
+  {
+   "date": "2026-10-27",
+   "event": "U.S. September durable goods · Conference Board consumer confidence (Oct) · new home sales",
+   "forecast": null,
+   "previous": "Consumer confidence 81.9",
+   "source": "https://www.schwab.com/learn/story/stock-market-update-open"
+  },
+  {
    "date": "2026-10-29",
    "event": "U.S. Q3 GDP (advance)",
-   "forecast": "~2.7%–3.5% annualized (previews)",
+   "forecast": "~2.7%–3.5% annualized (NY Fed nowcast 2.67%; Atlanta Fed GDPNow 3.5%)",
    "previous": "2.2%",
    "source": "https://fattail.ai/q3-gdp-2026-preview"
   },
   {
    "date": "2026-10-29",
    "event": "U.S. September PCE / core PCE",
-   "forecast": "Core +0.3% m/m; Q3 core ~2.4% annualized (Cleveland Fed nowcast 2.33%)",
+   "forecast": "Core +0.3% m/m; Q3 core ~2.4% annualized",
    "previous": "Core PCE 3.0% y/y",
    "source": "https://fattail.ai/q3-gdp-2026-preview"
   },
@@ -74,11 +96,18 @@
    "source": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-26102026-01112026/"
   },
   {
+   "date": "2026-11-02",
+   "event": "U.S. ISM Manufacturing PMI (October)",
+   "forecast": null,
+   "previous": "54.5 (prices paid 77.9)",
+   "source": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/september/"
+  },
+  {
    "date": "2026-11-06",
    "event": "U.S. October jobs report",
    "forecast": null,
-   "previous": null,
-   "source": "https://portal.guggenheiminvestments.com/services/advisor-resources/us-economic-calendar"
+   "previous": "Payrolls +29K; unemployment 4.2%; AHE +3.0% y/y",
+   "source": "https://www.bls.gov/news.release/archives/empsit_10022026.htm"
   }
  ]
 }

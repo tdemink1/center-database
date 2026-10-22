@@ -435,7 +435,8 @@ function renderCalendar() {
 // ---------------------------------------------------------------- loading
 
 async function loadJson(path) {
-  const res = await fetch(path, { cache: "no-store" });
+  // GitHub Pages caches files for 10 minutes; a unique query string skips that cache.
+  const res = await fetch(`${path}?t=${Date.now()}`, { cache: "no-store" });
   if (!res.ok) throw new Error(`${path}: ${res.status}`);
   return res.json();
 }

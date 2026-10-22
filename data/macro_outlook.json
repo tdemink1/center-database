@@ -1,0 +1,84 @@
+{
+ "updated": "2026-10-22",
+ "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily.",
+ "centralBanks": [
+  {
+   "bank": "Federal Reserve (FOMC)",
+   "region": "US",
+   "date": "2026-10-28",
+   "current": "3.75%–4.00% (raised Sep 17)",
+   "expectation": "Hold — CME FedWatch ~86% probability of no change (Oct 21); markets price ~75–85% odds of a hike by the Dec 9 meeting.",
+   "source": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
+  },
+  {
+   "bank": "European Central Bank",
+   "region": "EU",
+   "date": "2026-10-29",
+   "current": null,
+   "expectation": "Decision 14:15 CET. Watch reaction to French bond-yield stress (10-yr at a 24-year high).",
+   "source": "https://tickward.com/en/calendars/central-bank-meeting-dates/2026"
+  },
+  {
+   "bank": "Bank of Japan",
+   "region": "JP",
+   "date": "2026-10-30",
+   "current": null,
+   "expectation": "Two-day meeting Oct 29–30 with quarterly Outlook Report; yen strength in focus.",
+   "source": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+  },
+  {
+   "bank": "Bank of England",
+   "region": "UK",
+   "date": "2026-11-05",
+   "current": null,
+   "expectation": "Hike expectations firmed after September CPI rose to 3.5% y/y, above forecasts.",
+   "source": "https://tickward.com/en/calendars/central-bank-meeting-dates/2026"
+  },
+  {
+   "bank": "Federal Reserve (FOMC)",
+   "region": "US",
+   "date": "2026-12-09",
+   "current": "3.75%–4.00%",
+   "expectation": "Hike is the market's base case (~76% by December per CME FedWatch).",
+   "source": "https://www.forbes.com/sites/simonmoore/2026/10/19/what-to-look-for-from-the-feds-october-meeting/"
+  },
+  {
+   "bank": "ECB · Bank of England",
+   "region": "EU/UK",
+   "date": "2026-12-17",
+   "current": null,
+   "expectation": "Final 2026 decisions for both; BoJ follows Dec 17–18.",
+   "source": "https://tickward.com/en/calendars/central-bank-meeting-dates/2026"
+  }
+ ],
+ "keyReleases": [
+  {
+   "date": "2026-10-29",
+   "event": "U.S. Q3 GDP (advance)",
+   "forecast": "~2.7%–3.5% annualized (previews)",
+   "previous": "2.2%",
+   "source": "https://fattail.ai/q3-gdp-2026-preview"
+  },
+  {
+   "date": "2026-10-29",
+   "event": "U.S. September PCE / core PCE",
+   "forecast": "Core +0.3% m/m; Q3 core ~2.4% annualized (Cleveland Fed nowcast 2.33%)",
+   "previous": "Core PCE 3.0% y/y",
+   "source": "https://fattail.ai/q3-gdp-2026-preview"
+  },
+  {
+   "date": "2026-10-30",
+   "event": "U.S. Employment Cost Index (Q3) · Chicago PMI",
+   "forecast": null,
+   "previous": null,
+   "source": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-26102026-01112026/"
+  },
+  {
+   "date": "2026-11-06",
+   "event": "U.S. October jobs report",
+   "forecast": null,
+   "previous": null,
+   "source": "https://portal.guggenheiminvestments.com/services/advisor-resources/us-economic-calendar"
+  }
+ ]
+}

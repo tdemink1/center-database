@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Center Database</title>
+  <script>
+    // Apply the saved or system theme before the page paints, to avoid a flash of light mode.
+    (function () {
+      var saved = null;
+      try { saved = localStorage.getItem("theme"); } catch (e) {}
+      var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+      document.documentElement.dataset.theme = saved || (prefersDark ? "dark" : "light");
+    })();
+  </script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#">Center <span>Database</span></a>
+    <nav class="nav">
+      <a href="index.html" aria-current="page">Dashboard</a>
+      <a href="report.html">Daily Report</a>
+      <a href="#">Projects</a>
+      <a href="#">Settings</a>
+      <button class="theme-toggle" type="button" role="switch" aria-checked="false" aria-label="Dark mode">
+        <span class="track"><span class="thumb" aria-hidden="true">☀️</span></span>
+        <span class="label">Dark mode</span>
+      </button>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Welcome back</h1>
+      <p>This is a starter layout with a light theme and a matching dark theme. Use the switch in the header to change between them. Your choice is saved for your next visit.</p>
+      <a class="btn btn-primary" href="#">Create project</a>
+      <a class="btn btn-secondary" href="#">View docs</a>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <span class="badge badge-success">Active</span>
+        <h3>Website redesign</h3>
+        <p>12 tasks remaining · due Nov 4</p>
+      </article>
+      <article class="card">
+        <span class="badge badge-warning">At risk</span>
+        <h3>Mobile app launch</h3>
+        <p>5 tasks remaining · due Oct 28</p>
+      </article>
+      <article class="card">
+        <span class="badge badge-success">Active</span>
+        <h3>Q4 marketing plan</h3>
+        <p>8 tasks remaining · due Dec 1</p>
+      </article>
+    </section>
+
+    <form class="form" onsubmit="return false">
+      <label for="search">Search projects</label>
+      <input id="search" type="text" placeholder="Type a project name…">
+    </form>
+  </main>
+
+  <footer>© 2026 Center Database</footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

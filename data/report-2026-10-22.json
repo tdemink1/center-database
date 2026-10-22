@@ -1,14 +1,14 @@
 {
  "date": "2026-10-22",
- "generatedAt": "2026-10-22T15:45+00:00",
+ "generatedAt": "2026-10-22T21:20+00:00",
  "highlights": [
-  "U.S. stocks: S&P 500 -1.29%, Dow Jones -0.26%, Nasdaq Composite -2.26%, Russell 2000 -0.35%.",
-  "VIX at 18.91 (+13.37%).",
-  "Europe: 1 of 6 indexes higher; best SMI (Switzerland) +0.04%, weakest FTSE MIB (Italy) -2.53%.",
-  "Asia-Pacific: 0 of 7 indexes higher; best KOSPI (Korea) -0.34%, weakest Hang Seng (Hong Kong) -3.03%.",
-  "10-year Treasury yield 5.01% (-13 bp).",
-  "Commodities: WTI Crude +1.00%, Gold -1.96%.",
-  "Watchlist: 8 of 33 higher. Leaders: LLY +3.28%, ISRG +2.57%, BFGIX +2.22%. Laggards: GEV -11.13%, CRWV -8.25%, AMD -7.58%."
+  "U.S. stocks: S&P 500 -1.21%, Dow Jones +0.02%, Nasdaq Composite -2.60%, Russell 2000 +0.11%.",
+  "VIX at 19.03 (+14.09%).",
+  "Europe: 0 of 6 indexes higher; best SMI (Switzerland) -0.03%, weakest FTSE MIB (Italy) -2.54%.",
+  "Asia-Pacific: 0 of 7 indexes higher; best KOSPI (Korea) -0.34%, weakest Hang Seng (Hong Kong) -3.91%.",
+  "10-year Treasury yield 4.95% (-19 bp).",
+  "Commodities: WTI Crude +2.01%, Gold -2.66%.",
+  "Watchlist: 10 of 33 higher. Leaders: ISRG +3.67%, LLY +2.83%, CB +2.54%. Laggards: GEV -10.64%, CRWV -10.06%, SPCX -9.14%."
  ],
  "commentary": "### The big picture\nU.S. stocks are lower in midday trading Thursday as the AI trade takes another leg down. The Nasdaq is off more than 2% and the S&P 500 is down about 1.3%. The Dow and the Russell 2000 are holding up far better. The VIX is up roughly 12%, to the high teens. Investors are rotating into defensives: health care, insurers and payments names are higher while semiconductors and AI infrastructure lead the decline.\n\n### What's driving it\n- **AI funding jitters.** Nvidia's CEO said demand from \"neocloud\" operators is very strong but capital to fund it is scarce. That landed on a market already worried about CoreWeave, whose shares are down about 35% in October as its credit-default-swap spreads widen.\n- **Chip equipment warning.** Lam Research's outlook cited supply-chain constraints, and Tesla trimmed its near-term spending target. Semiconductor equipment and memory names are falling, including ASML, Micron and AMD. The SMH semiconductor ETF is down more than 5%.\n- **AI power names under pressure.** GE Vernova is down about 11% as the \"power for data centers\" trade unwinds for a second straight week.\n- **Meta sells off after earnings.** The stock is down about 6% despite a Q3 beat and a stock-split announcement, as investors focus on AI spending.\n\n### Rates & macro\n- Treasuries are rallying on the risk-off move. The 10-year yield is down about 13 bp to roughly 5.0%, and the curve is lower across the board.\n- Weekly jobless claims fell to 194K, near the lowest level since the 1960s. Layoffs remain low even as housing data softens and the Fed weighs further hikes.\n- A CNBC survey shows approval of the President's handling of the economy at a record low ahead of the midterms. The fiscal 2026 deficit came in near $2 trillion.\n\n### Calendar & forecasts\n- **Tomorrow (Fri):** S&P Global flash PMIs for October (manufacturing forecast 55.4 vs. 57.0 prior; services 57.9 vs. 58.7). Final University of Michigan sentiment is expected unchanged at 46.3, with inflation expectations last at 4.7%.\n- **FOMC, Oct 27–28:** Markets price about an 86% chance the Fed holds at 3.75%–4.00% (CME FedWatch). About 75%–85% odds point to a hike by the Dec 9 meeting. Chair Warsh has moved away from forward guidance, so surprise risk is higher than usual.\n- **Oct 29:** U.S. Q3 GDP advance estimate (previews about 2.7%–3.5% vs. 2.2% prior) and September PCE (core expected +0.3% m/m). The ECB decides the same day. The **BoJ** follows Oct 30 and the **BoE** on Nov 5, where a hike is in play after hot U.K. inflation.\n- **Nov 6:** October U.S. jobs report.\n\n### Global\n- **Europe:** Broadly lower, led by Italy and France. France's 10-year bond yield hit a 24-year high as political and fiscal pressure builds. U.K. inflation jumped to 3.5%, cementing expectations of a Bank of England hike. Switzerland is flat.\n- **Asia-Pacific:** Every major index closed lower. Hong Kong fell about 3%, and Japan and Taiwan each lost about 1.8% as the tech selloff spread.\n- **Commodities & FX:** Oil is higher again, with Brent above $110 on Iran-related supply risk. Gold, silver and copper are lower. The yen is firmer against the dollar.\n- **Crypto:** Bitcoin is down about 3%, near $81K, pulling IBIT, Coinbase and Strategy lower. Spot bitcoin ETFs have still taken in more than $1B over the last three sessions.\n\n### Watchlist takeaways\nDefensives lead the watchlist: Eli Lilly, Intuitive Surgical, Chubb, Berkshire Hathaway and Mastercard are all higher. AI hardware and power names lag: GE Vernova, CoreWeave, AMD, Meta, Caterpillar and ASML are the biggest decliners. Analyst consensus is still Buy on every covered name. Mean price targets imply sizable upside after the pullback, including roughly 50% or more for NVDA and SPCX. Earnings from Caterpillar, Strategy and Coinbase are on deck next week.",
  "markets": {
@@ -19,21 +19,21 @@
     "type": "INDEX",
     "currency": "USD",
     "exchange": "SNP",
-    "price": 7657.18,
+    "price": 7663.43,
     "prevClose": 7757.169921875,
-    "change": -99.98992187499971,
-    "changePct": -1.2890000203944374,
-    "change1w": -1.1218928822399388,
-    "change1m": -1.3839680246167996,
-    "changeYtd": 11.857132422759475,
+    "change": -93.73992187499971,
+    "changePct": -1.2084293991118544,
+    "change1w": -1.0411858635351434,
+    "change1m": -1.303474918819869,
+    "changeYtd": 11.948433277335479,
     "close1w": 7744.06005859375,
     "closeYtd": 6845.5,
     "high52": 7844.52,
     "low52": 6316.91,
     "dayHigh": 7702.94,
-    "dayLow": 7646.05,
-    "volume": 1133309000,
-    "asOf": "2026-10-22T11:44",
+    "dayLow": 7637.36,
+    "volume": 3559453000,
+    "asOf": "2026-10-22T16:31",
     "spark": [
      7413.1802,
      7428.7798,
@@ -97,7 +97,7 @@
      7690.73,
      7712.5698,
      7757.1699,
-     7657.1802
+     7663.4302
     ],
     "label": "S&P 500"
    },
@@ -107,21 +107,21 @@
     "type": "INDEX",
     "currency": "USD",
     "exchange": "DJI",
-    "price": 52716.89,
+    "price": 52867.98,
     "prevClose": 52856.08984375,
-    "change": -139.19984375000058,
-    "changePct": -0.26335630229458173,
-    "change1w": 1.0333891347393154,
-    "change1m": 1.6450788029468866,
-    "changeYtd": 9.682235711019693,
+    "change": 11.890156250003201,
+    "changePct": 0.022495338352035432,
+    "change1w": 1.322957331276875,
+    "change1m": 1.9364001414464926,
+    "changeYtd": 9.996592058550412,
     "close1w": 52177.69140625,
     "closeYtd": 48063.2890625,
     "high52": 54744.33,
     "low52": 45057.28,
-    "dayHigh": 52813.37,
+    "dayHigh": 52927.88,
     "dayLow": 52508.38,
-    "volume": 171306645,
-    "asOf": "2026-10-22T11:44",
+    "volume": 506198387,
+    "asOf": "2026-10-22T16:31",
     "spark": [
      52210.0781,
      52747.3203,
@@ -185,7 +185,7 @@
      51966.0312,
      52495.8789,
      52856.0898,
-     52716.8906
+     52867.9805
     ],
     "label": "Dow Jones"
    },
@@ -195,21 +195,21 @@
     "type": "INDEX",
     "currency": "USD",
     "exchange": "Nasdaq GIDS",
-    "price": 26100.385,
+    "price": 26008.86,
     "prevClose": 26702.859375,
-    "change": -602.4743750000016,
-    "changePct": -2.2562167090017904,
-    "change1w": -2.2934287611726334,
-    "change1m": -4.198658677699763,
-    "changeYtd": 12.298407910857057,
+    "change": -693.9993749999994,
+    "changePct": -2.598970264771505,
+    "change1w": -2.636051827178487,
+    "change1m": -4.534600763018548,
+    "changeYtd": 11.90461633329829,
     "close1w": 26713.029296875,
     "closeYtd": 23241.990234375,
     "high52": 27722.75,
     "low52": 20690.25,
     "dayHigh": 26359.406,
-    "dayLow": 26065.994,
-    "volume": 3249710000,
-    "asOf": "2026-10-22T11:44",
+    "dayLow": 25918.092,
+    "volume": 7800321000,
+    "asOf": "2026-10-22T17:15",
     "spark": [
      24932.0801,
      24876.9102,
@@ -273,7 +273,7 @@
      26430.8906,
      26424.8203,
      26702.8594,
-     26100.3848
+     26008.8594
     ],
     "label": "Nasdaq Composite"
    },
@@ -283,21 +283,21 @@
     "type": "INDEX",
     "currency": "USD",
     "exchange": "Nasdaq GIDS",
-    "price": 29093.066,
+    "price": 28958.688,
     "prevClose": 29822.51953125,
-    "change": -729.4535312500011,
-    "changePct": -2.4459822399835573,
-    "change1w": -2.8144871670155003,
-    "change1m": -5.334221765264669,
-    "changeYtd": 15.220749628536613,
+    "change": -863.8315312500017,
+    "changePct": -2.896574618200254,
+    "change1w": -3.263377457350347,
+    "change1m": -5.771473650219905,
+    "changeYtd": 14.688556359749349,
     "close1w": 29935.599609375,
     "closeYtd": 25249.849609375,
     "high52": 31361.37,
     "low52": 22841.42,
     "dayHigh": 29411.762,
-    "dayLow": 29048.861,
-    "volume": 612079214,
-    "asOf": "2026-10-22T11:44",
+    "dayLow": 28855.1,
+    "volume": 1695295000,
+    "asOf": "2026-10-22T17:15",
     "label": "Nasdaq 100"
    },
    {
@@ -306,13 +306,13 @@
     "type": "INDEX",
     "currency": "USD",
     "exchange": "Chicago Options",
-    "price": 2771.3428,
+    "price": 2784.0261,
     "prevClose": 2781.02001953125,
-    "change": -9.677219531250103,
-    "changePct": -0.34797374572230755,
-    "change1w": 0.14717683637679446,
-    "change1m": -4.103128290076164,
-    "changeYtd": 11.661699986710472,
+    "change": 3.006080468750042,
+    "changePct": 0.10809273028018485,
+    "change1w": 0.6055094136273809,
+    "change1m": -3.6642476171552696,
+    "changeYtd": 12.172729816524907,
     "close1w": 2767.27001953125,
     "closeYtd": 2481.909912109375,
     "high52": 3069.71,
@@ -320,7 +320,7 @@
     "dayHigh": 2784.9211,
     "dayLow": 2762.5774,
     "volume": 0,
-    "asOf": "2026-10-22T11:29",
+    "asOf": "2026-10-22T16:30",
     "spark": [
      2948.04,
      2953.8,
@@ -384,7 +384,7 @@
      2728.3,
      2773.4199,
      2781.02,
-     2771.3428
+     2784.0261
     ],
     "label": "Russell 2000"
    },
@@ -394,21 +394,21 @@
     "type": "INDEX",
     "currency": "USD",
     "exchange": "Cboe Indices",
-    "price": 18.91,
+    "price": 19.03,
     "prevClose": 16.68000030517578,
-    "change": 2.229999694824219,
-    "changePct": 13.36930248216035,
-    "change1w": 14.884575041310445,
-    "change1m": 33.07529872790853,
-    "changeYtd": 26.488295928142325,
+    "change": 2.34999969482422,
+    "changePct": 14.088726929429484,
+    "change1w": 15.613615179065988,
+    "change1m": 33.919774446964546,
+    "changeYtd": 27.290971523667306,
     "close1w": 16.459999084472656,
     "closeYtd": 14.949999809265137,
     "high52": 35.3,
     "low52": 13.38,
-    "dayHigh": 19.37,
+    "dayHigh": 20.31,
     "dayLow": 17.71,
     "volume": 0,
-    "asOf": "2026-10-22T10:29",
+    "asOf": "2026-10-22T15:15",
     "label": "VIX"
    }
   ],
@@ -419,13 +419,13 @@
     "type": "INDEX",
     "currency": null,
     "exchange": "Zurich",
-    "price": 6090.06,
+    "price": 6087.01,
     "prevClose": 6207.52001953125,
-    "change": -117.4600195312496,
-    "changePct": -1.8922213567040491,
-    "change1w": -1.2677767895054926,
-    "change1m": -3.710207042724445,
-    "changeYtd": 5.0695069245945135,
+    "change": -120.51001953124978,
+    "changePct": -1.9413553102056724,
+    "change1w": -1.3172234748898726,
+    "change1m": -3.7584305197541856,
+    "changeYtd": 5.016886425597766,
     "close1w": 6168.259765625,
     "closeYtd": 5796.22021484375,
     "high52": 6577.2,
@@ -433,7 +433,7 @@
     "dayHigh": 6192.11,
     "dayLow": 6084.11,
     "volume": null,
-    "asOf": "2026-10-22T17:29",
+    "asOf": "2026-10-22T18:00",
     "label": "Euro Stoxx 50"
    },
    {
@@ -442,13 +442,13 @@
     "type": "INDEX",
     "currency": "GBP",
     "exchange": "FTSE Index",
-    "price": 10723.7,
+    "price": 10725.03,
     "prevClose": 10752.900390625,
-    "change": -29.200390624999272,
-    "changePct": -0.27155827324930604,
-    "change1w": -1.076532106008965,
-    "change1m": 0.14381550379976016,
-    "changeYtd": 7.977722961637035,
+    "change": -27.870390624999345,
+    "changePct": -0.2591895173631342,
+    "change1w": -1.064263186485015,
+    "change1m": 0.15623577615166973,
+    "changeYtd": 7.991114829326262,
     "close1w": 10840.400390625,
     "closeYtd": 9931.400390625,
     "high52": 10989.5,
@@ -456,7 +456,7 @@
     "dayHigh": 10757.87,
     "dayLow": 10669.39,
     "volume": 0,
-    "asOf": "2026-10-22T16:29",
+    "asOf": "2026-10-22T16:35",
     "label": "FTSE 100 (UK)"
    },
    {
@@ -465,13 +465,13 @@
     "type": "INDEX",
     "currency": "EUR",
     "exchange": "XETRA",
-    "price": 25372.96,
+    "price": 25371.75,
     "prevClose": 25645.0390625,
-    "change": -272.0790625000009,
-    "changePct": -1.060942281417132,
-    "change1w": -0.03805415261319833,
-    "change1m": -0.804921302244721,
-    "changeYtd": 3.60365481067606,
+    "change": -273.2890625,
+    "changePct": -1.0656605428986166,
+    "change1w": -0.042821194159603504,
+    "change1m": -0.8096517729987984,
+    "changeYtd": 3.5987141012625345,
     "close1w": 25382.619140625,
     "closeYtd": 24490.41015625,
     "high52": 26618.74,
@@ -479,7 +479,7 @@
     "dayHigh": 25563.13,
     "dayLow": 25318.18,
     "volume": 0,
-    "asOf": "2026-10-22T17:29",
+    "asOf": "2026-10-22T18:00",
     "label": "DAX (Germany)"
    },
    {
@@ -488,13 +488,13 @@
     "type": "INDEX",
     "currency": "EUR",
     "exchange": "Paris",
-    "price": 7807.65,
+    "price": 7811.26,
     "prevClose": 7921.68017578125,
-    "change": -114.03017578125036,
-    "changePct": -1.4394695727539153,
-    "change1w": -1.6011971742493358,
-    "change1m": -4.258295304257365,
-    "changeYtd": -4.194735873366473,
+    "change": -110.42017578124978,
+    "changePct": -1.393898432290086,
+    "change1w": -1.555700811297489,
+    "change1m": -4.2140274958961115,
+    "changeYtd": -4.150438677219459,
     "close1w": 7934.7001953125,
     "closeYtd": 8149.5,
     "high52": 8755.03,
@@ -502,7 +502,7 @@
     "dayHigh": 7859.66,
     "dayLow": 7791.63,
     "volume": 0,
-    "asOf": "2026-10-22T17:29",
+    "asOf": "2026-10-22T18:05",
     "label": "CAC 40 (France)"
    },
    {
@@ -511,13 +511,13 @@
     "type": "INDEX",
     "currency": "EUR",
     "exchange": "Milan",
-    "price": 48389.59,
+    "price": 48383.66,
     "prevClose": 49644.0,
-    "change": -1254.4100000000035,
-    "changePct": -2.5268108935621703,
-    "change1w": -2.0413984371836946,
-    "change1m": -7.114576934889438,
-    "changeYtd": 7.664011569696294,
+    "change": -1260.3399999999965,
+    "changePct": -2.5387559423092343,
+    "change1w": -2.053402971780227,
+    "change1m": -7.125959766584755,
+    "changeYtd": 7.65081766603628,
     "close1w": 49398.0,
     "closeYtd": 44945.0,
     "high52": 54042.0,
@@ -525,7 +525,7 @@
     "dayHigh": 49235.84,
     "dayLow": 48363.35,
     "volume": 0,
-    "asOf": "2026-10-22T17:29",
+    "asOf": "2026-10-22T17:35",
     "label": "FTSE MIB (Italy)"
    },
    {
@@ -534,13 +534,13 @@
     "type": "INDEX",
     "currency": "CHF",
     "exchange": "Swiss",
-    "price": 14557.91,
+    "price": 14547.97,
     "prevClose": 14552.3896484375,
-    "change": 5.5203515624998545,
-    "changePct": 0.03793433034617877,
-    "change1w": 1.4523160566379367,
-    "change1m": 4.332426505628284,
-    "changeYtd": 9.726259136310444,
+    "change": -4.419648437500655,
+    "changePct": -0.030370602658891244,
+    "change1w": 1.3830453974840395,
+    "change1m": 4.261189334944726,
+    "changeYtd": 9.651339108929102,
     "close1w": 14349.509765625,
     "closeYtd": 13267.48046875,
     "high52": 14669.51,
@@ -548,7 +548,7 @@
     "dayHigh": 14590.26,
     "dayLow": 14479.29,
     "volume": 0,
-    "asOf": "2026-10-22T17:29",
+    "asOf": "2026-10-22T17:30",
     "label": "SMI (Switzerland)"
    }
   ],
@@ -583,13 +583,13 @@
     "currency": "HKD",
     "exchange": "HKSE",
     "price": 22934.68,
-    "prevClose": 23651.869140625,
-    "change": -717.1891406249997,
-    "changePct": -3.032272571613115,
-    "change1w": -4.687918365683819,
-    "change1m": -8.5821566302279,
+    "prevClose": 23867.740234375,
+    "change": -933.0602343749997,
+    "changePct": -3.9092944083209846,
+    "change1w": -5.673604841569768,
+    "change1m": -8.417742562940123,
     "changeYtd": -10.518152021407568,
-    "close1w": 24062.720703125,
+    "close1w": 24314.169921875,
     "closeYtd": 25630.5390625,
     "high52": 28056.1,
     "low52": 22518.0,
@@ -606,13 +606,13 @@
     "currency": "CNY",
     "exchange": "Shanghai",
     "price": 3658.026,
-    "prevClose": 3713.028076171875,
-    "change": -55.00207617187516,
-    "changePct": -1.481326697334917,
-    "change1w": -1.3337934818411612,
-    "change1m": -7.441609556165229,
+    "prevClose": 3735.3701171875,
+    "change": -77.34411718750016,
+    "changePct": -2.070587780086852,
+    "change1w": -2.8987116865866636,
+    "change1m": -7.389565975118462,
     "changeYtd": -7.8313583063967185,
-    "close1w": 3707.47607421875,
+    "close1w": 3767.22705078125,
     "closeYtd": 3968.840087890625,
     "high52": 4258.863,
     "low52": 3649.865,
@@ -638,10 +638,10 @@
     "close1w": 6008.81005859375,
     "closeYtd": 4214.169921875,
     "high52": 9385.59,
-    "low52": 3822.33,
-    "dayHigh": 5740.28,
-    "dayLow": 5485.98,
-    "volume": 217476,
+    "low52": 0.0,
+    "dayHigh": 0.0,
+    "dayLow": 0.0,
+    "volume": 0,
     "asOf": "2026-10-22T20:05",
     "label": "KOSPI (Korea)"
    },
@@ -652,13 +652,13 @@
     "currency": "TWD",
     "exchange": "Taiwan",
     "price": 46041.43,
-    "prevClose": 46887.76953125,
-    "change": -846.3395312499997,
-    "changePct": -1.8050326123658422,
-    "change1w": -1.9766737104661591,
-    "change1m": -3.679363077603992,
+    "prevClose": 46292.9296875,
+    "change": -251.4996874999997,
+    "changePct": -0.5432788315575365,
+    "change1w": -5.314867066852658,
+    "change1m": -3.5151941020412303,
     "changeYtd": 58.96307993809309,
-    "close1w": 46969.87109375,
+    "close1w": 48625.828125,
     "closeYtd": 28963.599609375,
     "high52": 49968.92,
     "low52": 26395.98,
@@ -675,13 +675,13 @@
     "currency": "INR",
     "exchange": "BSE",
     "price": 73249.39,
-    "prevClose": 73709.6875,
-    "change": -460.2975000000006,
-    "changePct": -0.6244735469811857,
-    "change1w": -1.4347179333749516,
-    "change1m": -1.7170320057544708,
+    "prevClose": 73852.8984375,
+    "change": -603.5084375000006,
+    "changePct": -0.8171763739384441,
+    "change1w": 0.6423292538644487,
+    "change1m": -2.1501788101400243,
     "changeYtd": -14.047321120727396,
-    "close1w": 74315.609375,
+    "close1w": 72781.890625,
     "closeYtd": 85220.6015625,
     "high52": 86159.02,
     "low52": 71292.88,
@@ -722,21 +722,21 @@
     "type": "INDEX",
     "currency": "CAD",
     "exchange": "Toronto",
-    "price": 35896.72,
+    "price": 35973.45,
     "prevClose": 36325.0,
-    "change": -428.27999999999884,
-    "changePct": -1.1790227116311058,
-    "change1w": -0.6651932559789131,
-    "change1m": -1.207855501566668,
-    "changeYtd": 13.193155809888978,
+    "change": -351.5500000000029,
+    "changePct": -0.9677907777013162,
+    "change1w": -0.4528630006946255,
+    "change1m": -0.996685198336611,
+    "changeYtd": 13.435108580094512,
     "close1w": 36137.1015625,
     "closeYtd": 31712.80078125,
     "high52": 37069.1,
     "low52": 29530.9,
     "dayHigh": 36161.69,
     "dayLow": 35806.38,
-    "volume": 85780131,
-    "asOf": "2026-10-22T11:44",
+    "volume": 293495210,
+    "asOf": "2026-10-22T16:20",
     "label": "S&P/TSX (Canada)"
    },
    {
@@ -745,21 +745,21 @@
     "type": "INDEX",
     "currency": "BRL",
     "exchange": "São Paulo",
-    "price": 203304.11,
+    "price": 204120.12,
     "prevClose": 206495.0,
-    "change": -3190.890000000014,
-    "changePct": -1.5452625971573264,
-    "change1w": -0.49915330553435,
-    "change1m": 8.473405078352169,
-    "changeYtd": 26.17788052754073,
+    "change": -2374.8800000000047,
+    "changePct": -1.1500908012300526,
+    "change1w": -0.09978269806777407,
+    "change1m": 8.90878920943534,
+    "changeYtd": 26.684325833979816,
     "close1w": 204324.0,
     "closeYtd": 161125.0,
     "high52": 209714.0,
     "low52": 144881.0,
     "dayHigh": 206493.11,
-    "dayLow": 203258.75,
+    "dayLow": 203051.88,
     "volume": 0,
-    "asOf": "2026-10-22T12:29",
+    "asOf": "2026-10-22T17:16",
     "label": "Bovespa (Brazil)"
    },
    {
@@ -768,21 +768,21 @@
     "type": "INDEX",
     "currency": "MXN",
     "exchange": "Mexico",
-    "price": 69314.13,
+    "price": 69889.73,
     "prevClose": 70249.5390625,
-    "change": -935.4090624999953,
-    "changePct": -1.331551886294624,
-    "change1w": 2.439788192937442,
-    "change1m": 7.536142026789228,
-    "changeYtd": 7.784130180535387,
+    "change": -359.8090625000041,
+    "changePct": -0.5121870795193217,
+    "change1w": 3.2904710491437283,
+    "change1m": 8.429146142264955,
+    "changeYtd": 8.679193644967764,
     "close1w": 67663.2890625,
     "closeYtd": 64308.2890625,
     "high52": 72111.41,
     "low52": 60983.56,
     "dayHigh": 70073.98,
     "dayLow": 69150.2,
-    "volume": 27521641,
-    "asOf": "2026-10-22T09:24",
+    "volume": 159837629,
+    "asOf": "2026-10-22T14:26",
     "label": "IPC (Mexico)"
    }
   ],
@@ -793,21 +793,21 @@
     "type": "INDEX",
     "currency": "USD",
     "exchange": "Cboe Indices",
-    "price": 4.03,
+    "price": 4.022,
     "prevClose": 4.063000202178955,
-    "change": -0.03300020217895483,
-    "changePct": -0.8122126639633742,
-    "change1w": -1.4187823692019097,
-    "change1m": 0.6242168500554923,
-    "changeYtd": 13.617143445579405,
+    "change": -0.04100020217895484,
+    "changePct": -1.0091114973847848,
+    "change1w": -1.6144770940273223,
+    "change1m": 0.4244665436534012,
+    "changeYtd": 13.391600729062114,
     "close1w": 4.0879998207092285,
     "closeYtd": 3.546999931335449,
     "high52": 4.147,
     "low52": 3.507,
     "dayHigh": 4.045,
-    "dayLow": 4.03,
+    "dayLow": 4.013,
     "volume": 0,
-    "asOf": "2026-10-22T10:29",
+    "asOf": "2026-10-22T13:59",
     "label": "US 3-Month"
    },
    {
@@ -816,21 +816,21 @@
     "type": "INDEX",
     "currency": "USD",
     "exchange": "Cboe Indices",
-    "price": 4.832,
+    "price": 4.768,
     "prevClose": 4.9720001220703125,
-    "change": -0.14000012207031265,
-    "changePct": -2.8157706885175493,
-    "change1w": -1.3676294254166055,
-    "change1m": -0.2065263860726585,
-    "changeYtd": 29.822680038861836,
+    "change": -0.2040001220703127,
+    "changePct": -4.102979023768971,
+    "change1w": -2.674018439649495,
+    "change1m": -1.528294248508777,
+    "changeYtd": 28.103174342982882,
     "close1w": 4.89900016784668,
     "closeYtd": 3.7219998836517334,
     "high52": 5.153,
     "low52": 3.507,
     "dayHigh": 4.877,
-    "dayLow": 4.821,
+    "dayLow": 4.746,
     "volume": 0,
-    "asOf": "2026-10-22T10:29",
+    "asOf": "2026-10-22T13:59",
     "label": "US 5-Year"
    },
    {
@@ -839,21 +839,21 @@
     "type": "INDEX",
     "currency": "USD",
     "exchange": "Cboe Indices",
-    "price": 5.011,
+    "price": 4.953,
     "prevClose": 5.145999908447266,
-    "change": -0.1349999084472655,
-    "changePct": -2.6233950806268114,
-    "change1w": -1.5327219810863602,
-    "change1m": 0.8655407691456452,
-    "changeYtd": 20.36992244609781,
+    "change": -0.19299990844726533,
+    "changePct": -3.750484101844853,
+    "change1w": -2.672435037381904,
+    "change1m": -0.3019310657396912,
+    "changeYtd": 18.976696442930052,
     "close1w": 5.089000225067139,
     "closeYtd": 4.163000106811523,
     "high52": 5.364,
     "low52": 3.956,
     "dayHigh": 5.054,
-    "dayLow": 5.005,
+    "dayLow": 4.939,
     "volume": 0,
-    "asOf": "2026-10-22T10:29",
+    "asOf": "2026-10-22T13:59",
     "label": "US 10-Year"
    },
    {
@@ -862,21 +862,21 @@
     "type": "INDEX",
     "currency": "USD",
     "exchange": "Cboe Indices",
-    "price": 5.33,
+    "price": 5.287,
     "prevClose": 5.439000129699707,
-    "change": -0.10900012969970696,
-    "changePct": -2.0040471980228625,
-    "change1w": -1.8235384532417576,
-    "change1m": 0.5091462726539264,
-    "changeYtd": 10.12396347033404,
+    "change": -0.1520001296997071,
+    "changePct": -2.794633684042569,
+    "change1w": -2.6155812011799617,
+    "change1m": -0.30171550778211875,
+    "changeYtd": 9.235533746276925,
     "close1w": 5.428999900817871,
     "closeYtd": 4.840000152587891,
     "high52": 5.732,
     "low52": 4.536,
     "dayHigh": 5.361,
-    "dayLow": 5.325,
+    "dayLow": 5.278,
     "volume": 0,
-    "asOf": "2026-10-22T10:29",
+    "asOf": "2026-10-22T13:59",
     "label": "US 30-Year"
    }
   ],
@@ -887,21 +887,21 @@
     "type": "FUTURE",
     "currency": "USD",
     "exchange": "NY Mercantile",
-    "price": 98.12,
+    "price": 99.1,
     "prevClose": 97.1500015258789,
-    "change": 0.9699984741210983,
-    "changePct": 0.9984544095583026,
-    "change1w": 0.1531068464100338,
-    "change1m": 3.7318995652559694,
-    "changeYtd": 70.88123150283666,
+    "change": 1.949998474121088,
+    "changePct": 2.007203750379394,
+    "change1w": 1.153413050134855,
+    "change1m": 4.76794992781151,
+    "changeYtd": 72.58795395363953,
     "close1w": 97.97000122070312,
     "closeYtd": 57.41999816894531,
     "high52": 119.48,
     "low52": 54.98,
-    "dayHigh": 100.09,
+    "dayHigh": 100.17,
     "dayLow": 97.72,
-    "volume": 180377,
-    "asOf": "2026-10-22T11:34",
+    "volume": 280425,
+    "asOf": "2026-10-22T16:59",
     "label": "WTI Crude"
    },
    {
@@ -910,21 +910,21 @@
     "type": "FUTURE",
     "currency": "USD",
     "exchange": "NY Mercantile",
-    "price": 110.99,
+    "price": 112.87,
     "prevClose": 108.81999969482422,
-    "change": 2.170000305175776,
-    "changePct": 1.9941190142081844,
-    "change1w": 4.7866332314015825,
-    "change1m": 11.828715365239283,
-    "changeYtd": 82.39934721970938,
+    "change": 4.050000305175786,
+    "changePct": 3.721742617656343,
+    "change1w": 6.561557733384071,
+    "change1m": 13.722921914357688,
+    "changeYtd": 85.48891180005947,
     "close1w": 105.91999816894531,
     "closeYtd": 60.849998474121094,
     "high52": 126.1,
     "low52": 58.72,
-    "dayHigh": 112.68,
+    "dayHigh": 113.49,
     "dayLow": 109.73,
-    "volume": 26514,
-    "asOf": "2026-10-22T11:34",
+    "volume": 36823,
+    "asOf": "2026-10-22T16:59",
     "label": "Brent Crude"
    },
    {
@@ -933,21 +933,21 @@
     "type": "FUTURE",
     "currency": "USD",
     "exchange": "NY Mercantile",
-    "price": 2.815,
+    "price": 2.777,
     "prevClose": 2.7899999618530273,
-    "change": 0.025000038146972603,
-    "changePct": 0.8960587271968468,
-    "change1w": -13.009890392291389,
-    "change1m": -5.059019174081025,
-    "changeYtd": -23.629953419117022,
+    "change": -0.012999961853027209,
+    "changePct": -0.4659484598843133,
+    "change1w": -14.184179616125459,
+    "change1m": -6.340638098196449,
+    "changeYtd": -24.660881223761255,
     "close1w": 3.2360000610351562,
     "closeYtd": 3.686000108718872,
     "high52": 7.827,
     "low52": 2.483,
-    "dayHigh": 2.828,
+    "dayHigh": 2.837,
     "dayLow": 2.726,
-    "volume": 95061,
-    "asOf": "2026-10-22T11:34",
+    "volume": 149841,
+    "asOf": "2026-10-22T16:59",
     "label": "Natural Gas"
    },
    {
@@ -956,21 +956,21 @@
     "type": "FUTURE",
     "currency": "USD",
     "exchange": "COMEX",
-    "price": 4068.8,
+    "price": 4039.8,
     "prevClose": 4150.0,
-    "change": -81.19999999999982,
-    "changePct": -1.956626506024095,
-    "change1w": -2.429200625500194,
-    "change1m": -7.028605913710417,
-    "changeYtd": -6.272605826418609,
+    "change": -110.19999999999982,
+    "changePct": -2.6554216867469838,
+    "change1w": -3.124627577392769,
+    "change1m": -7.6912510249231625,
+    "changeYtd": -6.940639259134363,
     "close1w": 4170.10009765625,
     "closeYtd": 4341.10009765625,
     "high52": 5586.2,
     "low52": 3901.3,
     "dayHigh": 4164.3,
-    "dayLow": 4059.7,
-    "volume": 158865,
-    "asOf": "2026-10-22T11:34",
+    "dayLow": 4036.8,
+    "volume": 202885,
+    "asOf": "2026-10-22T16:59",
     "label": "Gold"
    },
    {
@@ -979,21 +979,21 @@
     "type": "FUTURE",
     "currency": "USD",
     "exchange": "COMEX",
-    "price": 55.325,
+    "price": 54.63,
     "prevClose": 57.422000885009766,
-    "change": -2.097000885009763,
-    "changePct": -3.651911902563454,
-    "change1w": -2.6602420124891557,
-    "change1m": -16.087786407499603,
-    "changeYtd": -21.115296601485277,
+    "change": -2.792000885009763,
+    "changePct": -4.862249385215389,
+    "change1w": -3.883036984044874,
+    "change1m": -17.14190278249803,
+    "changeYtd": -22.106256725515415,
     "close1w": 56.83700180053711,
     "closeYtd": 70.13400268554688,
     "high52": 121.3,
     "low52": 45.845,
     "dayHigh": 58.105,
-    "dayLow": 55.08,
-    "volume": 43346,
-    "asOf": "2026-10-22T11:34",
+    "dayLow": 54.54,
+    "volume": 56544,
+    "asOf": "2026-10-22T16:59",
     "label": "Silver"
    },
    {
@@ -1002,21 +1002,21 @@
     "type": "FUTURE",
     "currency": "USD",
     "exchange": "COMEX",
-    "price": 6.4035,
+    "price": 6.3985,
     "prevClose": 6.543000221252441,
-    "change": -0.13950022125244121,
-    "changePct": -2.1320528279875073,
-    "change1w": -1.658602222310912,
-    "change1m": -5.266662109572162,
-    "changeYtd": 13.738896444692061,
+    "change": -0.1445002212524411,
+    "changePct": -2.2084703708718734,
+    "change1w": -1.735389446311597,
+    "change1m": -5.340632077472862,
+    "changeYtd": 13.650086499783276,
     "close1w": 6.511499881744385,
     "closeYtd": 5.630000114440918,
     "high52": 6.83,
     "low52": 4.9195,
     "dayHigh": 6.5845,
-    "dayLow": 6.389,
-    "volume": 50629,
-    "asOf": "2026-10-22T11:34",
+    "dayLow": 6.381,
+    "volume": 67477,
+    "asOf": "2026-10-22T16:59",
     "label": "Copper"
    }
   ],
@@ -1027,21 +1027,21 @@
     "type": "INDEX",
     "currency": "USD",
     "exchange": "ICE Futures",
-    "price": 101.8,
+    "price": 101.634,
     "prevClose": 101.77999877929688,
-    "change": 0.020001220703122158,
-    "changePct": 0.019651425567901448,
-    "change1w": -0.19607843137254832,
-    "change1m": 1.19284447721697,
-    "changeYtd": 3.581604868156174,
+    "change": -0.14599877929687466,
+    "changePct": -0.14344545200227765,
+    "change1w": -0.358823529411767,
+    "change1m": 1.0278345343562867,
+    "changeYtd": 3.4126996971530987,
     "close1w": 102.0,
     "closeYtd": 98.27999877929688,
     "high52": 102.95,
     "low52": 95.55,
     "dayHigh": 101.883,
     "dayLow": 101.446,
-    "volume": null,
-    "asOf": "2026-10-22T11:34",
+    "volume": 0,
+    "asOf": "2026-10-22T17:10",
     "label": "US Dollar Index"
    },
    {
@@ -1050,13 +1050,13 @@
     "type": "CURRENCY",
     "currency": "USD",
     "exchange": "CCY",
-    "price": 1.1211,
+    "price": 1.1225,
     "prevClose": 1.122674584388733,
-    "change": -0.0015745843887329247,
-    "changePct": -0.1402529647173134,
-    "change1w": 0.14225613609637477,
-    "change1m": -2.212051724794084,
-    "changeYtd": -4.565241652335428,
+    "change": -0.00017458438873285687,
+    "changePct": -0.015550756306459412,
+    "change1w": 0.2673111343931778,
+    "change1m": -2.0899367238260247,
+    "changeYtd": -4.446065252650522,
     "close1w": 1.1195074319839478,
     "closeYtd": 1.1747292280197144,
     "high52": 1.2024,
@@ -1064,7 +1064,7 @@
     "dayHigh": 1.1257,
     "dayLow": 1.1193,
     "volume": 0,
-    "asOf": "2026-10-22T16:44",
+    "asOf": "2026-10-22T22:20",
     "label": "EUR/USD"
    },
    {
@@ -1073,13 +1073,13 @@
     "type": "CURRENCY",
     "currency": "USD",
     "exchange": "CCY",
-    "price": 1.3374,
+    "price": 1.339,
     "prevClose": 1.337327480316162,
-    "change": 7.251968383781282e-05,
-    "changePct": 0.005422731896653765,
-    "change1w": 1.0873822849812864,
-    "change1m": 0.02321027723795055,
-    "changeYtd": -0.6920327616706023,
+    "change": 0.0016725196838378587,
+    "changePct": 0.12506433229371172,
+    "change1w": 1.208318288911281,
+    "change1m": 0.142873157784984,
+    "changeYtd": -0.5732255629407379,
     "close1w": 1.3230137825012207,
     "closeYtd": 1.346719741821289,
     "high52": 1.3847,
@@ -1087,7 +1087,7 @@
     "dayHigh": 1.3418,
     "dayLow": 1.3356,
     "volume": 0,
-    "asOf": "2026-10-22T16:44",
+    "asOf": "2026-10-22T22:20",
     "label": "GBP/USD"
    },
    {
@@ -1096,13 +1096,13 @@
     "type": "CURRENCY",
     "currency": "JPY",
     "exchange": "CCY",
-    "price": 157.11,
+    "price": 156.761,
     "prevClose": 158.26800537109375,
-    "change": -1.1580053710937364,
-    "changePct": -0.7316737001761942,
-    "change1w": -0.5362223443686864,
-    "change1m": -0.16458342524507952,
-    "changeYtd": 0.44561874029456217,
+    "change": -1.5070053710937543,
+    "changePct": -0.9521857355567542,
+    "change1w": -0.7571685502232972,
+    "change1m": -0.38635517996845614,
+    "changeYtd": 0.22249149861444106,
     "close1w": 157.95700073242188,
     "closeYtd": 156.41299438476562,
     "high52": 163.979,
@@ -1110,7 +1110,7 @@
     "dayHigh": 158.254,
     "dayLow": 156.681,
     "volume": 0,
-    "asOf": "2026-10-22T16:44",
+    "asOf": "2026-10-22T22:20",
     "label": "USD/JPY"
    },
    {
@@ -1119,13 +1119,13 @@
     "type": "CURRENCY",
     "currency": "CNY",
     "exchange": "CCY",
-    "price": 6.664,
+    "price": 6.674,
     "prevClose": 6.6778998374938965,
-    "change": -0.013899837493896783,
-    "changePct": -0.20814684005672213,
-    "change1w": -0.4273342852597284,
-    "change1m": -0.46749364115050707,
-    "changeYtd": -4.746929736703908,
+    "change": -0.003899837493896108,
+    "changePct": -0.05839916124528166,
+    "change1w": -0.2779155191811711,
+    "change1m": -0.3181351382110509,
+    "changeYtd": -4.6039929565969135,
     "close1w": 6.692599773406982,
     "closeYtd": 6.996099948883057,
     "high52": 7.1909,
@@ -1133,7 +1133,7 @@
     "dayHigh": 6.6761,
     "dayLow": 6.6618,
     "volume": 0,
-    "asOf": "2026-10-22T16:44",
+    "asOf": "2026-10-22T22:04",
     "label": "USD/CNY"
    },
    {
@@ -1142,21 +1142,21 @@
     "type": "CURRENCY",
     "currency": "CAD",
     "exchange": "CCY",
-    "price": 1.4024,
+    "price": 1.4005,
     "prevClose": 1.4066200256347656,
-    "change": -0.004220025634765534,
-    "changePct": -0.30001176990646083,
-    "change1w": -1.328381887079455,
-    "change1m": -0.06271162902199423,
-    "changeYtd": 2.40457985399829,
+    "change": -0.006120025634765547,
+    "changePct": -0.4350873386722687,
+    "change1w": -1.462064199126345,
+    "change1m": -0.19810869683778431,
+    "changeYtd": 2.2658400495754405,
     "close1w": 1.421280026435852,
     "closeYtd": 1.3694700002670288,
     "high52": 1.4299,
     "low52": 1.3484,
     "dayHigh": 1.4049,
-    "dayLow": 1.401,
+    "dayLow": 1.4,
     "volume": 0,
-    "asOf": "2026-10-22T16:44",
+    "asOf": "2026-10-22T22:20",
     "label": "USD/CAD"
    }
   ],
@@ -1167,21 +1167,21 @@
     "type": "CRYPTOCURRENCY",
     "currency": "USD",
     "exchange": "CCC",
-    "price": 81423.34,
+    "price": 81406.6,
     "prevClose": 84011.96875,
-    "change": -2588.6287500000035,
-    "changePct": -3.0812618588943685,
-    "change1w": -0.8742490446406959,
-    "change1m": -5.5109847170258135,
-    "changeYtd": -6.954141948178449,
+    "change": -2605.368749999994,
+    "changePct": -3.101187591202581,
+    "change1w": -0.8946285214711969,
+    "change1m": -5.530410917373729,
+    "changeYtd": -6.973271446720098,
     "close1w": 82141.4609375,
     "closeYtd": 87508.828125,
     "high52": 116273.31,
     "low52": 57747.766,
     "dayHigh": 84280.19,
-    "dayLow": 81359.08,
-    "volume": 35447853056,
-    "asOf": "2026-10-22T15:44",
+    "dayLow": 80948.71,
+    "volume": 34256097280,
+    "asOf": "2026-10-22T21:20",
     "label": "Bitcoin"
    },
    {
@@ -1190,21 +1190,21 @@
     "type": "CRYPTOCURRENCY",
     "currency": "USD",
     "exchange": "CCC",
-    "price": 2391.27,
+    "price": 2392.88,
     "prevClose": 2470.76611328125,
-    "change": -79.49611328125002,
-    "changePct": -3.2174681712659914,
-    "change1w": -2.0164058243697713,
-    "change1m": -13.127889734108411,
-    "changeYtd": -19.405470227646116,
+    "change": -77.88611328124989,
+    "changePct": -3.1523061961463816,
+    "change1w": -1.9504351951130205,
+    "change1m": -13.06940027138438,
+    "changeYtd": -19.351207349370757,
     "close1w": 2440.47998046875,
     "closeYtd": 2967.03759765625,
     "high52": 4250.67,
     "low52": 1506.5057,
     "dayHigh": 2479.283,
-    "dayLow": 2390.1877,
-    "volume": 12054476800,
-    "asOf": "2026-10-22T15:44",
+    "dayLow": 2366.1619,
+    "volume": 12477069312,
+    "asOf": "2026-10-22T21:20",
     "label": "Ether"
    }
   ]
@@ -1218,7 +1218,7 @@
      "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
      "source": "CNBC",
      "summary": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
-     "published": "2026-10-22T14:28+00:00"
+     "published": "2026-10-22T16:40+00:00"
     },
     {
      "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
@@ -1275,60 +1275,60 @@
    "topic": "Global",
    "items": [
     {
+     "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
+     "link": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
+     "source": "CNBC",
+     "summary": "Elon Musk, a critic of Ukrainian President Volodymyr Zelenskyy, had ordered the slowdown of SpaceX's Starlink, The Wall Street Journal previously reported.",
+     "published": "2026-10-22T21:02+00:00"
+    },
+    {
+     "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+     "link": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
+     "source": "CNBC",
+     "summary": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
+     "published": "2026-10-22T20:47+00:00"
+    },
+    {
+     "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+     "link": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+     "source": "CNBC",
+     "summary": "OpenAI is close to finalizing a new funding round that is meant to be a bridge to its 2027 IPO, sources familiar with the matter tell CNBC.",
+     "published": "2026-10-22T20:41+00:00"
+    },
+    {
      "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
      "link": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
      "source": "CNBC",
-     "summary": "CoreWeave shares are down 35% in October, and the spreads in its credit default swaps are widening.",
-     "published": "2026-10-22T15:35+00:00"
+     "summary": "CoreWeave shares are down 36% in October, and the spreads in its credit default swaps are widening.",
+     "published": "2026-10-22T20:12+00:00"
     },
     {
-     "title": "Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot",
-     "link": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+     "title": "Meta stock sinks nearly 7% as AI spend pushes free cash flow negative",
+     "link": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
      "source": "CNBC",
-     "summary": "OpenAI CEO Sam Altman pledged to grant independent evaluators \"employee-like access\" to the company to help address mounting safety concerns.",
-     "published": "2026-10-22T15:35+00:00"
+     "summary": "Prices for the social media giant's five-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
+     "published": "2026-10-22T20:03+00:00"
     },
     {
-     "title": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
-     "link": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html",
+     "title": "Elon Musk invests about $1 billion in Skydance",
+     "link": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
      "source": "CNBC",
-     "summary": "FIFA is formally auctioning its U.S. media rights and wants bids by Nov. 19.",
-     "published": "2026-10-22T15:34+00:00"
+     "summary": "David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.",
+     "published": "2026-10-22T19:34+00:00"
     },
     {
-     "title": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
-     "link": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
+     "title": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran",
+     "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
      "source": "CNBC",
-     "summary": "Iran is going to grow more desperate as oil money dries up, which makes the country even more dangerous.",
-     "published": "2026-10-22T15:16+00:00"
+     "summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
+     "published": "2026-10-22T19:19+00:00"
     },
     {
-     "title": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
-     "link": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
+     "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+     "link": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
      "source": "CNBC",
-     "summary": "CNBC got a tour of the Regent Suite, a top-of-the-line offering on Regent's Seven Seas Splendor that goes for $15,000 a night.",
-     "published": "2026-10-22T15:16+00:00"
-    },
-    {
-     "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-     "link": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
-     "source": "CNBC",
-     "summary": "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
-     "published": "2026-10-22T15:08+00:00"
-    },
-    {
-     "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
-     "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
-     "source": "CNBC",
-     "summary": "France is facing a mounting economic crisis that pushed its 10-year government bond yield to a new 24-year high on Thursday.",
-     "published": "2026-10-22T14:21+00:00"
-    },
-    {
-     "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-     "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-     "source": "CNBC",
-     "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
-     "published": "2026-10-22T13:18+00:00"
+     "summary": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
+     "published": "2026-10-22T19:09+00:00"
     }
    ]
   },
@@ -1336,60 +1336,60 @@
    "topic": "Markets",
    "items": [
     {
-     "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
-     "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+     "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
+     "link": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "summary": "Investors are spooked by Tesla’s cut to its near-term spending target and Lam Research’s weaker-than-expected forecast,",
-     "published": "2026-10-22T15:33+00:00"
+     "summary": "Wall Street may be starting to price in the scenario everyone fears: a full-scale regional conflict that could further choke off global energy supplies and unleash a fresh wave of turmoil across financial markets.",
+     "published": "2026-10-22T20:46+00:00"
     },
     {
-     "title": "Investors’ recent money moves show a preference for lowering risks over boosting rewards",
-     "link": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
+     "title": "Moderna’s cancer vaccine hits its targets, but a data leak rattled investors and the stock tumbled",
+     "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "summary": "Investors have been steadily pouring money into the Invesco S&P 500 Quality ETF this year.",
-     "published": "2026-10-22T15:10+00:00"
+     "summary": "A ‘sell-the-news reaction’? The experimental treatment helped prevent the return of cancer or death in melanoma patients by 42% after two years.",
+     "published": "2026-10-22T20:14+00:00"
     },
     {
-     "title": "Moderna has a plan to revolutionize how certain cancers are treated. We’re about to find out its potential in melanoma.",
-     "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+     "title": "Is getting a wedding band from Quince a bad idea? ‘It’s a third of the price.’",
+     "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "summary": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend.",
-     "published": "2026-10-22T15:03+00:00"
+     "summary": "“I am slightly anxious about purchasing something so big.”",
+     "published": "2026-10-22T19:25+00:00"
     },
     {
-     "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-     "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+     "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+     "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
-     "published": "2026-10-22T15:00+00:00"
+     "summary": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
+     "published": "2026-10-22T17:29+00:00"
     },
     {
-     "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-     "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+     "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+     "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
-     "published": "2026-10-22T14:30+00:00"
+     "summary": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
+     "published": "2026-10-22T17:24+00:00"
     },
     {
-     "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
-     "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+     "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
+     "link": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "summary": "“Nothing has been set aside for his needs.”",
-     "published": "2026-10-22T14:15+00:00"
+     "summary": "Beth Kobliner, author of “Get a Financial Life,” explains why today’s young people face a tougher financial world and reveals the three money moves she would make first.",
+     "published": "2026-10-22T17:21+00:00"
     },
     {
-     "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
-     "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
+     "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
+     "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "summary": "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect",
-     "published": "2026-10-22T14:00+00:00"
+     "summary": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets.",
+     "published": "2026-10-22T17:16+00:00"
     },
     {
-     "title": "The 3 questions every AI investor needs to ask right now",
-     "link": "https://www.marketwatch.com/story/the-3-questions-every-ai-investor-needs-to-ask-right-now-2d9399b9?mod=mw_rss_topstories",
+     "title": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
+     "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "summary": "Your stock portfolio may have more AI overlap than you realize.",
-     "published": "2026-10-22T13:21+00:00"
+     "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things",
+     "published": "2026-10-22T16:48+00:00"
     }
    ]
   },
@@ -1789,21 +1789,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 213.225,
+   "price": 212.21,
    "prevClose": 221.97000122070312,
-   "change": -8.74500122070313,
-   "changePct": -3.9397221122722925,
-   "change1w": -1.8436660711269037,
-   "change1m": -6.835756303126084,
-   "changeYtd": 14.32975871313673,
+   "change": -9.760001220703117,
+   "changePct": -4.396991110072945,
+   "change1w": -2.310912777365881,
+   "change1m": -7.279239512657454,
+   "changeYtd": 13.785522788203753,
    "close1w": 217.22999572753906,
    "closeYtd": 186.5,
    "high52": 243.37,
    "low52": 164.27,
    "dayHigh": 218.88,
-   "dayLow": 212.561,
-   "volume": 47086114,
-   "asOf": "2026-10-22T11:44",
+   "dayLow": 211.26,
+   "volume": 124361231,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     196.51,
     197.01,
@@ -1867,7 +1867,7 @@
     217.09,
     216.47,
     221.97,
-    213.225
+    212.21
    ],
    "consensus": {
     "rating": "Buy",
@@ -1884,36 +1884,36 @@
      "sell": 1,
      "strongSell": 0
     },
-    "upsidePct": 54.164356899988285
+    "upsidePct": 54.901724706658484
    },
    "news": [
     {
-     "title": "Tech stocks fall as Nvidia boss warns of AI funding slowdown",
-     "link": "https://uk.finance.yahoo.com/news/tech-stocks-fall-nvidia-boss-152634389.html?.tsrc=rss",
+     "title": "Great News for AbbVie Stock Investors",
+     "link": "https://www.fool.com/investing/2026/10/22/great-news-for-abbvie-stock-investors/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "US stocks fell sharply after the boss of Nvidia warned of an AI funding crunch and spending plans from Meta and Tesla spooked investors.",
-     "published": "2026-10-22T15:26+00:00"
+     "summary": "The company is gearing up for future major patent cliffs.",
+     "published": "2026-10-22T21:09+00:00"
     },
     {
-     "title": "TeraFab's $16.8 billion bet to start producing 100K chips a month",
-     "link": "https://finance.yahoo.com/video/terafabs-168-billion-bet-to-start-producing-100k-chips-a-month-152024748.html?.tsrc=rss",
+     "title": "Is IonQ a Millionaire-Maker Stock?",
+     "link": "https://www.fool.com/investing/2026/10/22/is-ionq-a-millionaire-maker-stock/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "In the Loop host Ejaaz Ahamadeen comments on Elon Musk's proposed $16.8 billion investment into his TeraFab semiconductor manufacturing project.",
-     "published": "2026-10-22T15:20+00:00"
+     "summary": "The expected evolution of quantum computing gives the company massive upside potential.",
+     "published": "2026-10-22T21:04+00:00"
     },
     {
-     "title": "If a Stock Market Crash Is Coming, History Says Investors Who Do This 1 Thing Always Win Out",
-     "link": "https://www.fool.com/investing/2026/10/22/if-a-stock-market-crash-is-coming-history-says-inv/?.tsrc=rss",
+     "title": "Dover Corporation Q3 2026 Earnings Call Summary",
+     "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-dover-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "It's simpler than you might think to protect your investments against a market crash.",
-     "published": "2026-10-22T15:20+00:00"
+     "summary": "Moby summary of Dover Corporation's Q3 2026 earnings call",
+     "published": "2026-10-22T21:03+00:00"
     },
     {
-     "title": "Elon Musk Predicts SpaceX Could Reach $1 Trillion in Annual Revenue Run Rate by Year-End 2027. Here's What Needs to Happen.",
-     "link": "https://www.fool.com/investing/2026/10/22/elon-musks-1-trillion-spacex-prediction-sounds-rid/?.tsrc=rss",
+     "title": "The S&P 500 Is Just Shy of a Record With 10 Weeks Left in the Year. Here's What History Says Could Happen Next.",
+     "link": "https://www.fool.com/investing/2026/10/22/the-s-and-p-500-is-just-shy-of-a-record-with-10-weeks-left-in-the-year-here-s-what-history-says-could-happen-next/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Elon Musk says Space Exploration Technologies could operate at $1 trillion revenue run rate by December 2027.",
-     "published": "2026-10-22T15:20+00:00"
+     "summary": "Sixteen times since 1928, the index stood this close to a high in late October. How did these years end?",
+     "published": "2026-10-22T21:03+00:00"
     }
    ]
   },
@@ -1923,21 +1923,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 382.43,
+   "price": 374.58,
    "prevClose": 386.4700012207031,
-   "change": -4.040001220703118,
-   "changePct": -1.045359590121453,
-   "change1w": 5.5153949409393555,
-   "change1m": 0.9316458591656751,
-   "changeYtd": -14.962643653396256,
+   "change": -11.890001220703141,
+   "changePct": -3.07656511065475,
+   "change1w": 3.349519224373232,
+   "change1m": -1.1401409253293915,
+   "changeYtd": -16.708174201001945,
    "close1w": 362.44000244140625,
    "closeYtd": 449.7200012207031,
    "high52": 498.83,
    "low52": 297.38,
    "dayHigh": 388.859,
    "dayLow": 373.71,
-   "volume": 28568130,
-   "asOf": "2026-10-22T11:44",
+   "volume": 51339690,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     309.22,
     307.44,
@@ -2001,7 +2001,7 @@
     368.06,
     373.71,
     386.47,
-    382.43
+    374.58
    ],
    "consensus": {
     "rating": "Buy",
@@ -2018,36 +2018,36 @@
      "sell": 2,
      "strongSell": 1
     },
-    "upsidePct": 4.9591140862380145
+    "upsidePct": 7.158721768380594
    },
    "news": [
     {
-     "title": "Musk: People Are “Buying FSD With a Car Attached.” There’s Only One Problem.",
-     "link": "https://www.tikr.com/blog/musk-people-are-buying-fsd-with-a-car-attached-theres-only-one-problem?ref=yahoofinance&.tsrc=rss",
+     "title": "Musk wants to merge SpaceX and Tesla: Here's what to know",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/musks-wants-merge-spacex-tesla-205406983.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Key TakeawaysTesla said 75% of its new North American deliveries in the third quarter came with an FSD subscription, up from 55% in the second quarter, and active subscriptions rose 67% to 1. 74 million.",
-     "published": "2026-10-22T15:26+00:00"
+     "summary": "Elon Musk said this week that SpaceX and Tesla have formed special committees to study a merger of his two biggest companies.Musk cautioned that a merger is not certain.",
+     "published": "2026-10-22T21:10+00:00"
     },
     {
-     "title": "Tech stocks fall as Nvidia boss warns of AI funding slowdown",
-     "link": "https://uk.finance.yahoo.com/news/tech-stocks-fall-nvidia-boss-152634389.html?.tsrc=rss",
+     "title": "Stock Market Today: Nasdaq Thrashed, Dow Up; Moderna, Meta Lead Sell-Off (Live Coverage)",
+     "link": "https://finance.yahoo.com/m/a6067e2b-5ce6-3182-915b-58daa8b6d0f9/stock-market-today%3A-nasdaq.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "US stocks fell sharply after the boss of Nvidia warned of an AI funding crunch and spending plans from Meta and Tesla spooked investors.",
-     "published": "2026-10-22T15:26+00:00"
+     "summary": "The Dow Jones index pulled out a small win Thursday but the Nasdaq was hit hard, with Meta sliding.",
+     "published": "2026-10-22T20:38+00:00"
     },
     {
-     "title": "TeraFab's $16.8 billion bet to start producing 100K chips a month",
-     "link": "https://finance.yahoo.com/video/terafabs-168-billion-bet-to-start-producing-100k-chips-a-month-152024748.html?.tsrc=rss",
+     "title": "Twist Bioscience Sinks 9%, Illumina Down 5% as AI and Genomics Stocks Slide",
+     "link": "https://www.tikr.com/blog/twist-bioscience-sinks-9-illumina-down-5-as-ai-and-genomics-stocks-slide?ref=yahoofinance&.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "In the Loop host Ejaaz Ahamadeen comments on Elon Musk's proposed $16.8 billion investment into his TeraFab semiconductor manufacturing project.",
-     "published": "2026-10-22T15:20+00:00"
+     "summary": "Key TakeawaysTwist Bioscience shares fell 9% today with no company news, as Illumina dropped 5% in a broad selloff in tech and AI stocks. Twist’s run since mid-September came from AI deals and an analyst’s AI call, so the stock now moves with how investors feel about AI.",
+     "published": "2026-10-22T20:33+00:00"
     },
     {
-     "title": "Tesla’s Q3 profit falls 43% as operating costs rise",
-     "link": "https://www.just-auto.com/news/teslas-q3-profit-falls-43/?.tsrc=rss",
+     "title": "Global markets retreat as tech mood sours, oil prices jump",
+     "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-back-retreat-tech-024129180.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Total revenue was broadly unchanged at $28.05bn, compared with $28.10bn a year earlier.",
-     "published": "2026-10-22T15:16+00:00"
+     "summary": "Global equity markets mostly sank Thursday as tech firms resumed their downward spiral following a mixed bag of earnings from Wall Street titans, while sentiment was also soured by rising oil prices. - Asian chipmakers down - Asian tech stocks sank Thursday, dragging broader…",
+     "published": "2026-10-22T20:30+00:00"
     }
    ]
   },
@@ -2057,21 +2057,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 658.565,
+   "price": 648.85,
    "prevClose": 697.52001953125,
-   "change": -38.955019531249945,
-   "changePct": -5.5847887430426235,
-   "change1w": -10.60850442652368,
-   "change1m": -10.59394219010984,
-   "changeYtd": -0.2310331611482752,
+   "change": -48.67001953124998,
+   "changePct": -6.977580308584885,
+   "change1w": -11.927187289257535,
+   "change1m": -11.912839871619008,
+   "changeYtd": -1.702802102466816,
    "close1w": 736.719970703125,
    "closeYtd": 660.0900268554688,
    "high52": 779.82,
    "low52": 520.26,
    "dayHigh": 681.07,
-   "dayLow": 648.26,
-   "volume": 20644724,
-   "asOf": "2026-10-22T11:44",
+   "dayLow": 639.69,
+   "volume": 40426518,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     593.87,
     593.41,
@@ -2135,7 +2135,7 @@
     705.44,
     694.25,
     697.52,
-    658.565
+    648.85
    ],
    "consensus": {
     "rating": "Buy",
@@ -2152,36 +2152,36 @@
      "sell": 1,
      "strongSell": 0
     },
-    "upsidePct": 26.507345516387893
+    "upsidePct": 28.401494952608463
    },
    "news": [
     {
-     "title": "Tech stocks fall as Nvidia boss warns of AI funding slowdown",
-     "link": "https://uk.finance.yahoo.com/news/tech-stocks-fall-nvidia-boss-152634389.html?.tsrc=rss",
+     "title": "Bill Ackman Says Meta Can Finance 'Whatever They Want,' Points to $82 Billion Cash",
+     "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62548583/meta-ai-spending-bill-ackman-cash?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "US stocks fell sharply after the boss of Nvidia warned of an AI funding crunch and spending plans from Meta and Tesla spooked investors.",
-     "published": "2026-10-22T15:26+00:00"
+     "summary": "Billionaire investor Bill Ackman says Meta Platforms Inc. (NASDAQ:META) has the financial firepower to fund its massive artificial intelligence ambitions, pointing to roughly $82 billion in cash and securities as investors punish the company over surging spending. “They’ve…",
+     "published": "2026-10-22T21:15+00:00"
     },
     {
-     "title": "Meta shares slide, but analysts see upside in Muse and advertising",
-     "link": "https://www.proactiveinvestors.com/companies/news/1100569/meta-shares-slide-but-analysts-see-upside-in-muse-and-advertising-1100569.html?.tsrc=rss",
+     "title": "Aptos Labs and five blockchain groups ask SEC for clearer crypto rules",
+     "link": "https://www.thestreet.com/crypto/policy/aptos-labs-and-five-blockchain-groups-ask-sec-for-clearer-crypto-rules?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Meta Platforms Inc (NASDAQ:META, XETRA:FB2A, SIX:FB) is winning over Wall Street with a combination of resilient advertising growth and early traction for its Muse AI initiative, even as investors fret over the cost of its AI ambitions and send shares down almost 6%. Revenue…",
-     "published": "2026-10-22T15:24+00:00"
+     "summary": "Aptos Labs signs a joint letter urging the SEC to make its digital commodity classification part of formal rules.",
+     "published": "2026-10-22T21:05+00:00"
     },
     {
-     "title": "Meta Beat Expectations in the Last Quarter. Its Stock is Plunging Anyway.",
-     "link": "https://www.ibtimes.com/meta-beat-expectations-last-quarter-its-stock-plunging-anyway-3808864?.tsrc=rss",
+     "title": "Mark Zuckerberg threatened to leave California over its 5% wealth tax — so Meta created a new stock class to keep him",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-threatened-leave-california-210000965.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Revenue reached $64.60 billion for the quarter ended September 30, up 26% from a year earlier.",
-     "published": "2026-10-22T15:18+00:00"
+     "summary": "Meta sweetened the deal for its billionaire boss as California weighs a wealth tax that could cost Mark Zuckerberg billions.",
+     "published": "2026-10-22T21:00+00:00"
     },
     {
-     "title": "Meta stock drops more than 6% despite strong Q3 results, stock split",
-     "link": "https://finance.yahoo.com/technology/article/meta-stock-drops-more-than-6-despite-strong-q3-results-stock-split-151218152.html?.tsrc=rss",
+     "title": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
+     "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Meta stock fell more than 6% Thursday.",
-     "published": "2026-10-22T15:12+00:00"
+     "summary": "The S&P 500 and Nasdaq tumbled below 50-day lines as Meta led an AI stock rout. But the Warren Buffett market is thriving.",
+     "published": "2026-10-22T20:59+00:00"
     }
    ]
   },
@@ -2191,21 +2191,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 170.245,
+   "price": 168.81,
    "prevClose": 174.2899932861328,
-   "change": -4.044993286132808,
-   "changePct": -2.320840806673352,
-   "change1w": -4.43190716105234,
-   "change1m": 15.23283719376689,
-   "changeYtd": 5.761942417196164,
+   "change": -5.47999328613281,
+   "changePct": -3.144181248051503,
+   "change1w": -5.237453363430622,
+   "change1m": 14.26153629580773,
+   "changeYtd": 4.870471963622336,
    "close1w": 178.13999938964844,
    "closeYtd": 160.97000122070312,
    "high52": 182.19,
    "low52": 94.0,
    "dayHigh": 176.95,
-   "dayLow": 168.98,
-   "volume": 4291033,
-   "asOf": "2026-10-22T11:44",
+   "dayLow": 165.44,
+   "volume": 10735566,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     126.88,
     130.28,
@@ -2269,7 +2269,7 @@
     171.06,
     173.48,
     174.29,
-    170.245
+    168.81
    ],
    "consensus": {
     "rating": "Buy",
@@ -2286,9 +2286,16 @@
      "sell": 1,
      "strongSell": 0
     },
-    "upsidePct": 3.0867279508942858
+    "upsidePct": 3.963035365203482
    },
    "news": [
+    {
+     "title": "Shopify (SHOP) is an Incredible Growth Stock: 3 Reasons Why",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-shop-incredible-growth-stock-154502379.html?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "summary": "Shopify (SHOP) possesses solid growth attributes, which could help it handily outperform the market.",
+     "published": "2026-10-22T15:45+00:00"
+    },
     {
      "title": "Shopify Migration and Replatforming: Google Search Can Take One to Three Months to Settle",
      "link": "https://finance.yahoo.com/small-business/articles/shopify-migration-replatforming-google-search-143000297.html?.tsrc=rss",
@@ -2309,13 +2316,6 @@
      "source": "Yahoo Finance",
      "summary": "Rowan Street Capital, an investment management company, released its Q3 2026 investor letter. The letter can be downloaded here. After a challenging start to the year, the portfolio mounted a meaningful recovery, gaining 11% in Q3 to reduce its YTD decline to 12% as of…",
      "published": "2026-10-22T14:25+00:00"
-    },
-    {
-     "title": "What Will Decide PayPal Stock Over The Next Six Months?",
-     "link": "https://www.trefis.com/articles/619938/what-will-decide-paypal-stock-over-the-next-six-months/2026-10-22?.tsrc=rss",
-     "source": "Yahoo Finance",
-     "summary": "For questions about this article or underlying research, email help@trefis.com.",
-     "published": "2026-10-22T14:01+00:00"
     }
    ]
   },
@@ -2325,21 +2325,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 323.26,
+   "price": 320.76,
    "prevClose": 330.95001220703125,
-   "change": -7.690012207031259,
-   "changePct": -2.3236174417242905,
-   "change1w": -6.277000792159915,
-   "change1m": -6.9514416417316705,
-   "changeYtd": 3.01466302582285,
+   "change": -10.190012207031259,
+   "changePct": -3.0790185318551155,
+   "change1w": -7.001827550866835,
+   "change1m": -7.671052468606854,
+   "changeYtd": 2.217977207705668,
    "close1w": 344.9100036621094,
    "closeYtd": 313.79998779296875,
    "high52": 404.47,
    "low52": 252.768,
    "dayHigh": 327.7,
-   "dayLow": 322.47,
-   "volume": 6341824,
-   "asOf": "2026-10-22T11:44",
+   "dayLow": 318.45,
+   "volume": 21008650,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     326.57,
     332.6,
@@ -2403,7 +2403,7 @@
     340.16,
     336.4,
     330.95,
-    323.26
+    320.76
    ],
    "consensus": {
     "rating": "Buy",
@@ -2420,36 +2420,36 @@
      "sell": 0,
      "strongSell": 0
     },
-    "upsidePct": 30.592662253294556
+    "upsidePct": 31.61050006235191
    },
    "news": [
     {
-     "title": "Microsoft Stock Could Be Closer to Its Next Big Breakout Than Investors Think",
-     "link": "https://247wallst.com/investing/2026/10/22/microsoft-stock-could-be-closer-to-its-next-big-breakout-than-investors-think/?.tsrc=rss",
+     "title": "Roundtable CEO, Coinbase's D'Agostino discuss USDC \"forcing function\" partnership",
+     "link": "https://www.thestreet.com/crypto/innovation/roundtable-ceo-coinbases-dagostino-discuss-usdc-forcing-function-partnership?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Azure demand is outpacing supply, the commercial backlog just hit a staggering new level, and Wall Street has almost no sellers on record. Whether that setup translates into a real breakout depends on one factor most investors are overlooking.",
-     "published": "2026-10-22T15:30+00:00"
+     "summary": "Roundtable CEO James Heckman and Coinbase Head of Institutional Strategy John D’Agostino told The Block’s that real-time USDC settlement is the forcing function set to drag mainstream media on-chain, paying reporters in minutes instead of months. Their pitch to publishers is…",
+     "published": "2026-10-22T20:39+00:00"
     },
     {
-     "title": "Constellation Energy (CEG) Signs Google Nuclear Deal, Is It Still Undervalued?",
-     "link": "https://finance.yahoo.com/energy/articles/constellation-energy-ceg-signs-google-151527880.html?.tsrc=rss",
+     "title": "Stock Market Today: Nasdaq Thrashed, Dow Up; Moderna, Meta Lead Sell-Off (Live Coverage)",
+     "link": "https://finance.yahoo.com/m/a6067e2b-5ce6-3182-915b-58daa8b6d0f9/stock-market-today%3A-nasdaq.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Constellation Energy (CEG) just locked in a 20 year nuclear power purchase agreement with Alphabet’s Google, anchoring a long runway of contracted, carbon free supply for energy hungry data centers. The Google agreement lands after a mixed stretch for Constellation Energy’s…",
-     "published": "2026-10-22T15:15+00:00"
+     "summary": "The Dow Jones index pulled out a small win Thursday but the Nasdaq was hit hard, with Meta sliding.",
+     "published": "2026-10-22T20:38+00:00"
     },
     {
-     "title": "OpenAI Models Land on Google Cloud: Frontier Distribution Goes Multi-Cloud While the Watts Stay Exclusive",
-     "link": "https://finance.yahoo.com/technology/ai/articles/openai-models-land-google-cloud-151018996.html?.tsrc=rss",
+     "title": "Apple’s foldable iPhone has a $2,000 app problem",
+     "link": "https://finance.yahoo.com/video/apples-foldable-iphone-has-a-2000-app-problem-203418718.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "OpenAI’s frontier models are coming to Google Cloud. Announced October 21, the deal puts GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna into Google Cloud’s Model Garden, with Codex agentic workflows connecting to Google’s Gemini platform for inference. Enterprises transact through…",
-     "published": "2026-10-22T15:10+00:00"
+     "summary": "Apple's (AAPL) new foldable iPhone Duo hits stores Friday. Yahoo Finance Tech Editor Dan Howley got his hands on one and joins Brooke DiPalma on Market Domination to share his takeaways on the new device.",
+     "published": "2026-10-22T20:34+00:00"
     },
     {
-     "title": "Intercontinental Exchange (ICE): A High-Quality Compounder with Multiple Growth Drivers",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-high-quality-150622514.html?.tsrc=rss",
+     "title": "Musk Says AI Is Short on Power. Here’s Why Constellation Energy Still Has a Rules Problem",
+     "link": "https://www.tikr.com/blog/musk-says-ai-is-short-on-power-heres-why-constellation-energy-still-has-a-rules-problem?ref=yahoofinance&.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Upslope Capital Management, an investment management company, released its third-quarter 2026 investor letter. The letter can be downloaded here. Upslope delivered solid absolute and strong relative performance in Q3, despite challenging conditions for defensive,…",
-     "published": "2026-10-22T15:06+00:00"
+     "summary": "Key Stats for Constellation Energy StockCurrent Price: $270. 74Target Price (Mid): ~$465Street Target: ~$338Potential Total Return: ~72%Annualized IRR: ~14% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR’s new Valuation Model (It’s…",
+     "published": "2026-10-22T20:29+00:00"
     }
    ]
   },
@@ -2459,21 +2459,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 251.71,
+   "price": 250.38,
    "prevClose": 262.3699951171875,
-   "change": -10.659995117187492,
-   "changePct": -4.062962730332864,
-   "change1w": -1.1972030823521163,
-   "change1m": -1.2824518716492705,
-   "changeYtd": 9.05033879772752,
+   "change": -11.989995117187505,
+   "changePct": -4.569880451395436,
+   "change1w": -1.7192630716273638,
+   "change1m": -1.8040614183923775,
+   "changeYtd": 8.474132248122901,
    "close1w": 254.75999450683594,
    "closeYtd": 230.82000732421875,
    "high52": 287.2,
    "low52": 196.0,
    "dayHigh": 258.36,
-   "dayLow": 251.33,
-   "volume": 17959555,
-   "asOf": "2026-10-22T11:44",
+   "dayLow": 248.0,
+   "volume": 48595854,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     231.39,
     230.86,
@@ -2537,7 +2537,7 @@
     262.45,
     262.63,
     262.37,
-    251.71
+    250.38
    ],
    "consensus": {
     "rating": "Buy",
@@ -2554,36 +2554,36 @@
      "sell": 0,
      "strongSell": 0
     },
-    "upsidePct": 31.788288109332186
+    "upsidePct": 32.488337726655494
    },
    "news": [
     {
-     "title": "Microsoft Stock Could Be Closer to Its Next Big Breakout Than Investors Think",
-     "link": "https://247wallst.com/investing/2026/10/22/microsoft-stock-could-be-closer-to-its-next-big-breakout-than-investors-think/?.tsrc=rss",
+     "title": "Alphabet (GOOGL) vs. MSFT and AMZN: Can AI Investments and Google Cloud Growth Unlock a 26% Upside?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-vs-msft-amzn-202624782.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Azure demand is outpacing supply, the commercial backlog just hit a staggering new level, and Wall Street has almost no sellers on record. Whether that setup translates into a real breakout depends on one factor most investors are overlooking.",
-     "published": "2026-10-22T15:30+00:00"
+     "summary": "Is GOOGL a good stock to buy? We came across a bullish thesis on Alphabet Inc. on Astute Optics – US’s Substack. In this article, we will summarize the bulls’ thesis on GOOGL. Alphabet Inc.’s share was trading at $334.76 as of October 21st 2026. GOOGL’s trailing and forward…",
+     "published": "2026-10-22T20:26+00:00"
     },
     {
-     "title": "If You Invest $1,000 in Amazon Each Month Starting Now, This is What You’d Have in 5 Years",
-     "link": "https://247wallst.com/investing/2026/10/22/if-you-invest-1000-in-amazon-each-month-starting-now-this-is-what-youd-have-in-5-years/?.tsrc=rss",
+     "title": "Duke Energy (DUK) Stock Could Be 19% Overvalued Despite Data Center Cost Deal",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-could-201407603.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Amazon's cloud business is accelerating at its fastest pace in 18 quarters, but the company just burned through billions in free cash flow. Whether that spending fuels massive gains or derails a monthly investment plan depends on a few key numbers to watch.",
-     "published": "2026-10-22T15:00+00:00"
+     "summary": "Duke Energy has delivered a 3 year share price gain that is hard to ignore, yet the real question for investors is whether today's US$120.67 price lines up with the dividend stream that underpins the stock. With income still a central reason many people own utilities, the…",
+     "published": "2026-10-22T20:14+00:00"
     },
     {
-     "title": "Alliance for Open Media Sees Rapid AV2 Adoption Across the Video Ecosystem Just Four Months After Release",
-     "link": "https://finance.yahoo.com/technology/articles/alliance-open-media-sees-rapid-150000402.html?.tsrc=rss",
+     "title": "Google Is Paying SpaceX $11 Billion a Year for Compute. Here's the Concentration Risk Nobody Is Pricing In.",
+     "link": "https://www.fool.com/investing/2026/10/22/google-is-paying-spacex-11-billion-a-year-for-comp/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "WAKEFIELD, Mass., October 22, 2026--The Alliance for Open Media (AOMedia) today announced significant ecosystem momentum behind AV2, its next-generation royalty-free video codec, just four months after the specification's official publication. Building on the strong interest…",
-     "published": "2026-10-22T15:00+00:00"
+     "summary": "The tech giant is paying SpaceX billions of dollars to instantly expand its cloud infrastructure.",
+     "published": "2026-10-22T20:10+00:00"
     },
     {
-     "title": "The Biggest Price Hike in 49 Years Just Hit a Christmas Staple — and Families Could Feel It This Holiday Season",
-     "link": "https://247wallst.com/investing/2026/10/22/the-biggest-price-hike-in-49-years-just-hit-a-christmas-staple-and-families-could-feel-it-this-holiday-season/?.tsrc=rss",
+     "title": "One Number That Makes Home Depot A Buy",
+     "link": "https://www.trefis.com/articles/619949/one-number-that-makes-home-depot-a-buy/2026-10-22?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Toy prices just shattered a record that stood for nearly half a century, and the timing lands squarely in the middle of holiday shopping season. Families building their Christmas budgets and the retailers competing for their dollars are now caught in the same uncomfortable…",
-     "published": "2026-10-22T14:35+00:00"
+     "summary": "For questions about this article or underlying research, email help@trefis.com.",
+     "published": "2026-10-22T19:19+00:00"
     }
    ]
   },
@@ -2593,21 +2593,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 524.337,
+   "price": 521.08,
    "prevClose": 532.9500122070312,
-   "change": -8.613012207031261,
-   "changePct": -1.6161013246558387,
-   "change1w": -2.79975574170489,
-   "change1m": 5.288554216867469,
-   "changeYtd": 8.419214526675267,
+   "change": -11.870012207031209,
+   "changePct": -2.227228058007835,
+   "change1w": -3.4035300234154353,
+   "change1m": 4.634538152610457,
+   "changeYtd": 7.745751883921903,
    "close1w": 539.4400024414062,
    "closeYtd": 483.6199951171875,
    "high52": 553.72,
    "low52": 349.2,
    "dayHigh": 533.596,
-   "dayLow": 522.38,
-   "volume": 6021838,
-   "asOf": "2026-10-22T11:44",
+   "dayLow": 520.3,
+   "volume": 21072346,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     389.1,
     393.35,
@@ -2671,7 +2671,7 @@
     533.52,
     531.87,
     532.95,
-    524.337
+    521.08
    ],
    "consensus": {
     "rating": "Buy",
@@ -2688,36 +2688,36 @@
      "sell": 0,
      "strongSell": 0
     },
-    "upsidePct": 14.75980142541915
+    "upsidePct": 15.477105242956934
    },
    "news": [
     {
-     "title": "Microsoft Stock Could Be Closer to Its Next Big Breakout Than Investors Think",
-     "link": "https://247wallst.com/investing/2026/10/22/microsoft-stock-could-be-closer-to-its-next-big-breakout-than-investors-think/?.tsrc=rss",
+     "title": "Alphabet (GOOGL) vs. MSFT and AMZN: Can AI Investments and Google Cloud Growth Unlock a 26% Upside?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-vs-msft-amzn-202624782.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Azure demand is outpacing supply, the commercial backlog just hit a staggering new level, and Wall Street has almost no sellers on record. Whether that setup translates into a real breakout depends on one factor most investors are overlooking.",
-     "published": "2026-10-22T15:30+00:00"
+     "summary": "Is GOOGL a good stock to buy? We came across a bullish thesis on Alphabet Inc. on Astute Optics – US’s Substack. In this article, we will summarize the bulls’ thesis on GOOGL. Alphabet Inc.’s share was trading at $334.76 as of October 21st 2026. GOOGL’s trailing and forward…",
+     "published": "2026-10-22T20:26+00:00"
     },
     {
-     "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
-     "link": "https://finance.yahoo.com/energy/articles/fusion-startup-helion-developing-semiconductors-145928565.html?.tsrc=rss",
+     "title": "Duke Energy (DUK) Stock Could Be 19% Overvalued Despite Data Center Cost Deal",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-could-201407603.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
-     "published": "2026-10-22T14:59+00:00"
+     "summary": "Duke Energy has delivered a 3 year share price gain that is hard to ignore, yet the real question for investors is whether today's US$120.67 price lines up with the dividend stream that underpins the stock. With income still a central reason many people own utilities, the…",
+     "published": "2026-10-22T20:14+00:00"
     },
     {
-     "title": "AI TRiSM Market Surges to $11.61 billion at a CAGR 30.3% by 2031 | Report by MarketsandMarkets™",
-     "link": "https://finance.yahoo.com/technology/ai/articles/ai-trism-market-surges-11-143000444.html?.tsrc=rss",
+     "title": "Google Is Paying SpaceX $11 Billion a Year for Compute. Here's the Concentration Risk Nobody Is Pricing In.",
+     "link": "https://www.fool.com/investing/2026/10/22/google-is-paying-spacex-11-billion-a-year-for-comp/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Delray Beach, FL, Oct. 22, 2026 (GLOBE NEWSWIRE) -- According to MarketsandMarkets™, the global AI TRiSM Market is projected to grow from USD 3.09 billion in 2026 to USD 11.61 billion by 2031, registering a CAGR of 30.3% during the forecast period. The expansion of generative…",
-     "published": "2026-10-22T14:30+00:00"
+     "summary": "The tech giant is paying SpaceX billions of dollars to instantly expand its cloud infrastructure.",
+     "published": "2026-10-22T20:10+00:00"
     },
     {
-     "title": "Is IBM Worth Buying as Software Growth Meets a Premium Valuation?",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-worth-buying-software-growth-140800426.html?.tsrc=rss",
+     "title": "UBS portfolio manager: S&P 500 could hit 9,500 by June 2027 on AI, longevity, energy boom",
+     "link": "https://247wallst.com/investing/2026/10/22/ubs-portfolio-manager-sp-500-could-hit-9500-by-june-2027-on-ai-longevity-energy-boom/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "IBM's Software growth and rising free cash flow strengthen its investment case, but premium valuation, debt and slow Consulting growth warrant caution.",
-     "published": "2026-10-22T14:08+00:00"
+     "summary": "A UBS portfolio manager sees three technology waves pushing stocks far beyond Wall Street's consensus, but his bullish case runs straight through two more Fed rate hikes that most investors are not pricing in.",
+     "published": "2026-10-22T19:15+00:00"
     }
    ]
   },
@@ -2727,21 +2727,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 510.81,
+   "price": 507.93,
    "prevClose": 552.719970703125,
-   "change": -41.909970703125,
-   "changePct": -7.582496186958931,
-   "change1w": -9.145720124330515,
-   "change1m": -18.109241546449617,
-   "changeYtd": 138.51792644061106,
+   "change": -44.78997070312499,
+   "changePct": -8.103555702202481,
+   "change1w": -9.657966020146825,
+   "change1m": -18.57095017460142,
+   "changeYtd": 137.17313752076032,
    "close1w": 562.22998046875,
    "closeYtd": 214.16000366210938,
    "high52": 658.52,
    "low52": 188.22,
    "dayHigh": 529.98,
-   "dayLow": 508.59,
-   "volume": 10576304,
-   "asOf": "2026-10-22T11:44",
+   "dayLow": 502.6,
+   "volume": 27523659,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     494.95,
     454.62,
@@ -2805,7 +2805,7 @@
     538.05,
     534.74,
     552.72,
-    510.81
+    507.93
    ],
    "consensus": {
     "rating": "Buy",
@@ -2822,36 +2822,36 @@
      "sell": 0,
      "strongSell": 0
     },
-    "upsidePct": 24.822928290362345
+    "upsidePct": 25.530683361880556
    },
    "news": [
     {
-     "title": "TeraFab's $16.8 billion bet to start producing 100K chips a month",
-     "link": "https://finance.yahoo.com/video/terafabs-168-billion-bet-to-start-producing-100k-chips-a-month-152024748.html?.tsrc=rss",
+     "title": "Meta stock falls despite Wall Street analysts raising price targets",
+     "link": "https://www.thestreet.com/investing/stocks/meta-stock-falls-despite-wall-street-analysts-raising-price-targets?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "In the Loop host Ejaaz Ahamadeen comments on Elon Musk's proposed $16.8 billion investment into his TeraFab semiconductor manufacturing project.",
-     "published": "2026-10-22T15:20+00:00"
+     "summary": "Meta beat third-quarter revenue estimates, but its aggressive AI spending plans raised concerns.",
+     "published": "2026-10-22T19:50+00:00"
     },
     {
-     "title": "AMD (AMD) Stock Could Trade Below Fair Value On Cash Flow",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-stock-could-trade-151656874.html?.tsrc=rss",
+     "title": "What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel",
+     "link": "https://www.fool.com/investing/2026/10/22/what-does-an-ai-agent-need-a-cpu-for-why-nvidia-wa/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Advanced Micro Devices has been one of the headline AI chip stocks, and after a multiyear surge the real question is whether its current share price lines up with the cash flows the business is expected to produce. Over the past 3 years the stock has returned very roughly…",
-     "published": "2026-10-22T15:16+00:00"
+     "summary": "The GPU giant expects almost $20 billion in CPU sales this year.",
+     "published": "2026-10-22T18:25+00:00"
     },
     {
-     "title": "Intel Stock Could Have a Turnaround Opportunity if These 3 Catalysts Deliver",
-     "link": "https://247wallst.com/investing/2026/10/22/intel-stock-could-have-a-turnaround-opportunity-if-these-3-catalysts-deliver/?.tsrc=rss",
+     "title": "Chip Stock Rebound Comes Undone After Lam Research Stokes Spending Fears",
+     "link": "https://finance.yahoo.com/m/5712d994-c082-3a96-901a-7cb056f412a7/chip-stock-rebound-comes.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Intel shares have shed nearly 15% in a month even as the company posted its strongest revenue growth in fifteen years, and three catalysts could determine whether that pullback becomes a buying opportunity or a warning sign.",
-     "published": "2026-10-22T14:30+00:00"
+     "summary": "Stock market sentiment is sensitive to AI spending fears which have returned on Thursday, with chip stocks falling across the board.",
+     "published": "2026-10-22T17:50+00:00"
     },
     {
-     "title": "Chip stocks break a bear trap after a $2.6 trillion rout — here are the levels bulls need to hold",
-     "link": "https://finance.yahoo.com/markets/article/chip-stocks-break-a-bear-trap-after-a-26-trillion-rout--here-are-the-levels-bulls-need-to-hold-141026919.html?.tsrc=rss",
+     "title": "Could Intel be the next trillion-dollar company?",
+     "link": "https://finance.yahoo.com/video/could-intel-be-the-next-trillion-dollar-company-172549462.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "A $2.7 trillion chip sell-off is putting the floor under Tuesday's bear trap to its third test.",
-     "published": "2026-10-22T14:10+00:00"
+     "summary": "Market Hang's panel debates whether Intel (INTC) can become the next trillion-dollar company amid surging chip demand, while weighing other holdings such as Nvidia (NVDA), Broadcom (AVGO), and AMD (AMD). Today's panel consists of hosts Jen Saarbach and Kristen Kelly,…",
+     "published": "2026-10-22T17:25+00:00"
     }
    ]
   },
@@ -2861,21 +2861,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NYSE",
-   "price": 279.26,
+   "price": 287.01,
    "prevClose": 284.2200012207031,
-   "change": -4.960001220703134,
-   "changePct": -1.745127436281857,
-   "change1w": 0.03940752495821265,
-   "change1m": 2.308033683375421,
-   "changeYtd": 43.65965372541227,
+   "change": 2.789998779296866,
+   "changePct": 0.9816335118267627,
+   "change1w": 2.8156927370130314,
+   "change1m": 5.147277617509061,
+   "changeYtd": 47.646484336212055,
    "close1w": 279.1499938964844,
    "closeYtd": 194.38999938964844,
    "high52": 300.89,
    "low52": 186.2,
    "dayHigh": 289.39,
    "dayLow": 277.63,
-   "volume": 627029,
-   "asOf": "2026-10-22T11:44",
+   "volume": 1892769,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     255.88,
     252.18,
@@ -2939,7 +2939,7 @@
     286.6,
     283.35,
     284.22,
-    279.26
+    287.01
    ],
    "consensus": {
     "rating": "Buy",
@@ -2956,9 +2956,16 @@
      "sell": 0,
      "strongSell": 0
     },
-    "upsidePct": 12.405912053283675
+    "upsidePct": 9.370666527298699
    },
    "news": [
+    {
+     "title": "QatarEnergy Turns to Cheniere for U.S. LNG as Iran War Disrupts Exports",
+     "link": "https://finance.yahoo.com/energy/articles/qatarenergy-turns-cheniere-u-lng-205710972.html?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "summary": "QatarEnergy has signed two long-term agreements with U.S. liquefied natural gas",
+     "published": "2026-10-22T20:57+00:00"
+    },
     {
      "title": "Cheniere Energy (LNG) Expected to Beat Earnings Estimates: Should You Buy?",
      "link": "https://finance.yahoo.com/markets/stocks/articles/cheniere-energy-lng-expected-beat-130026874.html?.tsrc=rss",
@@ -2979,13 +2986,6 @@
      "source": "Yahoo Finance",
      "summary": "Cheniere Energy (LNG) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
      "published": "2026-10-21T15:00+00:00"
-    },
-    {
-     "title": "Are You Looking for a Top Momentum Pick? Why Cheniere Energy (LNG) is a Great Choice",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/looking-top-momentum-pick-why-150002389.html?.tsrc=rss",
-     "source": "Yahoo Finance",
-     "summary": "Does Cheniere Energy (LNG) have what it takes to be a top stock pick for momentum investors? Let's find out.",
-     "published": "2026-10-21T15:00+00:00"
     }
    ]
   },
@@ -2995,21 +2995,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 147.01,
+   "price": 145.8,
    "prevClose": 153.47999572753906,
-   "change": -6.469995727539072,
-   "changePct": -4.215530302088844,
-   "change1w": -2.828999587592107,
-   "change1m": -12.143669161953907,
-   "changeYtd": -3.2510674876320533,
+   "change": -7.679995727539051,
+   "changePct": -5.003906659713975,
+   "change1w": -3.6287881087744167,
+   "change1m": -12.866791128582255,
+   "changeYtd": -4.047382080788731,
    "close1w": 151.2899932861328,
    "closeYtd": 151.9499969482422,
    "high52": 299.8,
    "low52": 81.81,
    "dayHigh": 149.4,
-   "dayLow": 144.081,
-   "volume": 8338693,
-   "asOf": "2026-10-22T11:44",
+   "dayLow": 143.42,
+   "volume": 20457733,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     98.65,
     96.16,
@@ -3073,7 +3073,7 @@
     136.02,
     142.72,
     153.48,
-    147.01
+    145.8
    ],
    "consensus": {
     "rating": "Buy",
@@ -3090,36 +3090,36 @@
      "sell": 0,
      "strongSell": 0
     },
-    "upsidePct": 62.75536358070881
+    "upsidePct": 64.10607681755829
    },
    "news": [
+    {
+     "title": "How Much of Your Portfolio Should Be in Bitcoin After JPMorgan’s 10% Forecast?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/22/how-much-of-your-portfolio-should-be-in-bitcoin-after-jpmorgans-10-forecast/?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "summary": "JPMorgan just gave Bitcoin a place in serious long-term forecasts, but the projected return tells only half the story. The other half, rooted in volatility that can carve 50% from your holdings, determines whether any allocation makes sense for your situation.",
+     "published": "2026-10-22T18:30+00:00"
+    },
+    {
+     "title": "Prediction: What Would Have to Happen for Bitcoin to Hit $150,000?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/22/prediction-what-would-have-to-happen-for-bitcoin-to-hit-150000/?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "summary": "Bitcoin sits nearly 35% below its all-time high while ETF buyers grow inconsistent, treasury firms slip underwater, and the Fed keeps tightening. The path to a $3 trillion market cap exists, but the forces standing in the way may push that milestone further than most…",
+     "published": "2026-10-22T16:30+00:00"
+    },
+    {
+     "title": "AI Disruption Raises New Questions for Rentokil’s (RTO) Growth Strategy",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/ai-disruption-raises-questions-rentokil-153937443.html?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "summary": "White Falcon’s Q3 2026 letter reports 2.7% quarterly and 4.6% year-to-date net returns. The letter can be downloaded here. Management attributes the underperformance mainly to a sharp September pullback, rising interest rates, and zero energy exposure. The portfolio remains…",
+     "published": "2026-10-22T15:39+00:00"
+    },
     {
      "title": "Lower Rates Could Unlock Rocket Companies’ (RKT) Untapped Growth Potential",
      "link": "https://finance.yahoo.com/markets/stocks/articles/lower-rates-could-unlock-rocket-132835467.html?.tsrc=rss",
      "source": "Yahoo Finance",
      "summary": "White Falcon’s Q3 2026 letter reports 2.7% quarterly and 4.6% year-to-date net returns. The letter can be downloaded here. Management attributes the underperformance mainly to a sharp September pullback, rising interest rates, and zero energy exposure. The portfolio remains…",
      "published": "2026-10-22T13:28+00:00"
-    },
-    {
-     "title": "AI Uncertainty Challenges CoStar’s (CSGP) Residential Property Platforms",
-     "link": "https://finance.yahoo.com/real-estate/articles/ai-uncertainty-challenges-costar-csgp-132526471.html?.tsrc=rss",
-     "source": "Yahoo Finance",
-     "summary": "White Falcon’s Q3 2026 letter reports 2.7% quarterly and 4.6% year-to-date net returns. The letter can be downloaded here. Management attributes the underperformance mainly to a sharp September pullback, rising interest rates, and zero energy exposure. The portfolio remains…",
-     "published": "2026-10-22T13:25+00:00"
-    },
-    {
-     "title": "Strategy (MSTR) Reports Next Week: Wall Street Expects Earnings Growth",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-reports-next-week-130014815.html?.tsrc=rss",
-     "source": "Yahoo Finance",
-     "summary": "Strategy (MSTR) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-     "published": "2026-10-22T13:00+00:00"
-    },
-    {
-     "title": "Strategy (MSTR) Could Be 13% Overvalued As Stablecoin Rules Lift Crypto Stocks",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-could-13-overvalued-021251983.html?.tsrc=rss",
-     "source": "Yahoo Finance",
-     "summary": "Strategy (MSTR) jumped 7% as crypto related stocks reacted to the OCC’s final GENIUS Act stablecoin rules, which set clearer requirements for reserves, redemption, and risk controls across payment-focused tokens. That jump slots into a choppy year for Strategy, with the share…",
-     "published": "2026-10-22T02:12+00:00"
     }
    ]
   },
@@ -3129,21 +3129,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NYSE",
-   "price": 334.49,
+   "price": 336.54,
    "prevClose": 335.19000244140625,
-   "change": -0.7000024414062409,
-   "changePct": -0.208837505983972,
-   "change1w": -0.30995701817438936,
-   "change1m": -1.620588235294118,
-   "changeYtd": 3.8079569029895843,
+   "change": 1.3499975585937705,
+   "changePct": 0.4027559141862369,
+   "change1w": 0.3010166674746406,
+   "change1m": -1.0176470588235231,
+   "changeYtd": 4.444168184795116,
    "close1w": 335.5299987792969,
    "closeYtd": 322.2200012207031,
    "high52": 366.5,
    "low52": 279.1,
-   "dayHigh": 336.395,
+   "dayHigh": 336.61,
    "dayLow": 332.28,
-   "volume": 1567057,
-   "asOf": "2026-10-22T11:44",
+   "volume": 6182097,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     356.2,
     357.31,
@@ -3207,7 +3207,7 @@
     333.53,
     335.26,
     335.19,
-    334.49
+    336.54
    ],
    "consensus": {
     "rating": "Buy",
@@ -3224,36 +3224,36 @@
      "sell": 0,
      "strongSell": 0
     },
-    "upsidePct": 11.383066758348527
+    "upsidePct": 10.704587864741178
    },
    "news": [
     {
-     "title": "XRP Is 63% Below Its All-Time High and Ethereum 51%. Which Reclaims their ATH First?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/22/xrp-is-63-below-its-all-time-high-and-ethereum-51-which-reclaims-their-ath-first/?.tsrc=rss",
+     "title": "Banks dealing with rogue AI agents is 'a problem that is facing us today'",
+     "link": "https://finance.yahoo.com/video/banks-dealing-with-rogue-ai-agents-is-a-problem-that-is-facing-us-today-205453938.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "XRP and Ethereum both sit far below their 2025 peaks, and the path back looks very different for each coin. ETF flows, banking partnerships, and upcoming upgrades will determine which one gets there first.",
-     "published": "2026-10-22T15:34+00:00"
+     "summary": "Arctic Wolf CEO and President Nick Schneider joins Market Domination Overtime host Brooke DiPalma to discuss AI-agent threats to bank accounts and how agentic defenses can keep pace with agentic attacks.",
+     "published": "2026-10-22T20:54+00:00"
     },
     {
-     "title": "Bank of America vs. JPMorgan Chase: Which Financial Stock Is a Better Buy in 2026?",
-     "link": "https://www.fool.com/coverage/better-buy/2026/10/22/bank-of-america-vs-jpmorgan-chase-which-financial-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+     "title": "JPMorgan Is Blocking Outside AI Agents and Taking Its Deposit Token to Ethereum. Here’s What Both Moves Protect",
+     "link": "https://www.tikr.com/blog/jpmorgan-is-blocking-outside-ai-agents-and-taking-its-deposit-token-to-ethereum-heres-what-both-moves-protect?ref=yahoofinance&.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Bank of America trades at a lower valuation multiple, but JPMorgan's revenue growth and profitability paint a different picture of competitive strength.",
-     "published": "2026-10-22T14:50+00:00"
+     "summary": "Key Stats for JPMorgan StockCurrent Price: $335. 19Target Price (Mid): ~$440Street Target: ~$373Potential Total Return: ~31%Annualized IRR: ~7% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR’s new Valuation Model (It’s free)__ >>> What…",
+     "published": "2026-10-22T20:35+00:00"
     },
     {
-     "title": "Intel Stock Could Have a Turnaround Opportunity if These 3 Catalysts Deliver",
-     "link": "https://247wallst.com/investing/2026/10/22/intel-stock-could-have-a-turnaround-opportunity-if-these-3-catalysts-deliver/?.tsrc=rss",
+     "title": "How Much of Your Portfolio Should Be in Bitcoin After JPMorgan’s 10% Forecast?",
+     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/22/how-much-of-your-portfolio-should-be-in-bitcoin-after-jpmorgans-10-forecast/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Intel shares have shed nearly 15% in a month even as the company posted its strongest revenue growth in fifteen years, and three catalysts could determine whether that pullback becomes a buying opportunity or a warning sign.",
-     "published": "2026-10-22T14:30+00:00"
+     "summary": "JPMorgan just gave Bitcoin a place in serious long-term forecasts, but the projected return tells only half the story. The other half, rooted in volatility that can carve 50% from your holdings, determines whether any allocation makes sense for your situation.",
+     "published": "2026-10-22T18:30+00:00"
     },
     {
-     "title": "Goldman Sachs Group vs. JPMorgan Chase: Which Financial Stock Is a Better Buy in 2026?",
-     "link": "https://www.fool.com/coverage/better-buy/2026/10/22/goldman-sachs-group-vs-jpmorgan-chase-which-financial-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+     "title": "J.P. Morgan Boosts Its Long-Term Forecast for How 60/40 Portfolios Will Perform",
+     "link": "https://finance.yahoo.com/m/ba4b5c79-3123-3c0f-b5df-d146edf80618/j.p.-morgan-boosts-its.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Goldman Sachs trades at a lower valuation multiple, while JPMorgan's scale delivers nearly 50% higher net margins, each path reflects a different bet on 2026 markets.",
-     "published": "2026-10-22T13:50+00:00"
+     "summary": "J.P. Morgan Asset Management is predicting annual returns of 7% on traditional 60/40 stock/bond portfolios over the next 10 to 15 years, but the company says investors can do even better if they add some alternative investments to the mix.",
+     "published": "2026-10-22T18:22+00:00"
     }
    ]
   },
@@ -3263,21 +3263,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NYSE",
-   "price": 547.68,
+   "price": 546.97,
    "prevClose": 538.989990234375,
-   "change": 8.69000976562495,
-   "changePct": 1.6122766513430475,
-   "change1w": 4.185056998695291,
-   "change1m": 8.77674047602306,
-   "changeYtd": 8.958521167870348,
+   "change": 7.980009765625027,
+   "changePct": 1.4805487875860113,
+   "change1w": 4.049993840520694,
+   "change1m": 8.63572476294614,
+   "changeYtd": 8.81726979840427,
    "close1w": 525.6799926757812,
    "closeYtd": 502.6499938964844,
-   "high52": 548.61,
+   "high52": 549.94,
    "low52": 464.01,
-   "dayHigh": 548.61,
+   "dayHigh": 549.94,
    "dayLow": 542.01,
-   "volume": 1710782,
-   "asOf": "2026-10-22T11:44",
+   "volume": 5696218,
+   "asOf": "2026-10-22T16:03",
    "spark": [
     497.18,
     512.37,
@@ -3341,7 +3341,7 @@
     532.23,
     539.82,
     538.99,
-    547.68
+    546.97
    ],
    "consensus": {
     "rating": "Buy",
@@ -3358,36 +3358,36 @@
      "sell": 0,
      "strongSell": 0
     },
-    "upsidePct": 1.4582785568215018
+    "upsidePct": 1.5899775124778248
    },
    "news": [
     {
-     "title": "Berkshire Finally Topped Its Pre-Buffett-Exit Peak",
-     "link": "https://247wallst.com/investing/2026/10/22/berkshire-finally-topped-its-pre-buffett-exit-peak/?.tsrc=rss",
+     "title": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
+     "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Berkshire Hathaway just clawed back to a record high, but the force driving it there has little to do with Warren Buffett's legacy and everything to do with a rotation that could reverse just as fast as it arrived.",
-     "published": "2026-10-22T14:25+00:00"
+     "summary": "The S&P 500 and Nasdaq tumbled below 50-day lines as Meta led an AI stock rout. But the Warren Buffett market is thriving.",
+     "published": "2026-10-22T20:59+00:00"
     },
     {
-     "title": "Greg Abel Says Every Point of BNSF Profit Margin Adds About $230 Million of Cash Flow for Berkshire Hathaway",
-     "link": "https://www.fool.com/investing/2026/10/22/greg-abel-bnsf-profit-margin-cash-flow-berkshire/?.tsrc=rss",
+     "title": "Better Buffett Stock: Alphabet vs. Apple",
+     "link": "https://www.fool.com/investing/2026/10/22/better-buffett-stock-alphabet-vs-apple/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Investors may want to keep a closer eye on this often-overlooked Berkshire business for the foreseeable future. CEO Greg Abel appears to have plans.",
-     "published": "2026-10-22T09:39+00:00"
+     "summary": "Apple has slow-played its AI launch, while Alphabet has accelerated its AI plans.",
+     "published": "2026-10-22T19:05+00:00"
     },
     {
-     "title": "Can Berkshire Hathaway (BRK.A) Stay Below Fair Value After Its 87% Run?",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-stay-below-071925487.html?.tsrc=rss",
+     "title": "What Pool (POOL) Said on Its Q3 Earnings Call",
+     "link": "https://www.marketbeat.com/instant-alerts/transcript-what-pool-pool-said-on-its-q3-earnings-call-2026-10-22/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Berkshire Hathaway has delivered a powerful run over the past few years, and that raises a simple question for you as a shareholder or potential buyer. Is the current price really in line with the returns the conglomerate earns on the capital it puts to work? With a 5 year…",
-     "published": "2026-10-22T07:19+00:00"
+     "summary": "Pool (NASDAQ:POOL) reported third-quarter sales growth of 4% as pricing, maintenance demand and building-materials volumes helped offset a cautious discretionary-spending environment and continued weakness in new pool construction. Sales totaled $1.5 billion in the quarter,…",
+     "published": "2026-10-22T18:04+00:00"
     },
     {
-     "title": "/C O R R E C T I O N - Vantaca LLC/",
-     "link": "https://finance.yahoo.com/technology/ai/articles/c-o-r-r-e-200700164.html?.tsrc=rss",
+     "title": "Warren Buffett's Successor, Greg Abel, Has 22% of Berkshire Hathaway Invested in This Stock That Just Crossed the $5 Trillion Mark",
+     "link": "https://www.fool.com/investing/2026/10/22/warren-buffett-successor-greg-abel-has-22-of-berkshire-hathaway-invested-in-this-stock-that-just-crossed-the-usd5-trillion-mark/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Vantaca, an AI-first technology company purpose-built for community association management, announced the successful go-live of Berkshire, an enterprise community management company headquartered in College Station, Texas. Berkshire now operates on Vantaca's full platform…",
-     "published": "2026-10-21T20:07+00:00"
+     "summary": "Buffett once called this company one of the best businesses in the world.",
+     "published": "2026-10-22T17:50+00:00"
     }
    ]
   },
@@ -3397,21 +3397,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 1591.73,
+   "price": 1560.54,
    "prevClose": 1676.68994140625,
-   "change": -84.95994140624998,
-   "changePct": -5.067122984884942,
-   "change1w": -3.964544341226539,
-   "change1m": -8.934722937967488,
-   "changeYtd": 48.7792815689754,
+   "change": -116.14994140625004,
+   "changePct": -6.927335730828943,
+   "change1w": -5.846362150777873,
+   "change1m": -10.719149939761008,
+   "changeYtd": 45.86394681236694,
    "close1w": 1657.43994140625,
    "closeYtd": 1069.8599853515625,
    "high52": 1999.96,
    "low52": 946.11,
    "dayHigh": 1628.2,
-   "dayLow": 1585.691,
-   "volume": 629377,
-   "asOf": "2026-10-22T11:44",
+   "dayLow": 1555.939,
+   "volume": 2026873,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     1655.26,
     1582.95,
@@ -3475,16 +3475,16 @@
     1647.12,
     1630.84,
     1676.6899,
-    1591.73
+    1560.54
    ],
    "consensus": {
     "rating": "Buy",
     "consensusKey": "strong_buy",
     "consensusMean": 1.36585,
     "analysts": 17,
-    "targetMean": 2144.622,
-    "targetHigh": 2849.064,
-    "targetLow": 867.30945,
+    "targetMean": 2147.2698,
+    "targetHigh": 2852.5815,
+    "targetLow": 868.38025,
     "breakdown": {
      "strongBuy": 7,
      "buy": 31,
@@ -3492,36 +3492,36 @@
      "sell": 1,
      "strongSell": 0
     },
-    "upsidePct": 34.73528801995312
+    "upsidePct": 37.597869968087984
    },
    "news": [
     {
-     "title": "Lam Research Sinks 9% as Supply Constraints Cap Outlook; Applied Materials Drops 6%, ASML Holding Falls 4%",
-     "link": "https://247wallst.com/investing/2026/10/22/lam-research-sinks-9-as-supply-constraints-cap-outlook-applied-materials-drops-6-asml-holding-falls-4/?.tsrc=rss",
+     "title": "Taiwan Semiconductor and ASML Are Incredible, but 1 of These Monopoly Chip Stocks Is Far Safer.",
+     "link": "https://www.fool.com/investing/2026/10/22/taiwan-semiconductor-and-asml-are-incredible-but-1/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "A record quarter wasn't enough to keep chip equipment stocks out of the red after Lam Research's CFO let slip a phrase that spooked the entire semiconductor sector and sent shares tumbling hard.",
-     "published": "2026-10-22T14:44+00:00"
+     "summary": "Both stocks are dominating their respective industries.",
+     "published": "2026-10-22T18:05+00:00"
     },
     {
-     "title": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints'",
-     "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-equipment-maker-lam-research-cites-supply-chain-constraints-130648719.html?.tsrc=rss",
+     "title": "Tech market, housing market, hotels & handbags",
+     "link": "https://finance.yahoo.com/video/tech-market-housing-market-hotels--handbags-175606154.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Chip stocks declined on Thursday amid concerns about supply constraints and lingering worries about the AI trade.",
-     "published": "2026-10-22T13:06+00:00"
+     "summary": "The Market Hang panel discusses META's stock split (META), Tesla's (TSLA) possible merger with SpaceX (SPCX), and how the demand for goods in the luxury market space is starting to wane. Today's panel includes Laffer Tengler Investments CEO & CIO, Nancy Tengler, BD8 Capital…",
+     "published": "2026-10-22T17:56+00:00"
     },
     {
-     "title": "ASML Vs. Taiwan Semiconductor: Who Can More Fully Satisfy AI Demand?",
-     "link": "https://247wallst.com/investing/2026/10/22/asml-vs-taiwan-semiconductor-who-can-more-fully-satisfy-ai-demand/?.tsrc=rss",
+     "title": "Chinese Competitors Aren’t Eroding ASML’s EUV Core Monopoly",
+     "link": "https://247wallst.com/investing/2026/10/22/chinese-competitors-arent-eroding-asmls-euv-core-monopoly/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Both ASML and TSMC say AI demand outstrips everything they can build, but each company is betting on a different strategy to close that gap. One controls the scarcest tool in chipmaking while the other controls the fabs, the nodes, and the packaging, so figuring out which has…",
-     "published": "2026-10-22T12:45+00:00"
+     "summary": "ASML just told investors its EUV machines are sold out through 2028, yet the stock sits well below its 52-week high. Whether supply constraints become a ceiling or a catalyst depends on one question management has so far refused to answer.",
+     "published": "2026-10-22T16:45+00:00"
     },
     {
-     "title": "3 AI Infrastructure Stocks Retail Investors May Be Watching After Tesla SpaceX Merger Talk",
-     "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-012034427.html?.tsrc=rss",
+     "title": "Applied Materials Sinks 7% on Lam’s Outlook: “A Bit Higher” Wasn’t Enough",
+     "link": "https://www.tikr.com/blog/applied-materials-sinks-7-on-lams-outlook-a-bit-higher-wasnt-enough?ref=yahoofinance&.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "When talk of a potential Tesla and SpaceX merger sparks a move toward a possible $5t giant, it does more than light up headlines. It reminds you that some mega-cap platforms can suddenly find themselves tied to powerful new storylines, and that others quietly ride the same…",
-     "published": "2026-10-22T01:20+00:00"
+     "summary": "Applied Materials (AMAT:NASDAQ) shares are down about 7. 4% today (trading at about $380) after Lam Research (LRCX:NASDAQ) said supply-chain constraints held back its December-quarter outlook.",
+     "published": "2026-10-22T15:32+00:00"
     }
    ]
   },
@@ -3623,21 +3623,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 322.63,
+   "price": 323.24,
    "prevClose": 337.79998779296875,
-   "change": -15.169987792968755,
-   "changePct": -4.490819520771017,
-   "change1w": -6.30209026761931,
-   "change1m": -11.496682822883441,
-   "changeYtd": -6.781278731470453,
+   "change": -14.559987792968741,
+   "changePct": -4.31023928926021,
+   "change1w": -6.124934625128676,
+   "change1m": -11.329348652229621,
+   "changeYtd": -6.605029095745918,
    "close1w": 344.3299865722656,
    "closeYtd": 346.1000061035156,
    "high52": 495.0,
    "low52": 289.96,
    "dayHigh": 330.82,
-   "dayLow": 322.06,
-   "volume": 8397985,
-   "asOf": "2026-10-22T11:44",
+   "dayLow": 321.02,
+   "volume": 27774499,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     383.22,
     380.91,
@@ -3701,7 +3701,7 @@
     334.59,
     334.37,
     337.8,
-    322.63
+    323.24
    ],
    "consensus": {
     "rating": "Buy",
@@ -3718,36 +3718,36 @@
      "sell": 0,
      "strongSell": 0
     },
-    "upsidePct": 63.52834516319004
+    "upsidePct": 63.21974384358371
    },
    "news": [
     {
-     "title": "Broadcom Has Lost 35% From Its High: Tigress Sees 83% Upside",
-     "link": "https://www.tikr.com/blog/broadcom-has-lost-35-from-its-high-tigress-sees-83-upside?ref=yahoofinance&.tsrc=rss",
+     "title": "Stock Market Today: Nasdaq Thrashed, Dow Up; Moderna, Meta Lead Sell-Off (Live Coverage)",
+     "link": "https://finance.yahoo.com/m/a6067e2b-5ce6-3182-915b-58daa8b6d0f9/stock-market-today%3A-nasdaq.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Key TakeawaysBroadcom stock is down [34%] from its June high, and Tigress Financial started coverage today with a Buy rating and a $600 target, [83%] above the share price. Analysts’ earnings estimates for Broadcom have held steady through the sell-off, so investors are…",
-     "published": "2026-10-22T15:20+00:00"
+     "summary": "The Dow Jones index pulled out a small win Thursday but the Nasdaq was hit hard, with Meta sliding.",
+     "published": "2026-10-22T20:38+00:00"
     },
     {
-     "title": "Snowflake vs. Broadcom: Which Enterprise AI Stock Is the Smarter Buy?",
-     "link": "https://finance.yahoo.com/technology/ai/articles/snowflake-vs-broadcom-enterprise-ai-140600972.html?.tsrc=rss",
+     "title": "Is Ciena Stock Really Expensive?",
+     "link": "https://www.trefis.com/articles/619911/is-ciena-stock-really-expensive/2026-10-22?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "SNOW emerges as the stronger enterprise AI stock over AVGO, fueled by accelerating product revenues, robust AI adoption, and higher earnings surprises.",
-     "published": "2026-10-22T14:06+00:00"
+     "summary": "For questions about this article or underlying research, email help@trefis.com.",
+     "published": "2026-10-22T19:36+00:00"
     },
     {
-     "title": "MRVL Taps Into AI Infrastructure Growth: What's Next for Investors?",
-     "link": "https://finance.yahoo.com/technology/ai/articles/mrvl-taps-ai-infrastructure-growth-135300647.html?.tsrc=rss",
+     "title": "Could Intel be the next trillion-dollar company?",
+     "link": "https://finance.yahoo.com/video/could-intel-be-the-next-trillion-dollar-company-172549462.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Marvell Technology is riding AI infrastructure demand as custom silicon, optical connectivity and switching solutions expand.",
-     "published": "2026-10-22T13:53+00:00"
+     "summary": "Market Hang's panel debates whether Intel (INTC) can become the next trillion-dollar company amid surging chip demand, while weighing other holdings such as Nvidia (NVDA), Broadcom (AVGO), and AMD (AMD). Today's panel consists of hosts Jen Saarbach and Kristen Kelly,…",
+     "published": "2026-10-22T17:25+00:00"
     },
     {
-     "title": "Netflix downgraded, Tesla upgraded: Wall Street's top analyst calls",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-upgraded-applovin-initiated-wall-135331262.html?.tsrc=rss",
+     "title": "What Blackstone (BX) Said on Its Q3 Earnings Call",
+     "link": "https://www.marketbeat.com/instant-alerts/transcript-what-blackstone-bx-said-on-its-q3-earnings-call-2026-10-22/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Netflix downgraded, Tesla upgraded: Wall Street's top analyst calls",
-     "published": "2026-10-22T13:41+00:00"
+     "summary": "Blackstone (NYSE:BX) reported third-quarter distributable earnings of $1.7 billion, or $1.32 per common share, as fundraising momentum and fee-related earnings growth offset a sequential decline in realizations amid volatile markets and higher interest rates. The alternative…",
+     "published": "2026-10-22T17:05+00:00"
     }
    ]
   },
@@ -3757,21 +3757,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NYSE",
-   "price": 1312.375,
+   "price": 1306.69,
    "prevClose": 1270.75,
-   "change": 41.625,
-   "changePct": 3.2756246311233417,
-   "change1w": 4.854948055673214,
-   "change1m": 12.15538171252919,
-   "changeYtd": 22.117740574814526,
+   "change": 35.940000000000055,
+   "changePct": 2.828251032854623,
+   "change1w": 4.400733079240027,
+   "change1m": 11.669542417331002,
+   "changeYtd": 21.588745923767515,
    "close1w": 1251.6099853515625,
    "closeYtd": 1074.6800537109375,
    "high52": 1321.21,
    "low52": 806.02,
    "dayHigh": 1321.21,
    "dayLow": 1275.1,
-   "volume": 1183991,
-   "asOf": "2026-10-22T11:44",
+   "volume": 2650814,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     1197.53,
     1220.66,
@@ -3835,7 +3835,7 @@
     1240.34,
     1283.66,
     1270.75,
-    1312.375
+    1306.6899
    ],
    "consensus": {
     "rating": "Buy",
@@ -3852,36 +3852,36 @@
      "sell": 1,
      "strongSell": 1
     },
-    "upsidePct": 1.4614496618725603
+    "upsidePct": 1.9028767343440167
    },
    "news": [
     {
-     "title": "Lilly breaks ground in Richmond to expand American manufacturing of next-generation cancer medicines, advancing its build-out of 10 new U.S. sites since 2020",
-     "link": "https://finance.yahoo.com/healthcare/articles/lilly-breaks-ground-richmond-expand-143000442.html?.tsrc=rss",
+     "title": "UBS portfolio manager: S&P 500 could hit 9,500 by June 2027 on AI, longevity, energy boom",
+     "link": "https://247wallst.com/investing/2026/10/22/ubs-portfolio-manager-sp-500-could-hit-9500-by-june-2027-on-ai-longevity-energy-boom/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Eli Lilly and Company (NYSE: LLY) broke ground today on a new $5 billion manufacturing facility just west of Richmond, Virginia, in Goochland County, one of 10 new U.S. manufacturing sites announced since 2020 and one of five among them that will produce active pharmaceutical…",
-     "published": "2026-10-22T14:30+00:00"
+     "summary": "A UBS portfolio manager sees three technology waves pushing stocks far beyond Wall Street's consensus, but his bullish case runs straight through two more Fed rate hikes that most investors are not pricing in.",
+     "published": "2026-10-22T19:15+00:00"
     },
     {
-     "title": "Earnings Preview: Eli Lilly (LLY) Q3 Earnings Expected to Decline",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-eli-lilly-lly-130026691.html?.tsrc=rss",
+     "title": "Investors are punishing Big Tech's biggest spenders. Meta is the latest casualty.",
+     "link": "https://finance.yahoo.com/markets/article/investors-are-punishing-big-techs-biggest-spenders-meta-is-the-latest-casualty-174236447.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Lilly (LLY) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-     "published": "2026-10-22T13:00+00:00"
+     "summary": "Meta stock is on track for its third straight drop of more than 5% after earnings, a first since its IPO.",
+     "published": "2026-10-22T17:42+00:00"
     },
     {
-     "title": "Was There Any Sign Merck Stock Would Run?",
-     "link": "https://www.trefis.com/articles/619984/was-there-any-sign-merck-stock-would-run/2026-10-22?.tsrc=rss",
+     "title": "Roche's 9M 2026 Sales Rise on Strong Drug Demand, Pipeline Advances",
+     "link": "https://finance.yahoo.com/healthcare/articles/roches-9m-2026-sales-rise-173500955.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "For questions about this article or underlying research, email help@trefis.com.",
-     "published": "2026-10-22T12:32+00:00"
+     "summary": "Roche's sales rise 6% at constant exchange rates in the first nine months of 2026, as key drug growth offsets legacy product declines and pipeline advances.",
+     "published": "2026-10-22T17:35+00:00"
     },
     {
-     "title": "Is Johnson & Johnson Stock Ready For A MedTech Stall?",
-     "link": "https://www.trefis.com/articles/619955/is-johnson-johnson-stock-ready-for-a-medtech-stall/2026-10-22?.tsrc=rss",
+     "title": "NVO vs. VKTX: Which Obesity Stock Could Deliver Bigger Gains?",
+     "link": "https://finance.yahoo.com/healthcare/articles/nvo-vs-vktx-obesity-stock-153100104.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "For questions about this article or underlying research, email help@trefis.com.",
-     "published": "2026-10-22T12:16+00:00"
+     "summary": "Viking Therapeutics' late-stage obesity drug and promising weight-maintenance data could offer greater upside than Novo Nordisk, despite higher clinical and commercial risks.",
+     "published": "2026-10-22T15:31+00:00"
     }
    ]
   },
@@ -3891,21 +3891,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NYSE",
-   "price": 362.57,
+   "price": 363.95,
    "prevClose": 354.95001220703125,
-   "change": 7.619987792968743,
-   "changePct": 2.146777723879678,
-   "change1w": 2.772184931034638,
-   "change1m": 7.981657641605633,
-   "changeYtd": 16.163656821752383,
+   "change": 8.999987792968739,
+   "changePct": 2.535564863629114,
+   "change1w": 3.1633524716607964,
+   "change1m": 8.392653277056471,
+   "changeYtd": 16.60579446803867,
    "close1w": 352.7900085449219,
    "closeYtd": 312.1199951171875,
    "high52": 365.91,
    "low52": 273.35,
-   "dayHigh": 363.25,
+   "dayHigh": 364.86,
    "dayLow": 357.235,
-   "volume": 476040,
-   "asOf": "2026-10-22T11:44",
+   "volume": 1709873,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     358.91,
     363.5,
@@ -3969,7 +3969,7 @@
     356.27,
     357.75,
     354.95,
-    362.57
+    363.95
    ],
    "consensus": {
     "rating": "Buy",
@@ -3986,7 +3986,7 @@
      "sell": 0,
      "strongSell": 3
     },
-    "upsidePct": 2.313070579474319
+    "upsidePct": 1.9251270778953167
    },
    "news": [
     {
@@ -4025,21 +4025,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NYSE",
-   "price": 50.925,
+   "price": 51.08,
    "prevClose": 50.779998779296875,
-   "change": 0.14500122070312216,
-   "changePct": 0.2855479011201645,
-   "change1w": -1.4990343355952285,
-   "change1m": -9.386122226564108,
-   "changeYtd": -7.40909090909091,
+   "change": 0.3000012207031233,
+   "changePct": 0.5907861912463064,
+   "change1w": -1.199227763617161,
+   "change1m": -9.110321518564445,
+   "changeYtd": -7.127272727272727,
    "close1w": 51.70000076293945,
    "closeYtd": 55.0,
    "high52": 65.23,
    "low52": 46.12,
    "dayHigh": 51.21,
    "dayLow": 50.2,
-   "volume": 10418207,
-   "asOf": "2026-10-22T11:44",
+   "volume": 37419230,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     62.13,
     62.62,
@@ -4103,7 +4103,7 @@
     50.39,
     50.64,
     50.78,
-    50.925
+    51.08
    ],
    "consensus": {
     "rating": "Buy",
@@ -4120,36 +4120,36 @@
      "sell": 0,
      "strongSell": 0
     },
-    "upsidePct": 23.979106529209627
+    "upsidePct": 23.602897415818337
    },
    "news": [
     {
-     "title": "Bank of America vs. JPMorgan Chase: Which Financial Stock Is a Better Buy in 2026?",
-     "link": "https://www.fool.com/coverage/better-buy/2026/10/22/bank-of-america-vs-jpmorgan-chase-which-financial-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+     "title": "BofA stays ahead of the curve on GE Vernova as AI power demand surges",
+     "link": "https://www.thestreet.com/investing/stocks/bank-of-america-remains-confident-ge-vernova-ai-power-demand-surges?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Bank of America trades at a lower valuation multiple, but JPMorgan's revenue growth and profitability paint a different picture of competitive strength.",
-     "published": "2026-10-22T14:50+00:00"
+     "summary": "Bank of America has key forecasts ahead of GEV’s third quarter, driven by data center demand for gas turbines and electrical gear.",
+     "published": "2026-10-22T21:17+00:00"
     },
     {
-     "title": "Will Chip Boom Last Through 2027? ETFs in Focus",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/chip-boom-last-2027-etfs-120000854.html?.tsrc=rss",
+     "title": "Banks dealing with rogue AI agents is 'a problem that is facing us today'",
+     "link": "https://finance.yahoo.com/video/banks-dealing-with-rogue-ai-agents-is-a-problem-that-is-facing-us-today-205453938.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "The semiconductor boom could extend through 2027, but oversupply risks and China's growing chipmaking capabilities raise questions. Explore five semiconductor ETFs to watch.",
-     "published": "2026-10-22T12:00+00:00"
+     "summary": "Arctic Wolf CEO and President Nick Schneider joins Market Domination Overtime host Brooke DiPalma to discuss AI-agent threats to bank accounts and how agentic defenses can keep pace with agentic attacks.",
+     "published": "2026-10-22T20:54+00:00"
     },
     {
-     "title": "What a Democratic Congress Would Mean for Wall Street",
-     "link": "https://finance.yahoo.com/m/07756f89-daf5-3655-b2dc-cf0e18fb4a83/what-a-democratic-congress.html?.tsrc=rss",
+     "title": "Biogen +5% on BofA Price Target Hike Ahead of “Relatively Quiet” Q3",
+     "link": "https://www.tikr.com/blog/biogen-5-on-bofa-price-target-hike-ahead-of-relatively-quiet-q3?ref=yahoofinance&.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "The midterm elections will put some industries in the crosshairs. What to expect in AI, healthcare, and beyond.",
-     "published": "2026-10-22T10:00+00:00"
+     "summary": "Key TakeawaysBiogen shares rose 5% today after BofA raised its price target to $244 from $219 and kept a Neutral rating. BofA’s new target is close to the $247 consensus target, which has climbed 43% over the past year as analysts try to keep up with the stock.",
+     "published": "2026-10-22T20:52+00:00"
     },
     {
-     "title": "Is It Time for a New CEO at Bank of America?",
-     "link": "https://finance.yahoo.com/m/a1758b25-a0ea-3985-815c-cddd7e041562/is-it-time-for-a-new-ceo-at.html?.tsrc=rss",
+     "title": "Merrill Unveils 2027 Advisor Compensation Plan. The Focus Is on Making More Loans.",
+     "link": "https://finance.yahoo.com/m/772c0c32-373e-3a07-b642-d34bacd93bad/merrill-unveils-2027-advisor.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Brian Moynihan is back in the hot seat, following disappointing earnings and a large U.S. Treasury fine. Why it might be time for the longtime CEO to move on.",
-     "published": "2026-10-22T09:00+00:00"
+     "summary": "The unit of Bank of America is leaving the central component of advisor compensation—its pay grid—unchanged.",
+     "published": "2026-10-22T18:30+00:00"
     }
    ]
   },
@@ -4159,21 +4159,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 345.16,
+   "price": 348.22,
    "prevClose": 343.989990234375,
-   "change": 1.170009765625025,
-   "changePct": 0.34012901504134607,
-   "change1w": 0.9239766081871492,
-   "change1m": 1.5923473142016364,
-   "changeYtd": 26.962413962337184,
+   "change": 4.230009765625027,
+   "changePct": 1.2296897833401932,
+   "change1w": 1.8187134502924085,
+   "change1m": 2.4930095658572515,
+   "changeYtd": 28.08799336529453,
    "close1w": 342.0,
    "closeYtd": 271.8599853515625,
-   "high52": 348.15,
+   "high52": 348.36,
    "low52": 243.42,
-   "dayHigh": 347.28,
+   "dayHigh": 348.36,
    "dayLow": 342.28,
-   "volume": 13095166,
-   "asOf": "2026-10-22T11:45",
+   "volume": 46659852,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     336.91,
     340.08,
@@ -4237,7 +4237,7 @@
     342.94,
     339.5,
     343.99,
-    345.16
+    348.22
    ],
    "consensus": {
     "rating": "Buy",
@@ -4254,36 +4254,36 @@
      "sell": 3,
      "strongSell": 3
     },
-    "upsidePct": -4.870132692084828
+    "upsidePct": -5.70609097696858
    },
    "news": [
     {
-     "title": "Alliance for Open Media Sees Rapid AV2 Adoption Across the Video Ecosystem Just Four Months After Release",
-     "link": "https://finance.yahoo.com/technology/articles/alliance-open-media-sees-rapid-150000402.html?.tsrc=rss",
+     "title": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
+     "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "WAKEFIELD, Mass., October 22, 2026--The Alliance for Open Media (AOMedia) today announced significant ecosystem momentum behind AV2, its next-generation royalty-free video codec, just four months after the specification's official publication. Building on the strong interest…",
-     "published": "2026-10-22T15:00+00:00"
+     "summary": "The S&P 500 and Nasdaq tumbled below 50-day lines as Meta led an AI stock rout. But the Warren Buffett market is thriving.",
+     "published": "2026-10-22T20:59+00:00"
     },
     {
-     "title": "iPhone Duo already backordered until 2027 as pre-order sales soar",
-     "link": "https://www.cbsnews.com/news/iphone-duo-pre-order-sales-apple-foldable/?.tsrc=rss",
+     "title": "Apple’s foldable iPhone has a $2,000 app problem",
+     "link": "https://finance.yahoo.com/video/apples-foldable-iphone-has-a-2000-app-problem-203418718.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Consumer demand for Apple's first foldable phone is strong despite the device's hefty $1,999 price tag.",
-     "published": "2026-10-22T14:36+00:00"
+     "summary": "Apple's (AAPL) new foldable iPhone Duo hits stores Friday. Yahoo Finance Tech Editor Dan Howley got his hands on one and joins Brooke DiPalma on Market Domination to share his takeaways on the new device.",
+     "published": "2026-10-22T20:34+00:00"
     },
     {
-     "title": "What Intel, Boeing, Nike Have In Common With Each Other — And Apple",
-     "link": "https://finance.yahoo.com/m/901193fa-8922-3df6-9417-b947a80babdc/what-intel%2C-boeing%2C-nike-have.html?.tsrc=rss",
+     "title": "Here Are 4 ETFs That Run an Entire Retirement Portfolio for Less Than $50 a Year on $100,000",
+     "link": "https://247wallst.com/investing/etf/2026/10/22/here-are-4-etfs-that-run-an-entire-retirement-portfolio-for-less-than-50-a-year-on-100000/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Three S&P 500 ccompanies in different stages of comebacks show why it's important to pay attention to corporate turnounds.",
-     "published": "2026-10-22T14:29+00:00"
+     "summary": "Most retirement portfolios quietly bleed money through fees before a single stock moves. Four index ETFs exist that together cover every major asset class a retiree needs, and the math on what they actually cost per year may surprise you.",
+     "published": "2026-10-22T20:33+00:00"
     },
     {
-     "title": "One Reason Alphabet Stock Looks Better Than Its Price",
-     "link": "https://www.trefis.com/articles/619946/one-reason-alphabet-stock-looks-better-than-its-price/2026-10-22?.tsrc=rss",
+     "title": "Apple Reportedly Raised Its iPhone Duo Target 44%. Here’s What November 2 Has to Show",
+     "link": "https://www.tikr.com/blog/apple-reportedly-raised-its-iphone-duo-target-44-heres-what-november-2-has-to-show?ref=yahoofinance&.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "For questions about this article or underlying research, email help@trefis.com.",
-     "published": "2026-10-22T14:07+00:00"
+     "summary": "Key Stats for Apple StockCurrent Price: $343. 99Target Price (Mid): ~$485Street Target: ~$328Potential Total Return: ~41%Annualized IRR: ~9% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR’s new Valuation Model (It’s free)__ >>> What…",
+     "published": "2026-10-22T20:32+00:00"
     }
    ]
   },
@@ -4293,21 +4293,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 439.115,
+   "price": 443.85,
    "prevClose": 428.1199951171875,
-   "change": 10.995004882812509,
-   "changePct": 2.568206345934132,
-   "change1w": 2.6305368657434824,
-   "change1m": 9.208138476291738,
-   "changeYtd": -22.467156692324654,
+   "change": 15.730004882812523,
+   "changePct": 3.67420467677686,
+   "change1w": 3.737207309839663,
+   "change1m": 10.385735542402541,
+   "changeYtd": -21.631115989862103,
    "close1w": 427.8599853515625,
    "closeYtd": 566.3599853515625,
    "high52": 603.88,
    "low52": 328.57,
-   "dayHigh": 441.35,
+   "dayHigh": 444.15,
    "dayLow": 427.47,
-   "volume": 868100,
-   "asOf": "2026-10-22T11:44",
+   "volume": 2772671,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     356.83,
     361.8,
@@ -4371,7 +4371,7 @@
     433.18,
     438.0,
     428.12,
-    439.115
+    443.85
    ],
    "consensus": {
     "rating": "Buy",
@@ -4388,9 +4388,16 @@
      "sell": 1,
      "strongSell": 0
     },
-    "upsidePct": 9.341136148844843
+    "upsidePct": 8.174682888363183
    },
    "news": [
+    {
+     "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
+     "link": "https://www.fool.com/investing/2026/10/22/cathie-wood-goes-bargain-hunting-3-stocks-she-just/?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "summary": "Ark Invest bought into some market laggards on Wednesday.",
+     "published": "2026-10-22T16:01+00:00"
+    },
     {
      "title": "Revvity Launches Signals LabGistics to Coordinate Scientific Workflows",
      "link": "https://finance.yahoo.com/healthcare/articles/revvity-launches-signals-labgistics-coordinate-133400756.html?.tsrc=rss",
@@ -4411,13 +4418,6 @@
      "source": "Yahoo Finance",
      "summary": "Intuitive Surgical stock came into Thursday with strong recent momentum, then slipped about 2% after the market had its first clean look at Q3 2026 numbers. The initial reaction focused on the headline gap between rich expectations and reality. The company delivered roughly…",
      "published": "2026-10-22T10:10+00:00"
-    },
-    {
-     "title": "2 Healthcare Stocks to Buy After Crushing Q3 Earnings Expectations: ELV & ISRG",
-     "link": "https://finance.yahoo.com/healthcare/articles/2-healthcare-stocks-buy-crushing-204600686.html?.tsrc=rss",
-     "source": "Yahoo Finance",
-     "summary": "Intuitive Surgical (ISRG) and Elevance Health (ELV) delivered impressive Q3 earnings beats, making both healthcare stocks worth considering as their growth outlooks improve.",
-     "published": "2026-10-21T20:46+00:00"
     }
    ]
   },
@@ -4427,21 +4427,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 237.98,
+   "price": 237.94,
    "prevClose": 239.33999633789062,
-   "change": -1.3599963378906352,
-   "changePct": -0.5682277758418008,
-   "change1w": -2.694527998881968,
-   "change1m": -4.8308396690930895,
-   "changeYtd": 103.07193023482309,
+   "change": -1.3999963378906273,
+   "changePct": -0.5849404024867444,
+   "change1w": -2.710883234112005,
+   "change1m": -4.846835830170637,
+   "changeYtd": 103.03779763036309,
    "close1w": 244.57000732421875,
    "closeYtd": 117.19000244140625,
    "high52": 286.99,
    "low52": 85.68,
    "dayHigh": 246.36,
    "dayLow": 235.17,
-   "volume": 4123406,
-   "asOf": "2026-10-22T11:44",
+   "volume": 10067471,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     180.11,
     181.8,
@@ -4505,7 +4505,7 @@
     228.1,
     227.37,
     239.34,
-    237.98
+    237.94
    ],
    "consensus": {
     "rating": "Buy",
@@ -4522,36 +4522,36 @@
      "sell": 0,
      "strongSell": 1
     },
-    "upsidePct": 3.6431632910328693
+    "upsidePct": 3.6605867025300443
    },
    "news": [
     {
-     "title": "Should One Cost Scare You About CrowdStrike Stock?",
-     "link": "https://www.trefis.com/articles/619906/should-one-cost-scare-you-about-crowdstrike-stock/2026-10-22?.tsrc=rss",
+     "title": "Fortinet (FTNT) vs. CSCO and PANW: Can Its Hardware-Software Advantage Support Long-Term Growth?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/fortinet-ftnt-vs-csco-panw-204618488.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "For questions about this article or underlying research, email help@trefis.com.",
-     "published": "2026-10-22T13:39+00:00"
+     "summary": "Is FTNT a good stock to buy? We came across a bullish thesis on Fortinet, Inc. on Astute Optics – US’s Substack. In this article, we will summarize the bulls’ thesis on FTNT. Fortinet, Inc.’s share was trading at $170.93as of October 20th 2026. FTNT’s trailing and forward P/E…",
+     "published": "2026-10-22T20:46+00:00"
     },
     {
-     "title": "Deutsche Bank names three stocks as standouts as AI usage grows",
-     "link": "https://finance.yahoo.com/technology/ai/articles/deutsche-bank-names-three-stocks-125839294.html?.tsrc=rss",
+     "title": "CrowdStrike Stock Rose 5% as It Expanded Its NVIDIA AI Security Deal. Here’s Where the Stock Could Go by 2031",
+     "link": "https://www.tikr.com/blog/crowdstrike-stock-rose-5-as-it-expanded-its-nvidia-ai-security-deal-heres-where-the-stock-could-go-by-2031?ref=yahoofinance&.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Investing.com -- Deutsche Bank said rising artificial intelligence token usage is creating new growth opportunities across technology, with infrastructure and cybersecurity companies best positioned to benefit as AI adoption accelerates.",
-     "published": "2026-10-22T12:58+00:00"
+     "summary": "Key Stats for CrowdStrike StockCurrent Price: $239. 34Target Price (Mid): ~$466Street Target: ~$246Potential Total Return: ~95%Annualized IRR: ~17% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR’s new Valuation Model (It’s free)__ >>>…",
+     "published": "2026-10-22T19:57+00:00"
     },
     {
-     "title": "It’s Been All Downhill Since Cerebras Systems May IPO: 180% Gains Await According to This Wall Street Analyst",
-     "link": "https://247wallst.com/investing/2026/10/22/its-been-all-downhill-since-cerebras-systems-may-ipo-180-gains-await-according-to-this-wall-street-analyst/?.tsrc=rss",
+     "title": "Ent Appoints Kevin Arsenault Chief Revenue Officer",
+     "link": "https://finance.yahoo.com/technology/ai/articles/ent-appoints-kevin-arsenault-chief-173500137.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Cerebras Systems has shed more than 60% since its splashy debut, yet Wall Street analysts keep raising their price targets. One report about a single customer could determine whether this AI chipmaker stages a massive comeback or slides further into irrelevance.",
-     "published": "2026-10-22T12:45+00:00"
+     "summary": "SAN FRANCISCO, October 22, 2026--Ent appoints Kevin Arsenault, former CrowdStrike and Proofpoint sales executive, as Chief Revenue Officer.",
+     "published": "2026-10-22T17:35+00:00"
     },
     {
-     "title": "Our Pick Of The Best Cybersecurity Stocks In October 2026",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/pick-best-cybersecurity-stocks-october-111610614.html?.tsrc=rss",
+     "title": "Website PHP Flaws Spur a Cybersecurity Stock Rally—but Not All Are Buys",
+     "link": "https://finance.yahoo.com/m/aeb062ca-759a-3757-b428-062846a24ed4/website-php-flaws-spur-a.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Critical security flaws in PHP uncovered this year have forced governments and companies worldwide to take websites offline and rush through emergency fixes. Cyberattacks are not just an IT problem anymore; they are an operational and financial risk. That urgency is why…",
-     "published": "2026-10-22T11:16+00:00"
+     "summary": "Cloudflare and other cybersecurity stocks have gained as website operators rush to patch PHP flaws, but price targets suggest uneven upside.",
+     "published": "2026-10-22T16:02+00:00"
     }
    ]
   },
@@ -4561,21 +4561,21 @@
    "type": "ETF",
    "currency": "USD",
    "exchange": "NasdaqGM",
-   "price": 527.3,
+   "price": 523.35,
    "prevClose": 556.7000122070312,
-   "change": -29.400012207031295,
-   "changePct": -5.2811229679114335,
-   "change1w": -5.643838189784123,
-   "change1m": -13.195933736074661,
-   "changeYtd": 46.41934658334985,
+   "change": -33.35001220703123,
+   "changePct": -5.990661303349976,
+   "change1w": -6.350659428453465,
+   "change1m": -13.846182288592201,
+   "changeYtd": 45.32252045210725,
    "close1w": 558.8400268554688,
    "closeYtd": 360.1300048828125,
    "high52": 671.83,
    "low52": 315.05,
    "dayHigh": 540.86,
-   "dayLow": 525.5,
-   "volume": 6383925,
-   "asOf": "2026-10-22T11:45",
+   "dayLow": 520.53,
+   "volume": 15013514,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     548.55,
     529.6,
@@ -4639,7 +4639,7 @@
     548.46,
     546.36,
     556.7,
-    527.3
+    523.35
    ],
    "consensus": {
     "rating": null,
@@ -4682,21 +4682,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NYSE",
-   "price": 697.99,
+   "price": 704.05,
    "prevClose": 740.2100219726562,
-   "change": -42.22002197265624,
-   "changePct": -5.703789562338013,
-   "change1w": -5.117994385668434,
-   "change1m": -13.616169160767932,
-   "changeYtd": 21.840907352324802,
+   "change": -36.160021972656295,
+   "changePct": -4.88510299769922,
+   "change1w": -4.294221904654605,
+   "change1m": -12.866178451895681,
+   "changeYtd": 22.898738981080346,
    "close1w": 735.6400146484375,
    "closeYtd": 572.8699951171875,
    "high52": 1073.46,
    "low52": 513.01,
    "dayHigh": 722.045,
    "dayLow": 695.33,
-   "volume": 1194458,
-   "asOf": "2026-10-22T11:45",
+   "volume": 3045289,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     873.28,
     840.85,
@@ -4760,7 +4760,7 @@
     725.79,
     725.24,
     740.21,
-    697.99
+    704.05
    ],
    "consensus": {
     "rating": "Buy",
@@ -4777,9 +4777,23 @@
      "sell": 1,
      "strongSell": 0
     },
-    "upsidePct": 35.49764323271107
+    "upsidePct": 34.3313685107592
    },
    "news": [
+    {
+     "title": "GE Vernova Stock Is Down 10%. Blame Meta.",
+     "link": "https://finance.yahoo.com/m/e4c2f7ec-18d9-36a7-aeb7-f9dba40251f8/ge-vernova-stock-is-down-10%25..html?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "summary": "AI demand is off the charts, but financing all the growth will be tough.",
+     "published": "2026-10-22T17:43+00:00"
+    },
+    {
+     "title": "What Really Drove Deere Stock Higher?",
+     "link": "https://www.trefis.com/articles/619975/what-really-drove-deere-stock-higher/2026-10-22?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "summary": "For questions about this article or underlying research, email help@trefis.com.",
+     "published": "2026-10-22T15:50+00:00"
+    },
     {
      "title": "Caterpillar (CAT) Reports Next Week: Wall Street Expects Earnings Growth",
      "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-reports-next-week-130021104.html?.tsrc=rss",
@@ -4793,20 +4807,6 @@
      "source": "Yahoo Finance",
      "summary": "Caterpillar (CAT) appears to have found support after losing some value lately, as indicated by the formation of a hammer chart. In addition to this technical chart pattern, strong agreement among Wall Street analysts in revising earnings estimates higher enhances the stock's…",
      "published": "2026-10-22T12:55+00:00"
-    },
-    {
-     "title": "Applied Aerospace Defense And 2 Other Top EV Stocks To Watch",
-     "link": "https://finance.yahoo.com/energy/articles/applied-aerospace-defense-2-other-081254106.html?.tsrc=rss",
-     "source": "Yahoo Finance",
-     "summary": "Oil prices have surged above $111 a barrel after attacks on Saudi energy infrastructure, putting clean transport back in the spotlight as fuel costs bite and energy security feels fragile. Electric and self-driving vehicle stocks sit right at that crossroads of efficiency and…",
-     "published": "2026-10-22T08:12+00:00"
-    },
-    {
-     "title": "Caterpillar (CAT) Laps the Stock Market: Here's Why",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-laps-stock-market-204503640.html?.tsrc=rss",
-     "source": "Yahoo Finance",
-     "summary": "The latest trading day saw Caterpillar (CAT) settling at $740.21, representing a +2.06% change from its previous close.",
-     "published": "2026-10-21T20:45+00:00"
     }
    ]
   },
@@ -4816,21 +4816,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 198.21,
+   "price": 196.19,
    "prevClose": 201.72000122070312,
-   "change": -3.510001220703117,
-   "changePct": -1.740036287657365,
-   "change1w": -1.1421446384039857,
-   "change1m": 7.146329052530609,
-   "changeYtd": 11.510548523206765,
+   "change": -5.530001220703127,
+   "changePct": -2.741424344258614,
+   "change1w": -2.1496259351620917,
+   "change1m": 6.054378168689656,
+   "changeYtd": 10.374120956399446,
    "close1w": 200.5,
    "closeYtd": 177.75,
    "high52": 212.94,
    "low52": 106.37,
    "dayHigh": 202.63,
-   "dayLow": 197.519,
-   "volume": 8316871,
-   "asOf": "2026-10-22T11:45",
+   "dayLow": 194.535,
+   "volume": 22824523,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     131.53,
     123.53,
@@ -4894,7 +4894,7 @@
     194.15,
     192.6,
     201.72,
-    198.21
+    196.19
    ],
    "consensus": {
     "rating": "Buy",
@@ -4911,36 +4911,36 @@
      "sell": 1,
      "strongSell": 2
     },
-    "upsidePct": 4.145567832097274
+    "upsidePct": 5.217865334624605
    },
    "news": [
     {
-     "title": "Palantir Stock Holds the Line. Wall Street Sees a 24% Gain Ahead.",
-     "link": "https://finance.yahoo.com/m/cba7cee4-2126-3651-ae9a-292af7e78398/palantir-stock-holds-the.html?.tsrc=rss",
+     "title": "Cathie Wood sells $16 million of surging tech stock",
+     "link": "https://www.thestreet.com/investing/stocks/cathie-wood-sells-16-million-of-surging-tech-stock-palantir-pltr?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Palantir stock is holding above a key technical level and Wall Street expects third-quarter earnings to move the stock higher.",
-     "published": "2026-10-22T14:04+00:00"
+     "summary": "Here are Cathie Wood’s latest moves.",
+     "published": "2026-10-22T19:13+00:00"
     },
     {
-     "title": "Global Signals Intelligence (SIGINT) Market Size, Share, Growth, and Forecast 2026-2035 | Defense Modernization and AI Push Signals Intelligence Toward a $60 Billion Market",
-     "link": "https://finance.yahoo.com/technology/ai/articles/global-signals-intelligence-sigint-market-132400112.html?.tsrc=rss",
+     "title": "All Eyes Will Be on Palantir on Nov. 2. Here's What It Must Say to Keep the Run Going.",
+     "link": "https://www.fool.com/investing/2026/10/22/all-eyes-will-be-on-palantir-on-nov-2-heres-what-i/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Spending on signals intelligence is set to roughly double from $30.4 billion in 2025 to $60.9 billion by 2035, a new Research and Markets report finds, as cyberattacks drive demand at Lockheed Martin, Northrop Grumman, L3Harris and Palantir, though high system costs and…",
-     "published": "2026-10-22T13:24+00:00"
+     "summary": "Palantir currently projects its revenue will slow, but past results don't support this thesis.",
+     "published": "2026-10-22T18:35+00:00"
     },
     {
-     "title": "Stagwell (STGW) and Palantir (PLTR) Expand AI Partnership to Transform Enterprise Marketing",
-     "link": "https://finance.yahoo.com/technology/ai/articles/stagwell-stgw-palantir-pltr-expand-130000172.html?.tsrc=rss",
+     "title": "What Palantir Technologies Holders Got Right",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-holders-got-161512504.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Palantir to support on AI-powered marketing solutions, with serving as a premier marketing transformation partner for PalantirNEW YORK, NY AND MIAMI, FL / ACCESS Newswire / October 22, 2026 / (NASDAQ:STGW), the global challenger network transforming marketing through AI, and…",
-     "published": "2026-10-22T13:00+00:00"
+     "summary": "If Palantir Technologies sat on your watchlist instead of in your holdings, the move over the past few months may feel like a missed shot. Holding Palantir Technologies from the start of the year would have returned 20.2%, including dividends. The obvious question is what,…",
+     "published": "2026-10-22T16:15+00:00"
     },
     {
-     "title": "The Best Aerospace and Defense ETFs to Buy",
-     "link": "https://www.kiplinger.com/investing/etfs/best-aerospace-and-defense-etfs?.tsrc=rss",
+     "title": "Palantir Just Gained 7% in a Month: Take Profits, or Buy More?",
+     "link": "https://www.tikr.com/blog/palantir-just-gained-7-in-a-month-take-profits-or-buy-more?ref=yahoofinance&.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "The best aerospace and defense ETFs can help investors capitalize on higher defense spending and hedge against the potential of a large-scale conflict.",
-     "published": "2026-10-22T12:44+00:00"
+     "summary": "Key TakeawaysPalantir stock rose 7% in the past month as five Wall Street firms, including Goldman Sachs and Barclays, set targets of $230 to $265, while the Nasdaq 100 fell 2%. A 7% software-wide drop on Oct.",
+     "published": "2026-10-22T16:04+00:00"
     }
    ]
   },
@@ -4950,21 +4950,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NYSE",
-   "price": 629.13,
+   "price": 633.21,
    "prevClose": 622.6199951171875,
-   "change": 6.5100048828124955,
-   "changePct": 1.0455823670724174,
-   "change1w": 2.078464519007972,
-   "change1m": 13.175265506051904,
-   "changeYtd": 10.20354446100189,
+   "change": 10.590004882812536,
+   "changePct": 1.70087773696046,
+   "change1w": 2.740458280611402,
+   "change1m": 13.909223643900525,
+   "changeYtd": 10.918230553543795,
    "close1w": 616.3200073242188,
    "closeYtd": 570.8800048828125,
-   "high52": 630.52,
+   "high52": 633.294,
    "low52": 464.52,
-   "dayHigh": 630.52,
+   "dayHigh": 633.294,
    "dayLow": 623.88,
-   "volume": 1157388,
-   "asOf": "2026-10-22T11:44",
+   "volume": 3942852,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     551.71,
     562.75,
@@ -5028,7 +5028,7 @@
     616.4,
     620.42,
     622.62,
-    629.13
+    633.21
    ],
    "consensus": {
     "rating": "Buy",
@@ -5045,9 +5045,23 @@
      "sell": 0,
      "strongSell": 1
     },
-    "upsidePct": 7.279894457425318
+    "upsidePct": 6.5886514742344415
    },
    "news": [
+    {
+     "title": "Visa, Mastercard bet on AI, crypto ahead of earnings",
+     "link": "https://www.americanbanker.com/payments/news/visa-and-mastercard-launch-ai-and-stablecoin-tech-products?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "summary": "With the big card companies scheduled to issue quarterly reports next week, they're releasing a number of products that support digital assets and artificial intelligence.",
+     "published": "2026-10-22T19:25+00:00"
+    },
+    {
+     "title": "Visa and Mastercard tokenization fees could support revenue growth, UBS says",
+     "link": "https://www.proactiveinvestors.com/companies/news/1100580/visa-and-mastercard-tokenization-fees-could-support-revenue-growth-ubs-says-1100580.html?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "summary": "Visa Inc (NYSE:V, XETRA:3V64) and Mastercard Inc (NYSE:MA) could generate a growing stream of revenue from payment tokenization as digital transactions expand and card networks charge for technology that helps secure payments and reduce fraud, according to UBS. Analysts…",
+     "published": "2026-10-22T18:54+00:00"
+    },
     {
      "title": "What Will Decide PayPal Stock Over The Next Six Months?",
      "link": "https://www.trefis.com/articles/619938/what-will-decide-paypal-stock-over-the-next-six-months/2026-10-22?.tsrc=rss",
@@ -5061,20 +5075,6 @@
      "source": "Yahoo Finance",
      "summary": "San Francisco based SoFi Technologies (NASDAQ: $SOFI) launched SoFi Earn on Thursday, a tokenized bank de...",
      "published": "2026-10-22T13:48+00:00"
-    },
-    {
-     "title": "MasterCard (MA) Reports Next Week: Wall Street Expects Earnings Growth",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-reports-next-week-130018229.html?.tsrc=rss",
-     "source": "Yahoo Finance",
-     "summary": "MasterCard (MA) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-     "published": "2026-10-22T13:00+00:00"
-    },
-    {
-     "title": "Mastercard Incorporated (MA) is Attracting Investor Attention: Here is What You Should Know",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/mastercard-incorporated-ma-attracting-investor-120003385.html?.tsrc=rss",
-     "source": "Yahoo Finance",
-     "summary": "Recently, Zacks.com users have been paying close attention to MasterCard (MA). This makes it worthwhile to examine what the stock has in store.",
-     "published": "2026-10-22T12:00+00:00"
     }
    ]
   },
@@ -5084,21 +5084,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 169.975,
+   "price": 169.09,
    "prevClose": 177.0800018310547,
-   "change": -7.105001831054693,
-   "changePct": -4.01231181250682,
-   "change1w": -7.526792743786159,
-   "change1m": -15.464766594492174,
-   "changeYtd": -24.836384337683604,
+   "change": -7.990001831054684,
+   "changePct": -4.512085920734088,
+   "change1w": -8.00826818677336,
+   "change1m": -15.904911801515997,
+   "changeYtd": -25.227734829586236,
    "close1w": 183.80999755859375,
    "closeYtd": 226.13999938964844,
    "high52": 373.25,
    "low52": 139.11,
    "dayHigh": 173.64,
-   "dayLow": 168.55,
-   "volume": 2572786,
-   "asOf": "2026-10-22T11:44",
+   "dayLow": 166.74,
+   "volume": 6546413,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     167.49,
     167.9,
@@ -5162,7 +5162,7 @@
     168.45,
     170.85,
     177.08,
-    169.975
+    169.09
    ],
    "consensus": {
     "rating": "Buy",
@@ -5179,36 +5179,36 @@
      "sell": 1,
      "strongSell": 1
     },
-    "upsidePct": 24.90428592440066
+    "upsidePct": 25.558022354958897
    },
    "news": [
     {
-     "title": "Should You Buy Coinbase Stock Under $170?",
-     "link": "https://247wallst.com/investing/cryptocurrency/2026/10/22/should-you-buy-coinbase-stock-under-170/?.tsrc=rss",
+     "title": "Roundtable CEO, Coinbase's D'Agostino discuss USDC \"forcing function\" partnership",
+     "link": "https://www.thestreet.com/crypto/innovation/roundtable-ceo-coinbases-dagostino-discuss-usdc-forcing-function-partnership?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Coinbase (NASDAQ: COIN) stock is trading around $170 after a 4.1% premarket drop on October 22, 2026. At this price, we believe the shares are fairly valued. The stock rose 5% on October 21 after the Office of the Comptroller of the Currency (OCC) finalized rules related to…",
-     "published": "2026-10-22T15:38+00:00"
+     "summary": "Roundtable CEO James Heckman and Coinbase Head of Institutional Strategy John D’Agostino told The Block’s that real-time USDC settlement is the forcing function set to drag mainstream media on-chain, paying reporters in minutes instead of months. Their pitch to publishers is…",
+     "published": "2026-10-22T20:39+00:00"
     },
     {
-     "title": "Coinbase Just Dropped 13% in a Month. Is It Time to Sell, or Load Up?",
-     "link": "https://www.tikr.com/blog/coinbase-just-dropped-13-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss",
+     "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
+     "link": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Key TakeawaysCoinbase stock fell 13% in the past month (through Monday’s close). The S&P 500 rose less than 1% over the same stretch, and other crypto stocks fell with Coinbase.",
-     "published": "2026-10-22T15:26+00:00"
+     "summary": "Andreessen Horowitz is renaming its crypto fund a16z Frontier and widening its scope to AI, autonomous machines and biology, saying the line between crypto and everyday tech has blurred.",
+     "published": "2026-10-22T19:46+00:00"
     },
     {
-     "title": "How Much Downside Is Left In Coinbase Stock?",
-     "link": "https://www.trefis.com/articles/619992/how-much-downside-is-left-in-coinbase-stock/2026-10-22?.tsrc=rss",
+     "title": "Intelligent Payments: MoneyGram Chairman & CEO Anthony Soohoo, Live from Money20/20 2026",
+     "link": "https://finance.yahoo.com/markets/crypto/articles/intelligent-payments-moneygram-chairman-ceo-192751278.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "For questions about this article or underlying research, email help@trefis.com.",
-     "published": "2026-10-22T14:07+00:00"
+     "summary": "Watch Video Highlights Below: Tech Edge hosted a fireside chat on at Money20/20 USA 2026 in Las Vegas, Nevada with Anthony Soohoo, Chairman and CEO of MoneyGram. The in-person interview was joined by Editor-in-Chief John Jannarone and they discussed how the company combines…",
+     "published": "2026-10-22T19:27+00:00"
     },
     {
-     "title": "Coinbase Ireland fined €3.25M by Irish regulators over safeguarding breaches",
-     "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ireland-fined-3-25m-132058923.html?.tsrc=rss",
+     "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
+     "link": "https://decrypt.co/381638/coinbase-fined-again-ireland-3-6m-fund-safeguarding?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Investing.com --The Central Bank of Ireland has fined Coinbase (NASDAQ:COIN) Ireland Limited €3.25 million ($3.6 million) for failures in its client fund safeguarding and outsourcing governance frameworks, marking the latest regulatory penalty against the cryptocurrency…",
-     "published": "2026-10-22T13:20+00:00"
+     "summary": "The Central Bank of Ireland penalized Coinbase Ireland €3,252,618 for leaning too heavily on its U.S. parent and leaving its safeguarding account underfunded—its second hit to the exchange’s European arm in the last year.",
+     "published": "2026-10-22T18:36+00:00"
     }
    ]
   },
@@ -5218,21 +5218,21 @@
    "type": "ETF",
    "currency": "USD",
    "exchange": "NYSEArca",
-   "price": 152.04,
+   "price": 151.64,
    "prevClose": 152.77999877929688,
-   "change": -0.739998779296883,
-   "changePct": -0.4843557960527711,
-   "change1w": 1.5088805175070608,
-   "change1m": -6.072771615314487,
-   "changeYtd": 24.694496530355604,
+   "change": -1.1399987792968886,
+   "changePct": -0.7461701717537683,
+   "change1w": 1.2418221630805748,
+   "change1m": -6.319883502672252,
+   "changeYtd": 24.36643944924444,
    "close1w": 149.77999877929688,
    "closeYtd": 121.93000030517578,
    "high52": 169.89,
    "low52": 106.3,
    "dayHigh": 154.44,
-   "dayLow": 151.46,
-   "volume": 3334718,
-   "asOf": "2026-10-22T11:44",
+   "dayLow": 149.709,
+   "volume": 11584469,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     150.59,
     149.78,
@@ -5296,13 +5296,20 @@
     147.86,
     153.24,
     152.78,
-    152.04
+    151.64
    ],
    "consensus": {
     "rating": null,
     "note": "Fund — no sell-side analyst coverage"
    },
    "news": [
+    {
+     "title": "Ionis Pharmaceuticals Secures FDA Orphan Drug Designation For Rare Epilepsy Treatment",
+     "link": "https://stocktwits.com/news-articles/markets/equity/ionis-pharmaceuticals-secures-fda-orphan-drug-designation-for-rare-epilepsy-treatment/cZxw0yGRBDO?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "summary": "The treatment targets the SCN1A gene, which helps the brain produce a protein that controls electrical activity and prevents seizures",
+     "published": "2026-10-22T18:00+00:00"
+    },
     {
      "title": "Biotech Giants vs. Emerging Innovators: Which ETF Is the Better Buy?",
      "link": "https://www.fool.com/coverage/etfs/2026/10/22/biotech-giants-vs-emerging-innovators-which-etf-is-the-better-buy/?.tsrc=rss",
@@ -5323,13 +5330,6 @@
      "source": "Yahoo Finance",
      "summary": "Traders poured tens of millions into a triple-leveraged biotech fund in a single day, a move that looks like bold conviction until you see what that same bet returned over five years.",
      "published": "2026-10-20T08:48+00:00"
-    },
-    {
-     "title": "Stocktwits Pharma Pulse: Moderna-Merck Cancer Vaccine Grabs Spotlight As Kidney-Cancer And MS Data Pour In",
-     "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-pharma-pulse-moderna-merck-cancer-vaccine-spotlight-kidney-cancer-ms-data/cZx8JvJRBtx?.tsrc=rss",
-     "source": "Yahoo Finance",
-     "summary": "Humacyte, Vera, Maze and Climb Bio will present dialysis-access and kidney-disease findings at ASN Kidney Week.",
-     "published": "2026-10-19T03:15+00:00"
     }
    ]
   },
@@ -5339,21 +5339,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NYSE",
-   "price": 69.515,
+   "price": 70.63,
    "prevClose": 72.80000305175781,
-   "change": -3.285003051757812,
-   "changePct": -4.512366640180376,
-   "change1w": 0.42617563434634853,
-   "change1m": -2.0639663111406192,
-   "changeYtd": 15.64631391474116,
+   "change": -2.170003051757817,
+   "changePct": -2.980773297790984,
+   "change1w": 2.036981731336862,
+   "change1m": -0.49310135302974567,
+   "changeYtd": 17.50124651942988,
    "close1w": 69.22000122070312,
    "closeYtd": 60.11000061035156,
    "high52": 80.08,
    "low52": 56.19,
    "dayHigh": 72.995,
    "dayLow": 68.965,
-   "volume": 3426508,
-   "asOf": "2026-10-22T11:45",
+   "volume": 8898025,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     70.79,
     70.16,
@@ -5417,7 +5417,7 @@
     70.38,
     70.33,
     72.8,
-    69.515
+    70.63
    ],
    "consensus": {
     "rating": "Buy",
@@ -5434,9 +5434,23 @@
      "sell": 0,
      "strongSell": 0
     },
-    "upsidePct": 22.635402431129982
+    "upsidePct": 20.699419510123196
    },
    "news": [
+    {
+     "title": "Is Williams-Sonoma Stock's Winning Streak Skill Or Luck?",
+     "link": "https://www.trefis.com/articles/619974/is-williams-sonoma-stocks-winning-streak-skill-or-luck/2026-10-22?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "summary": "For questions about this article or underlying research, email help@trefis.com.",
+     "published": "2026-10-22T17:41+00:00"
+    },
+    {
+     "title": "Enterprise Products Covers Its Payout 1.9 Times. These 4 Dividend Stocks Also Deserve a Look",
+     "link": "https://247wallst.com/investing/2026/10/22/enterprise-products-covers-its-payout-1-9-times-these-4-dividend-stocks-also-deserve-a-look/?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "summary": "Five dividend payers ranging from pipeline giants to a consumer staples icon promise real cash backing their payouts, but coverage varies wildly and one name barely covers its distribution at all. Knowing which yields come with the widest safety margin could reshape your…",
+     "published": "2026-10-22T16:45+00:00"
+    },
     {
      "title": "Kinder Morgan (KMI) Tops Q3 Earnings and Revenue Estimates",
      "link": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-kmi-tops-q3-201502119.html?.tsrc=rss",
@@ -5450,20 +5464,6 @@
      "source": "Yahoo Finance",
      "summary": "A moat is usually described as something a competitor cannot copy. The test for The Williams Companies, Inc. (NYSE:WMB) is narrower than that. Nobody doubts a rival could weld pipe. The doubt is whether anyone could get permission to lay it. The stock closed at $71.28 on…",
      "published": "2026-10-20T02:23+00:00"
-    },
-    {
-     "title": "Enterprise Products vs. Williams: Which Pipeline Dividend Wins for Retirees?",
-     "link": "https://247wallst.com/investing/2026/10/16/enterprise-products-vs-williams-which-pipeline-dividend-wins-for-retirees/?.tsrc=rss",
-     "source": "Yahoo Finance",
-     "summary": "Two pipeline giants both raised their payouts this quarter, but one cut its dividend during the last industry bust while the other kept raising through it. For retirees living on portfolio income, that history changes everything about which stock belongs in the portfolio.",
-     "published": "2026-10-16T18:45+00:00"
-    },
-    {
-     "title": "What to Expect From The Williams Companies’ Next Quarterly Earnings Report",
-     "link": "https://www.barchart.com/story/news/8089864/what-to-expect-from-the-williams-companies-next-quarterly-earnings-report?.tsrc=rss",
-     "source": "Yahoo Finance",
-     "summary": "The Williams Companies is set to release its FY2026 Q3 earnings shortly, and analysts expect earnings to rise in the lower-double-digits.",
-     "published": "2026-10-16T10:34+00:00"
     }
    ]
   },
@@ -5473,21 +5473,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 870.11,
+   "price": 856.49,
    "prevClose": 913.6699829101562,
-   "change": -43.559982910156236,
-   "changePct": -4.767583889689808,
-   "change1w": -6.56436481201691,
-   "change1m": -20.621991965694342,
-   "changeYtd": 204.8631753742255,
+   "change": -57.17998291015624,
+   "changePct": -6.258275305053873,
+   "change1w": -8.026930868332006,
+   "change1m": -21.864511267193276,
+   "changeYtd": 200.09109316784134,
    "close1w": 931.239990234375,
    "closeYtd": 285.4100036621094,
    "high52": 1255.0,
    "low52": 192.59,
    "dayHigh": 908.3,
-   "dayLow": 868.32,
-   "volume": 12241847,
-   "asOf": "2026-10-22T11:45",
+   "dayLow": 849.25,
+   "volume": 31664464,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     900.2,
     820.53,
@@ -5551,7 +5551,7 @@
     904.9,
     896.07,
     913.67,
-    870.11
+    856.49
    ],
    "consensus": {
     "rating": "Buy",
@@ -5568,36 +5568,36 @@
      "sell": 0,
      "strongSell": 1
     },
-    "upsidePct": 79.35263357506521
+    "upsidePct": 82.2047192611706
    },
    "news": [
     {
-     "title": "Micron Technology Has Lost 25% From Its June High: Here’s Why Needham Sees 81% Upside",
-     "link": "https://www.tikr.com/blog/micron-technology-has-lost-25-from-its-june-high-heres-why-needham-sees-81-upside?ref=yahoofinance&.tsrc=rss",
+     "title": "Chip Stocks Tumble Despite Solid Earnings Reports",
+     "link": "https://finance.yahoo.com/m/590849aa-2dbe-3494-8c1f-3805dca35f0b/chip-stocks-tumble-despite.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Key TakeawaysMicron Technology shares are down 25% from their June 25 closing high, even after record fiscal fourth-quarter results. Needham reiterated its Buy rating and $1,650 price target on Oct.",
-     "published": "2026-10-22T15:28+00:00"
+     "summary": "Chip stocks fell Thursday despite solid quarterly earnings reports from Texas Instruments and Lam Research.",
+     "published": "2026-10-22T21:01+00:00"
     },
     {
-     "title": "Meta and chip stocks decline as AI trade comes under pressure: AlphaCheck",
-     "link": "https://finance.yahoo.com/markets/article/meta-and-chip-stocks-decline-as-ai-trade-comes-under-pressure-alphacheck-140107733.html?.tsrc=rss",
+     "title": "Micron Says Its Next AI Chips Need Even More Wafers. Here’s What That Means for the Stock",
+     "link": "https://www.tikr.com/blog/micron-says-its-next-ai-chips-need-even-more-wafers-heres-what-that-means-for-the-stock?ref=yahoofinance&.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Stocks declined as Big Tech led the AI trade lower on Thursday.",
-     "published": "2026-10-22T13:47+00:00"
+     "summary": "Key Stats for Micron StockCurrent Price: $913. 67Target Price (Mid): ~$1,220Street Target: ~$1,561Potential Total Return: ~34%Annualized IRR: ~6% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR’s new Valuation Model (It’s free)__ >>> What…",
+     "published": "2026-10-22T19:51+00:00"
     },
     {
-     "title": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints'",
-     "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-equipment-maker-lam-research-cites-supply-chain-constraints-130648719.html?.tsrc=rss",
+     "title": "Why Does SanDisk Stock's High Cash Yield Get So Little Credit?",
+     "link": "https://www.trefis.com/articles/619918/why-does-sandisk-stocks-high-cash-yield-get-so-little-credit/2026-10-22?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Chip stocks declined on Thursday amid concerns about supply constraints and lingering worries about the AI trade.",
-     "published": "2026-10-22T13:06+00:00"
+     "summary": "For questions about this article or underlying research, email help@trefis.com.",
+     "published": "2026-10-22T19:28+00:00"
     },
     {
-     "title": "Lam Research Q1 Earnings Beat on Systems Sales and Margin Gains",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-q1-earnings-beat-130300579.html?.tsrc=rss",
+     "title": "Why Micron Stock Is Falling Hard Today",
+     "link": "https://www.fool.com/investing/2026/10/22/why-micron-stock-is-falling-hard-today/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "LRCX beats Q1'27 estimates as NAND-led systems sales surge, foundry revenues hit a record, and margins widen ahead of higher December earnings.",
-     "published": "2026-10-22T13:03+00:00"
+     "summary": "The AI trade continues to come under pressure.",
+     "published": "2026-10-22T18:05+00:00"
     }
    ]
   },
@@ -5607,21 +5607,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NYSE",
-   "price": 822.82,
+   "price": 827.42,
    "prevClose": 925.9199829101562,
-   "change": -103.0999829101562,
-   "changePct": -11.134869622979092,
-   "change1w": -11.184750460725034,
-   "change1m": -13.41289150222218,
-   "changeYtd": 25.896230056319112,
+   "change": -98.49998291015629,
+   "changePct": -10.638066434269188,
+   "change1w": -10.688226132341361,
+   "change1m": -12.928823663460632,
+   "changeYtd": 26.60005672346266,
    "close1w": 926.4400024414062,
    "closeYtd": 653.5700073242188,
    "high52": 1195.94,
    "low52": 530.16,
    "dayHigh": 901.0,
-   "dayLow": 818.88,
-   "volume": 2389870,
-   "asOf": "2026-10-22T11:44",
+   "dayLow": 813.26,
+   "volume": 5811559,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     996.57,
     943.38,
@@ -5685,7 +5685,7 @@
     908.44,
     890.33,
     925.92,
-    822.82
+    827.42
    ],
    "consensus": {
     "rating": "Buy",
@@ -5702,36 +5702,36 @@
      "sell": 0,
      "strongSell": 0
     },
-    "upsidePct": 48.75395590773195
+    "upsidePct": 47.926965748954586
    },
    "news": [
     {
-     "title": "GE Vernova Sinks 11%, Vertiv 14%, Bloom Energy 15% in a Week as AI Power Stocks Slide",
-     "link": "https://www.tikr.com/blog/ge-vernova-sinks-11-vertiv-14-bloom-energy-15-in-a-week-as-ai-power-stocks-slide?ref=yahoofinance&.tsrc=rss",
+     "title": "BofA stays ahead of the curve on GE Vernova as AI power demand surges",
+     "link": "https://www.thestreet.com/investing/stocks/bank-of-america-remains-confident-ge-vernova-ai-power-demand-surges?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Key TakeawaysGE Vernova stock fell 11% in the past week (through Tuesday’s close), while Vertiv lost 14% and Bloom Energy 15%, as investors sold AI-infrastructure stocks. Venture Global’s power and grid deals with GE Vernova, worth up to $17.",
-     "published": "2026-10-22T13:44+00:00"
+     "summary": "Bank of America has key forecasts ahead of GEV’s third quarter, driven by data center demand for gas turbines and electrical gear.",
+     "published": "2026-10-22T21:17+00:00"
     },
     {
-     "title": "Trump Wants Data Centers to Pay a “Dividend” to Their Neighbors",
-     "link": "https://247wallst.com/investing/2026/10/22/trump-wants-data-centers-to-pay-a-dividend-to-their-neighbors/?.tsrc=rss",
+     "title": "GE Vernova Slumps 11% as Meta’s Spending Outlook Stokes AI Financing Worries; Vertiv Holdings Drops 7%, Eaton Slides 6%",
+     "link": "https://247wallst.com/investing/2026/10/22/ge-vernova-slumps-11-as-metas-spending-outlook-stokes-ai-financing-worries-vertiv-holdings-drops-7-eaton-slides-6/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Trump declared on Truth Social that data center developers must generate their own power and pay neighbors a dividend, but his posts named no amounts, no enforcement mechanism, and no federal program to back any of it up.",
-     "published": "2026-10-22T12:05+00:00"
+     "summary": "Meta's latest earnings call left a key question unanswered about how the next wave of AI infrastructure gets paid for, and power-equipment suppliers are taking the hit while investors wait for an answer.",
+     "published": "2026-10-22T18:39+00:00"
     },
     {
-     "title": "Investors Heavily Search GE Vernova Inc. (GEV): Here is What You Need to Know",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-ge-vernova-120004891.html?.tsrc=rss",
+     "title": "GE Vernova Stock Is Down 10%. Blame Meta.",
+     "link": "https://finance.yahoo.com/m/e4c2f7ec-18d9-36a7-aeb7-f9dba40251f8/ge-vernova-stock-is-down-10%25..html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "GE Vernova (GEV) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-     "published": "2026-10-22T12:00+00:00"
+     "summary": "AI demand is off the charts, but financing all the growth will be tough.",
+     "published": "2026-10-22T17:43+00:00"
     },
     {
-     "title": "Latest News In Energy Transition - SkySpecs Boosts Wind Energy Maintenance With New AI Module",
-     "link": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-skyspecs-113718147.html?.tsrc=rss",
+     "title": "GE Vernova Stock Plunges 10%. Is Meta To Blame?",
+     "link": "https://finance.yahoo.com/m/bcaf52d9-bcc3-3cc3-bc89-538e5ae7e4fb/ge-vernova-stock-plunges-10%25..html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "SkySpecs has launched a new Risk Management Module as part of its SkySpecs-Blade software, aimed at enhancing the predictive maintenance capabilities of wind energy fleets. This module uses risk models to allow fleet owners and operators to transition from reactive to…",
-     "published": "2026-10-22T11:37+00:00"
+     "summary": "GE Vernova stock is plunging Thursday even as analysts anticipate major earnings growth next week. Why?",
+     "published": "2026-10-22T17:41+00:00"
     }
    ]
   },
@@ -5741,21 +5741,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 150.023,
+   "price": 144.75,
    "prevClose": 159.30999755859375,
-   "change": -9.286997558593754,
-   "changePct": -5.829513339348347,
-   "change1w": 0.9440216181585859,
-   "change1m": -3.0358073834313215,
+   "change": -14.55999755859375,
+   "changePct": -9.139412329247342,
+   "change1w": -2.6039531989864417,
+   "change1m": -6.4438993937708355,
    "changeYtd": null,
    "close1w": 148.6199951171875,
    "closeYtd": null,
    "high52": 225.64,
    "low52": 104.83,
    "dayHigh": 154.22,
-   "dayLow": 148.28,
-   "volume": 94008583,
-   "asOf": "2026-10-22T11:45",
+   "dayLow": 143.21,
+   "volume": 194564470,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     113.5,
     116.41,
@@ -5819,7 +5819,7 @@
     147.96,
     147.79,
     159.31,
-    150.0226
+    144.75
    ],
    "consensus": {
     "rating": "Buy",
@@ -5836,36 +5836,36 @@
      "sell": 3,
      "strongSell": 0
     },
-    "upsidePct": 70.7973444071909
+    "upsidePct": 77.01920552677028
    },
    "news": [
     {
-     "title": "Elon Musk Predicts SpaceX Could Reach $1 Trillion in Annual Revenue Run Rate by Year-End 2027. Here's What Needs to Happen.",
-     "link": "https://www.fool.com/investing/2026/10/22/elon-musks-1-trillion-spacex-prediction-sounds-rid/?.tsrc=rss",
+     "title": "Musk wants to merge SpaceX and Tesla: Here's what to know",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/musks-wants-merge-spacex-tesla-205406983.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Elon Musk says Space Exploration Technologies could operate at $1 trillion revenue run rate by December 2027.",
-     "published": "2026-10-22T15:20+00:00"
+     "summary": "Elon Musk said this week that SpaceX and Tesla have formed special committees to study a merger of his two biggest companies.Musk cautioned that a merger is not certain.",
+     "published": "2026-10-22T21:10+00:00"
     },
     {
-     "title": "TeraFab's $16.8 billion bet to start producing 100K chips a month",
-     "link": "https://finance.yahoo.com/video/terafabs-168-billion-bet-to-start-producing-100k-chips-a-month-152024748.html?.tsrc=rss",
+     "title": "Global markets retreat as tech mood sours, oil prices jump",
+     "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-back-retreat-tech-024129180.html?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "In the Loop host Ejaaz Ahamadeen comments on Elon Musk's proposed $16.8 billion investment into his TeraFab semiconductor manufacturing project.",
-     "published": "2026-10-22T15:20+00:00"
+     "summary": "Global equity markets mostly sank Thursday as tech firms resumed their downward spiral following a mixed bag of earnings from Wall Street titans, while sentiment was also soured by rising oil prices. - Asian chipmakers down - Asian tech stocks sank Thursday, dragging broader…",
+     "published": "2026-10-22T20:30+00:00"
     },
     {
-     "title": "Did Wall Street forget about Tesla's Cybercab?",
-     "link": "https://finance.yahoo.com/video/did-wall-street-forget-teslas-150000292.html?.tsrc=rss",
+     "title": "Musk Says AI Is Short on Power. Here’s Why Constellation Energy Still Has a Rules Problem",
+     "link": "https://www.tikr.com/blog/musk-says-ai-is-short-on-power-heres-why-constellation-energy-still-has-a-rules-problem?ref=yahoofinance&.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Yahoo Finance Executive Editor Brian Sozzi discusses the significance of Tesla's (TSLA) Cybercab expansion and what it means in the face of a potential merger with SpaceX (SPCX).",
-     "published": "2026-10-22T15:00+00:00"
+     "summary": "Key Stats for Constellation Energy StockCurrent Price: $270. 74Target Price (Mid): ~$465Street Target: ~$338Potential Total Return: ~72%Annualized IRR: ~14% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR’s new Valuation Model (It’s…",
+     "published": "2026-10-22T20:29+00:00"
     },
     {
-     "title": "SpaceX Has Been Sideways Since Its Inception",
-     "link": "https://247wallst.com/investing/2026/10/22/spacex-has-been-sideways-since-its-inception/?.tsrc=rss",
+     "title": "Google Is Paying SpaceX $11 Billion a Year for Compute. Here's the Concentration Risk Nobody Is Pricing In.",
+     "link": "https://www.fool.com/investing/2026/10/22/google-is-paying-spacex-11-billion-a-year-for-comp/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "SpaceX's revenue more than doubled and a single quarter sent shares surging nearly 8%, yet the stock sits almost exactly where it started trading. Something has to give, and the next few milestones will determine which direction.",
-     "published": "2026-10-22T14:45+00:00"
+     "summary": "The tech giant is paying SpaceX billions of dollars to instantly expand its cloud infrastructure.",
+     "published": "2026-10-22T20:10+00:00"
     }
    ]
   },
@@ -5875,21 +5875,21 @@
    "type": "EQUITY",
    "currency": "USD",
    "exchange": "NasdaqGS",
-   "price": 56.72,
+   "price": 55.6,
    "prevClose": 61.81999969482422,
-   "change": -5.09999969482422,
-   "changePct": -8.249756907150562,
-   "change1w": -18.61099438518621,
-   "change1m": -34.624252416524484,
-   "changeYtd": -20.79318598441562,
+   "change": -6.219999694824217,
+   "changePct": -10.061468336346458,
+   "change1w": -20.218111562347552,
+   "change1m": -35.91516985822921,
+   "changeYtd": -22.357213341563977,
    "close1w": 69.69000244140625,
    "closeYtd": 71.61000061035156,
    "high52": 141.79,
-   "low52": 56.44,
+   "low52": 54.85,
    "dayHigh": 60.41,
-   "dayLow": 56.44,
-   "volume": 36379789,
-   "asOf": "2026-10-22T11:45",
+   "dayLow": 54.85,
+   "volume": 80828432,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     70.79,
     67.3,
@@ -5953,7 +5953,7 @@
     61.12,
     62.13,
     61.82,
-    56.72
+    55.6
    ],
    "consensus": {
     "rating": "Buy",
@@ -5970,36 +5970,36 @@
      "sell": 2,
      "strongSell": 1
     },
-    "upsidePct": 141.49097320169255
+    "upsidePct": 146.3555395683453
    },
    "news": [
     {
-     "title": "Tech stocks fall as Nvidia boss warns of AI funding slowdown",
-     "link": "https://uk.finance.yahoo.com/news/tech-stocks-fall-nvidia-boss-152634389.html?.tsrc=rss",
+     "title": "CoreWeave and Nebius Stocks Are Crashing. Time to Buy the Dip?",
+     "link": "https://www.fool.com/investing/2026/10/22/coreweave-and-nebius-stocks-are-crashing-time-to/?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "US stocks fell sharply after the boss of Nvidia warned of an AI funding crunch and spending plans from Meta and Tesla spooked investors.",
-     "published": "2026-10-22T15:26+00:00"
+     "summary": "Both stocks are selling off due to CoreWeave's debt becoming uncertain.",
+     "published": "2026-10-22T20:47+00:00"
     },
     {
-     "title": "Nebius Declines 6% Despite Fresh Citi Financing; CoreWeave Drops 5%, Cloudflare Edges Higher",
-     "link": "https://247wallst.com/investing/2026/10/22/nebius-declines-6-despite-fresh-citi-financing-coreweave-drops-5-cloudflare-edges-higher/?.tsrc=rss",
+     "title": "CoreWeave Sinks 10% as Bernstein Slashes Target to $51: “The Fundamentals Are Probably Stuck”",
+     "link": "https://www.tikr.com/blog/coreweave-sinks-10-as-bernstein-slashes-target-to-51-the-fundamentals-are-probably-stuck?ref=yahoofinance&.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Citi handed Nebius a fresh credit line to fund its GPU buildout, and investors sold the news anyway. The reaction inside the neocloud group tells a story about leverage, trust, and how much runway debt-funded AI builders actually have left.",
-     "published": "2026-10-22T14:47+00:00"
+     "summary": "Key TakeawaysCoreWeave shares fell 10% today after Bernstein cut its price target to $51 from $74, as Nebius, IREN and Applied Digital also fell on renewed AI spending fears. Bernstein’s Madison Rezaei doesn’t expect CoreWeave to go to zero, citing its backlog and her view…",
+     "published": "2026-10-22T20:28+00:00"
     },
     {
-     "title": "How Much Risk Does CoreWeave’s Debt Selloff Pose to Global Banks? J.P. Morgan Sees Limited Exposure",
-     "link": "https://investorshub.advfn.com/market-news/article/38466/how-much-risk-does-coreweaves-debt-selloff-pose-to-global-banks-j-p-morgan-sees-limited-exposure?.tsrc=rss",
+     "title": "Companies Are Spending Billions To Build Data Centers. The Timeline For Them To Pay Off is Fuzzy.",
+     "link": "https://www.ibtimes.com/companies-are-spending-billions-build-data-centers-timeline-them-pay-off-fuzzy-3808890?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "Why has CoreWeave’s debt come under pressure?CoreWeave (NASDAQ:CRWV) experienced a decline in its share and bond prices last week as investors reassessed the financing requirements of artificial intelligence infrastructure companies. The NVIDIA-backed cloud computing provider…",
-     "published": "2026-10-22T14:41+00:00"
+     "summary": "CoreWeave and Applied Digital reported sharply higher revenue, but their latest filings show capital expenditures far exceeding the cash generated by operations.",
+     "published": "2026-10-22T20:04+00:00"
     },
     {
-     "title": "BC-Most Active Stocks",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017172.html?.tsrc=rss",
+     "title": "Meta stock falls despite Wall Street analysts raising price targets",
+     "link": "https://www.thestreet.com/investing/stocks/meta-stock-falls-despite-wall-street-analysts-raising-price-targets?.tsrc=rss",
      "source": "Yahoo Finance",
-     "summary": "NEW YORK (AP) — prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks. Nasdaq most active stocks:Stock Name Volume High Low Last Change SHF Holdings Inc.",
-     "published": "2026-10-22T14:30+00:00"
+     "summary": "Meta beat third-quarter revenue estimates, but its aggressive AI spending plans raised concerns.",
+     "published": "2026-10-22T19:50+00:00"
     }
    ]
   },
@@ -6009,21 +6009,21 @@
    "type": "ETF",
    "currency": "USD",
    "exchange": "NasdaqGM",
-   "price": 46.075,
+   "price": 46.06,
    "prevClose": 47.84000015258789,
-   "change": -1.7650001525878878,
-   "changePct": -3.6893815780901673,
-   "change1w": -1.105387746085429,
-   "change1m": -5.642026884591623,
-   "changeYtd": -7.200405671720911,
+   "change": -1.7800001525878884,
+   "changePct": -3.7207360930403333,
+   "change1w": -1.1375834961409592,
+   "change1m": -5.672745703837001,
+   "changeYtd": -7.230617151154972,
    "close1w": 46.59000015258789,
    "closeYtd": 49.650001525878906,
    "high52": 65.97,
    "low52": 32.84,
    "dayHigh": 46.39,
-   "dayLow": 45.954,
-   "volume": 24702610,
-   "asOf": "2026-10-22T11:45",
+   "dayLow": 45.712,
+   "volume": 43116515,
+   "asOf": "2026-10-22T16:00",
    "spark": [
     36.77,
     36.14,
@@ -6087,13 +6087,20 @@
     46.3,
     46.71,
     47.84,
-    46.075
+    46.06
    ],
    "consensus": {
     "rating": null,
     "note": "Fund — no sell-side analyst coverage"
    },
    "news": [
+    {
+     "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
+     "link": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days?.tsrc=rss",
+     "source": "Yahoo Finance",
+     "summary": "Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Ethereum prices slipped.",
+     "published": "2026-10-22T16:31+00:00"
+    },
     {
      "title": "Bitcoin ETFs Turn October Positive With $1 Billion in Three Days While ETH Funds Bleed $1 Billion",
      "link": "https://99bitcoins.com/news/bitcoin-btc/btc-usd-bitcoin-vs-ether-etf-flows/?.tsrc=rss",
@@ -6114,13 +6121,6 @@
      "source": "Yahoo Finance",
      "summary": "Today, Oct. 21, 2026, Bitcoin pushed back above $84,000, the OCC moved forward with stablecoin rules, and Solana launched a major network upgrade.",
      "published": "2026-10-21T21:36+00:00"
-    },
-    {
-     "title": "Circle Internet Jumps 6% as OCC Finalizes GENIUS Act Stablecoin Rules; Strategy Surges 8%, Coinbase Climbs 5%",
-     "link": "https://247wallst.com/investing/2026/10/21/circle-internet-jumps-6-as-occ-finalizes-genius-act-stablecoin-rules-strategy-surges-8-coinbase-climbs-5/?.tsrc=rss",
-     "source": "Yahoo Finance",
-     "summary": "Federal regulators just finalized the stablecoin rulebook, and crypto stocks are surging in response, but the biggest winner is not the company that issues USDC. Here is what the market is signaling about the new rules and who stands to gain most.",
-     "published": "2026-10-21T16:53+00:00"
     }
    ]
   }

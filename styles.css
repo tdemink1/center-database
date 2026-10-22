@@ -299,6 +299,10 @@ footer {
     display: none;
   }
 
+  .nav a[href="report.html"] {
+    display: inline;
+  }
+
   main {
     padding: 24px 16px 48px;
   }

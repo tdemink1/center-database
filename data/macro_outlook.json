@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily.",
  "centralBanks": [
   {
@@ -7,23 +7,31 @@
    "region": "CA",
    "date": "2026-10-28",
    "current": "2.25%",
-   "expectation": "Contested: prediction markets lean hold (~61%) vs. a 25 bp hike to 2.50%; September job losses add downside risk.",
-   "source": "https://polymarkettrader.com/events/bank-of-canada-october-2026/"
+   "expectation": "Markets price about an 80% chance of a 25 bp hike to 2.50% (Newsquawk, Oct 23); earlier prediction-market reads leaned hold, so expectations are contested.",
+   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
   },
   {
    "bank": "Federal Reserve (FOMC)",
    "region": "US",
    "date": "2026-10-28",
    "current": "3.75%–4.00% (raised Sep 17)",
-   "expectation": "Hold. CME FedWatch about 84% no change and 16% for a 25 bp hike (Oct 22). A Reuters poll found 94 of 100 economists expect a hold. No new projections; Chair Warsh's press conference is at 2:30 pm ET.",
-   "source": "https://phemex.com/news/article/fed-rate-hold-probability-hits-839-for-october-meeting-100309"
+   "expectation": "Hold. CME pricing implies roughly a 10% chance of a hike (other reads 8%–16%). A Reuters poll found 94 of 100 economists expect a hold, with a tightening bias; Hammack, Logan and Kashkari dissented for a hike in July and may again. Chair Warsh's press conference is at 2:30 pm ET.",
+   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
+  },
+  {
+   "bank": "Reserve Bank of New Zealand",
+   "region": "NZ",
+   "date": "2026-10-28",
+   "current": "2.75%",
+   "expectation": "Split: ANZ, BNZ and ASB expect a 25 bp hike to 3.00%; Westpac expects a hold. Markets price about 75%–80% for a hike.",
+   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
   },
   {
    "bank": "European Central Bank",
    "region": "EU",
    "date": "2026-10-29",
    "current": "2.50% deposit rate (raised Sep 10)",
-   "expectation": "Hold. 70 of 73 economists in a Reuters poll expect no change, and most see a 25 bp hike in December. French bond-yield stress is in focus.",
+   "expectation": "Hold, with no probabilities published; data point toward another hike later and most economists see December. French budget and bond-yield stress is in focus.",
    "source": "https://www.fxstreet.com/analysis/ecb-october-pause-mrr-in-focus-202610201244"
   },
   {
@@ -31,8 +39,8 @@
    "region": "JP",
    "date": "2026-10-30",
    "current": "1.25% (raised Sep 18)",
-   "expectation": "Hold expected; back-to-back hike odds under 5%. Next hike seen in December or January. Quarterly Outlook Report due.",
-   "source": "https://think.ing.com/articles/our-latest-views-on-the-major-central-banks-october-2026/"
+   "expectation": "Hold at 1.25% expected; money markets price about an 80% chance of a hike in December. Quarterly Outlook Report due.",
+   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
   },
   {
    "bank": "Bank of England",
@@ -47,8 +55,8 @@
    "region": "US",
    "date": "2026-12-09",
    "current": "3.75%–4.00%",
-   "expectation": "Hike is the base case, with CME FedWatch about 83% for a hike by December (Oct 22).",
-   "source": "https://www.mitrade.com/insights/more/Central-Banks/fed-october-hold-december-hike-20261022J1428"
+   "expectation": "Hike is the base case, with about 85% priced for a December hike (Pimco also expects one).",
+   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
   },
   {
    "bank": "ECB · Bank of England",
@@ -61,32 +69,25 @@
  ],
  "keyReleases": [
   {
-   "date": "2026-10-23",
-   "event": "U.S. S&P Global flash PMIs (October)",
-   "forecast": "Manufacturing 55.4; services 57.9",
-   "previous": "Manufacturing 57.0; services 58.7",
-   "source": "https://www.forexfactory.com/calendar"
-  },
-  {
    "date": "2026-10-27",
    "event": "U.S. September durable goods · Conference Board consumer confidence (Oct) · new home sales",
    "forecast": null,
    "previous": "Consumer confidence 81.9",
-   "source": "https://www.schwab.com/learn/story/stock-market-update-open"
+   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
   },
   {
    "date": "2026-10-29",
    "event": "U.S. Q3 GDP (advance)",
-   "forecast": "~2.7%–3.5% annualized (NY Fed nowcast 2.67%; Atlanta Fed GDPNow 3.5%)",
+   "forecast": "3.0% annualized (GDPNow 3.5%; Continuum 2.8%)",
    "previous": "2.2%",
-   "source": "https://fattail.ai/q3-gdp-2026-preview"
+   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
   },
   {
    "date": "2026-10-29",
    "event": "U.S. September PCE / core PCE",
-   "forecast": "Core +0.3% m/m; Q3 core ~2.4% annualized",
-   "previous": "Core PCE 3.0% y/y",
-   "source": "https://fattail.ai/q3-gdp-2026-preview"
+   "forecast": "Headline +0.5% m/m, 3.6% y/y; core +0.3% m/m, 3.1% y/y",
+   "previous": "Headline 3.4% y/y; core 3.0% y/y",
+   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
   },
   {
    "date": "2026-10-30",

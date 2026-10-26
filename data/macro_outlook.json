@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-26",
  "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily.",
  "centralBanks": [
   {
@@ -15,7 +15,7 @@
    "region": "US",
    "date": "2026-10-28",
    "current": "3.75%–4.00% (raised Sep 17)",
-   "expectation": "Hold. CME pricing implies roughly a 10% chance of a hike (other reads 8%–16%). A Reuters poll found 94 of 100 economists expect a hold, with a tightening bias; Hammack, Logan and Kashkari dissented for a hike in July and may again. Chair Warsh's press conference is at 2:30 pm ET.",
+   "expectation": "Hold. CME pricing implies roughly a 9%–10% chance of a hike (other reads 8%–16%), with about 90.6% for a hold (Oct 26 market coverage). Some outlets list the meeting as Oct 27–28. A Reuters poll found 94 of 100 economists expect a hold, with a tightening bias; Hammack, Logan and Kashkari dissented for a hike in July and may again. Chair Warsh's press conference is at 2:30 pm ET.",
    "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
   },
   {

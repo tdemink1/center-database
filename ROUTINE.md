@@ -5,6 +5,8 @@ Edit this file to change what the routine does; the routine itself just says "fo
 
 Run every command from the repository root. The site is static: `report.html` reads `data/latest.json`.
 
+Whenever you stop without publishing (closed market, blocked fetch), run `git stash --include-untracked` so the working tree is clean, and do not commit anything.
+
 ## 1. Regenerate the market data
 Run `python3 scripts/generate_report.py` (standard library only, ~10s). It fetches U.S. and global indexes, rates,
 commodities, FX, crypto, the 33-ticker watchlist (NVDA, TSLA, META, SHOP, GOOG, AMZN, MSFT, AMD, LNG, MSTR, JPM,

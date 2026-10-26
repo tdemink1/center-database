@@ -6,6 +6,8 @@ early-market news to `morning.html`. Edit this file to change what the routine d
 Run every command from the repository root. Never touch `data/latest.json` or `data/report-*.json`; those belong
 to the closing report (`ROUTINE.md`).
 
+Whenever you stop without publishing (closed market, blocked fetch), run `git stash --include-untracked` so the working tree is clean, and do not commit anything.
+
 ## 1. Take the morning snapshot
 Run `python3 scripts/generate_report.py --morning`. It writes `data/morning-YYYY-MM-DD.json`,
 `data/morning-latest.json` and updates `data/index.json` with U.S. index futures, U.S. indexes since the open,

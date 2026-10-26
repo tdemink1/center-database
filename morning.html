@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Morning Briefing · Center Database</title>
+  <script>
+    // Apply the saved or system theme before the page paints, to avoid a flash of light mode.
+    (function () {
+      var saved = null;
+      try { saved = localStorage.getItem("theme"); } catch (e) {}
+      var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+      document.documentElement.dataset.theme = saved || (prefersDark ? "dark" : "light");
+    })();
+  </script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">Center <span>Database</span></a>
+    <nav class="nav">
+      <a href="index.html">Dashboard</a>
+      <a href="morning.html" aria-current="page">Morning Briefing</a>
+      <a href="report.html">Daily Report</a>
+      <button class="theme-toggle" type="button" role="switch" aria-checked="false" aria-label="Dark mode">
+        <span class="track"><span class="thumb" aria-hidden="true">☀️</span></span>
+        <span class="label">Dark mode</span>
+      </button>
+    </nav>
+  </header>
+
+  <main class="report">
+    <section class="report-head">
+      <div>
+        <p class="eyebrow">Morning Briefing · Overnight &amp; Early Markets</p>
+        <h1 id="report-date">Loading…</h1>
+        <p class="muted" id="report-meta"></p>
+      </div>
+      <label class="archive">
+        <span>Edition</span>
+        <select id="archive-select" aria-label="Choose briefing date"></select>
+      </label>
+    </section>
+
+    <p class="notice" id="load-error" hidden>
+      No morning briefing yet. The first one publishes at 11 AM ET on the next weekday.
+      Meanwhile, see the <a href="report.html">latest Daily Market Report</a>.
+    </p>
+
+    <div id="report-body" hidden>
+      <section class="panel" id="brief">
+        <h2>The Briefing</h2>
+        <div class="commentary" id="commentary"></div>
+        <h3 class="subhead">By the numbers</h3>
+        <ul class="highlights" id="highlights"></ul>
+      </section>
+
+      <section id="markets">
+        <h2>Futures, the Open &amp; Overnight Markets</h2>
+        <div class="table-grid" id="market-grid"></div>
+      </section>
+
+      <section id="movers">
+        <h2>Watchlist Movers</h2>
+        <div class="table-grid" id="mover-grid"></div>
+      </section>
+
+      <section id="calendar">
+        <h2>Today's Calendar</h2>
+        <div class="table-wrap calendar-wrap">
+          <table class="data-table cal-table">
+            <thead><tr>
+              <th class="left">Time (ET)</th><th class="left">Region</th><th class="left">Event</th>
+              <th class="center">Impact</th><th>Forecast</th><th>Previous</th><th class="center">Status</th>
+            </tr></thead>
+            <tbody id="cal-body"></tbody>
+          </table>
+        </div>
+        <p class="footnote">Medium and high impact releases for major economies. Forecast = consensus where available; actual prints are covered in the briefing above.</p>
+      </section>
+
+      <section id="news">
+        <h2>Latest Headlines</h2>
+        <ul class="news-list" id="news-list"></ul>
+      </section>
+
+      <p class="disclaimer">
+        For information only — not investment advice. Prices from Yahoo Finance may be delayed.
+        The full <a href="report.html">Daily Market Report</a> with analyst ratings publishes after the close.
+      </p>
+    </div>
+  </main>
+
+  <footer>© 2026 Center Database</footer>
+
+  <script src="app.js"></script>
+  <script src="common.js"></script>
+  <script src="morning.js"></script>
+</body>
+</html>

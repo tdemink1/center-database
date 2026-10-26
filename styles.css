@@ -299,8 +299,22 @@ footer {
     display: none;
   }
 
-  .nav a[href="report.html"] {
+  .nav a[href="report.html"],
+  .nav a[href="morning.html"] {
     display: inline;
+  }
+
+  .nav {
+    gap: 12px;
+  }
+
+  .nav a {
+    font-size: 0.85rem;
+    white-space: nowrap;
+  }
+
+  .theme-toggle .label {
+    display: none;
   }
 
   main {

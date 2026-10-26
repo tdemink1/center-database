@@ -12,6 +12,10 @@ CNBC, MarketWatch and Federal Reserve feeds (no API keys), and writes:
 Usage:
   python3 scripts/generate_report.py
   python3 scripts/generate_report.py --commentary brief.md   # attach a written market brief
+  python3 scripts/generate_report.py --morning                # 11 AM morning-briefing snapshot
+
+The morning snapshot writes data/morning-YYYY-MM-DD.json and data/morning-latest.json and
+never touches the closing report files.
 
 Standard library only, so it runs on the stock macOS python3.
 """
@@ -77,6 +81,12 @@ MARKETS = {
         ("BTC-USD", "Bitcoin"), ("ETH-USD", "Ether"),
     ],
 }
+
+# Shown only in the morning briefing, where overnight futures matter.
+FUTURES = [
+    ("ES=F", "S&P 500 futures"), ("NQ=F", "Nasdaq 100 futures"),
+    ("YM=F", "Dow futures"), ("RTY=F", "Russell 2000 futures"),
+]
 
 MACRO_FEEDS = [
     ("Economy", "CNBC", "https://www.cnbc.com/id/20910258/device/rss/rss.html"),
@@ -436,16 +446,65 @@ def auto_highlights(markets, stocks):
     return lines
 
 
-def write_report(report):
+def write_index():
+    def dates(prefix):
+        return sorted((p.stem[len(prefix):] for p in DATA_DIR.glob(prefix + "*.json")
+                       if p.stem != prefix + "latest"), reverse=True)
+    index = {"dates": dates("report-"), "morning": dates("morning-")}
+    (DATA_DIR / "index.json").write_text(json.dumps(index, indent=1), encoding="utf-8")
+
+
+def write_report(report, prefix="report-", latest="latest.json"):
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    date = report["date"]
     text = json.dumps(report, indent=1, ensure_ascii=False)
-    (DATA_DIR / f"report-{date}.json").write_text(text, encoding="utf-8")
-    (DATA_DIR / "latest.json").write_text(text, encoding="utf-8")
-    dates = sorted(
-        (p.stem.replace("report-", "") for p in DATA_DIR.glob("report-*.json")), reverse=True
-    )
-    (DATA_DIR / "index.json").write_text(json.dumps({"dates": dates}, indent=1), encoding="utf-8")
+    (DATA_DIR / f"{prefix}{report['date']}.json").write_text(text, encoding="utf-8")
+    (DATA_DIR / latest).write_text(text, encoding="utf-8")
+    write_index()
+
+
+def todays_events(calendar, date):
+    """Calendar rows falling on `date` in New York time (the feed carries its own offsets)."""
+    from zoneinfo import ZoneInfo
+    new_york = ZoneInfo("America/New_York")
+    return [e for e in calendar if dt.datetime.fromisoformat(e["time"]).astimezone(new_york).date().isoformat() == date]
+
+
+def build_morning():
+    """Lighter 11 AM snapshot: futures, overnight and early moves, watchlist movers, today's calendar, headlines."""
+    def light_stock(symbol):
+        quote = safe(quote_history, symbol)
+        if quote is None:
+            return None
+        quote["symbol"] = DISPLAY_SYMBOL.get(symbol, symbol)
+        quote["news"] = (safe(ticker_news, symbol) or [])[:3]
+        quote.pop("spark", None)
+        return quote
+
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        groups = dict(MARKETS, futures=FUTURES)
+        market_jobs = {k: [pool.submit(build_market, e) for e in v] for k, v in groups.items()}
+        stock_jobs = [pool.submit(light_stock, s) for s in WATCHLIST]
+        feed_jobs = [(topic, pool.submit(read_rss, url, source, 6)) for topic, source, url in MACRO_FEEDS]
+        calendar_job = pool.submit(safe, economic_calendar)
+
+        markets = {k: [r for r in (j.result() for j in v) if r] for k, v in market_jobs.items()}
+        stocks = [r for r in (j.result() for j in stock_jobs) if r]
+        news = [{"topic": topic, "items": job.result()} for topic, job in feed_jobs]
+        calendar = calendar_job.result() or []
+
+    spx = next((m for m in markets["us"] if m["symbol"] == "^GSPC"), None)
+    date = spx["asOf"][:10] if spx else dt.date.today().isoformat()
+    return {
+        "date": date,
+        "generatedAt": dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes"),
+        "kind": "morning",
+        "commentary": None,
+        "highlights": auto_highlights(markets, stocks),
+        "markets": markets,
+        "watchlist": stocks,
+        "macroNews": news,
+        "calendar": todays_events(calendar, date),
+    }, stocks
 
 
 def main():
@@ -455,9 +514,31 @@ def main():
         "--commentary-only", action="store_true",
         help="Attach --commentary to the latest report without refetching data",
     )
+    parser.add_argument(
+        "--morning", action="store_true",
+        help="Build the 11 AM morning-briefing snapshot instead of the closing report",
+    )
     args = parser.parse_args()
 
     commentary = args.commentary.read_text(encoding="utf-8").strip() if args.commentary else None
+
+    if args.morning:
+        if args.commentary_only:
+            if not commentary:
+                parser.error("--commentary-only needs --commentary")
+            report = json.loads((DATA_DIR / "morning-latest.json").read_text(encoding="utf-8"))
+            report["commentary"] = commentary
+            write_report(report, "morning-", "morning-latest.json")
+            print(f"Attached briefing to morning snapshot for {report['date']}")
+            return
+        print("Fetching morning snapshot…")
+        report, stocks = build_morning()
+        report["commentary"] = commentary
+        write_report(report, "morning-", "morning-latest.json")
+        print(f"Wrote morning snapshot for {report['date']}: {len(stocks)} holdings, "
+              f"{sum(len(v) for v in report['markets'].values())} market series, "
+              f"{len(report['calendar'])} calendar events today.")
+        return
 
     if args.commentary_only:
         if not commentary:

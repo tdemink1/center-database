@@ -1,6 +1,6 @@
 # Morning Briefing: run instructions
 
-This is the job the 11:00 AM ET cloud routine runs every weekday. It publishes a short briefing on overnight and
+This is the job the 11:00 AM ET cloud routine runs every Monday, Wednesday and Friday. It publishes a short briefing on overnight and
 early-market news to `morning.html`. Edit this file to change what the routine does.
 
 Run every command from the repository root. Never touch `data/latest.json` or `data/report-*.json`; those belong
@@ -33,7 +33,7 @@ web search for:
 Write `data/morning-YYYY-MM-DD.md` (today's date). Keep it short and scannable: **about 200–300 words**, using only
 `### ` headings, `- ` bullets, `**bold**` and plain sentences, in these sections:
 
-- `### Overnight`: 2–4 bullets on what happened while U.S. markets were closed.
+- `### Overnight`: 2–4 bullets on what happened while U.S. markets were closed (on Monday, include the weekend).
 - `### Early trading`: 2–3 sentences on the open and the market as of now (S&P 500, Nasdaq, Dow, 10-year yield, oil).
 - `### Data & events`: this morning's releases with actual vs. forecast, and what is still ahead today.
 - `### Watchlist movers`: the 3–5 biggest watchlist moves with the reason for each.

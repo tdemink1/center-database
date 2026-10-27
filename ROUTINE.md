@@ -1,6 +1,7 @@
 # Daily Market Report: run instructions
 
-This is the job the scheduled cloud routine runs every weekday after the U.S. close.
+This is the job the scheduled cloud routine runs every Monday, Wednesday and Friday after the U.S. close.
+Monday and Wednesday are regular editions; Friday is the **Weekly Wrap** (see step 3).
 Edit this file to change what the routine does; the routine itself just says "follow ROUTINE.md".
 
 Run every command from the repository root. The site is static: `report.html` reads `data/latest.json`.
@@ -46,6 +47,17 @@ features: `### ` headings, `- ` bullets, `**bold**`, plain paragraphs. Use these
 - `### Global`: Europe, Asia-Pacific, commodities & FX, crypto.
 - `### Watchlist takeaways`: biggest watchlist movers and why, any rating or price-target changes, upcoming
   earnings for watchlist names.
+
+Since there is no edition on Tuesday or Thursday, the Wednesday and Friday briefs also briefly cover the
+previous day's session where it mattered.
+
+**Friday: Weekly Wrap.** On Fridays the brief covers the whole week (Monday to Friday) instead of just today.
+Use the same sections, but frame each one around the week: weekly index moves (use `change1w` in `latest.json`,
+which compares with last Friday's close), the week's main themes and data releases with actual vs. forecast,
+the biggest watchlist gainers and decliners for the week (by `change1w`), any rating or price-target changes
+during the week, and a `### Week ahead` section in place of `### Calendar & forecasts` listing next week's key
+events, earnings and consensus forecasts. Start the file with the line `**Weekly Wrap: week of <Mon date>–<Fri date>**`.
+Friday briefs may run up to about 650 words.
 
 Keep it about 350–500 words, factual and neutral, with no personalized investment advice. Use only figures from
 `latest.json` or sources you checked, and paraphrase rather than quote news articles.

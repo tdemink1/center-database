@@ -1,36 +1,12 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-28",
  "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily.",
  "centralBanks": [
-  {
-   "bank": "Bank of Canada",
-   "region": "CA",
-   "date": "2026-10-28",
-   "current": "2.25%",
-   "expectation": "Markets price about an 80% chance of a 25 bp hike to 2.50% (Newsquawk, Oct 23); earlier prediction-market reads leaned hold, so expectations are contested.",
-   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
-  },
-  {
-   "bank": "Federal Reserve (FOMC)",
-   "region": "US",
-   "date": "2026-10-28",
-   "current": "3.75%–4.00% (raised Sep 17)",
-   "expectation": "Hold. CME pricing implies roughly a 9%–10% chance of a hike (other reads 8%–16%), with about 90.6% for a hold (Oct 26 market coverage). Some outlets list the meeting as Oct 27–28. A Reuters poll found 94 of 100 economists expect a hold, with a tightening bias; Hammack, Logan and Kashkari dissented for a hike in July and may again. Chair Warsh's press conference is at 2:30 pm ET.",
-   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
-  },
-  {
-   "bank": "Reserve Bank of New Zealand",
-   "region": "NZ",
-   "date": "2026-10-28",
-   "current": "2.75%",
-   "expectation": "Split: ANZ, BNZ and ASB expect a 25 bp hike to 3.00%; Westpac expects a hold. Markets price about 75%–80% for a hike.",
-   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
-  },
   {
    "bank": "European Central Bank",
    "region": "EU",
    "date": "2026-10-29",
-   "current": "2.50% deposit rate (raised Sep 10)",
+   "current": "2.50% deposit rate (raised Sep 10); the calendar lists the main refinancing rate at 2.65%",
    "expectation": "Hold, with no probabilities published; data point toward another hike later and most economists see December. French budget and bond-yield stress is in focus.",
    "source": "https://www.fxstreet.com/analysis/ecb-october-pause-mrr-in-focus-202610201244"
   },
@@ -54,9 +30,9 @@
    "bank": "Federal Reserve (FOMC)",
    "region": "US",
    "date": "2026-12-09",
-   "current": "3.75%–4.00%",
-   "expectation": "Hike is the base case, with about 85% priced for a December hike (Pimco also expects one).",
-   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
+   "current": "3.75%–4.00% (held Oct 28; Cook and Hammack dissented in favor of a hike)",
+   "expectation": "Investors widely expect a hike in December (about 85% priced before the Oct 28 meeting); Chair Warsh kept December open and says he does not favor forward guidance.",
+   "source": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html"
   },
   {
    "bank": "ECB · Bank of England",
@@ -69,17 +45,10 @@
  ],
  "keyReleases": [
   {
-   "date": "2026-10-27",
-   "event": "U.S. September durable goods · Conference Board consumer confidence (Oct) · new home sales",
-   "forecast": null,
-   "previous": "Consumer confidence 81.9",
-   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
-  },
-  {
    "date": "2026-10-29",
    "event": "U.S. Q3 GDP (advance)",
-   "forecast": "3.0% annualized (GDPNow 3.5%; Continuum 2.8%)",
-   "previous": "2.2%",
+   "forecast": "3.0% annualized (Newsquawk; the weekly calendar lists 3.2%; GDPNow 3.5%)",
+   "previous": "2.2% (calendar lists 1.5%; unresolved)",
    "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
   },
   {

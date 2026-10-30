@@ -1,29 +1,13 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-30",
  "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily.",
  "centralBanks": [
-  {
-   "bank": "European Central Bank",
-   "region": "EU",
-   "date": "2026-10-29",
-   "current": "2.50% deposit rate (raised Sep 10); the calendar lists the main refinancing rate at 2.65%",
-   "expectation": "Hold, with no probabilities published; data point toward another hike later and most economists see December. French budget and bond-yield stress is in focus.",
-   "source": "https://www.fxstreet.com/analysis/ecb-october-pause-mrr-in-focus-202610201244"
-  },
-  {
-   "bank": "Bank of Japan",
-   "region": "JP",
-   "date": "2026-10-30",
-   "current": "1.25% (raised Sep 18)",
-   "expectation": "Hold at 1.25% expected; money markets price about an 80% chance of a hike in December. Quarterly Outlook Report due.",
-   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
-  },
   {
    "bank": "Bank of England",
    "region": "UK",
    "date": "2026-11-05",
    "current": "3.75%",
-   "expectation": "Hike to 4.00% expected; OIS pricing about 90% after September CPI hit 3.5% y/y. November Monetary Policy Report due.",
+   "expectation": "Hike to 4.00% widely expected (three MPC members voted for a hike in September); published pricing varies by source, roughly 63% (LSEG) to 90%. November Monetary Policy Report due.",
    "source": "https://www.bluegamma.io/central-banks/central-bank-interest-rate-forecasts/the-bank-of-england-interest-rate-forecast"
   },
   {
@@ -31,7 +15,7 @@
    "region": "US",
    "date": "2026-12-09",
    "current": "3.75%–4.00% (held Oct 28; Cook and Hammack dissented in favor of a hike)",
-   "expectation": "Investors widely expect a hike in December (about 85% priced before the Oct 28 meeting); Chair Warsh kept December open and says he does not favor forward guidance.",
+   "expectation": "December hike widely expected (about 85% priced before the Oct 28 meeting; post-meeting odds not verified). Dallas Fed's Logan sees at least 50 bp of further hikes; Chair Warsh kept December open.",
    "source": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html"
   },
   {
@@ -44,27 +28,6 @@
   }
  ],
  "keyReleases": [
-  {
-   "date": "2026-10-29",
-   "event": "U.S. Q3 GDP (advance)",
-   "forecast": "3.0% annualized (Newsquawk; the weekly calendar lists 3.2%; GDPNow 3.5%)",
-   "previous": "2.2% (calendar lists 1.5%; unresolved)",
-   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
-  },
-  {
-   "date": "2026-10-29",
-   "event": "U.S. September PCE / core PCE",
-   "forecast": "Headline +0.5% m/m, 3.6% y/y; core +0.3% m/m, 3.1% y/y",
-   "previous": "Headline 3.4% y/y; core 3.0% y/y",
-   "source": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
-  },
-  {
-   "date": "2026-10-30",
-   "event": "U.S. Employment Cost Index (Q3) · Chicago PMI",
-   "forecast": null,
-   "previous": null,
-   "source": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-26102026-01112026/"
-  },
   {
    "date": "2026-11-02",
    "event": "U.S. ISM Manufacturing PMI (October)",

@@ -1,46 +1,68 @@
 {
- "updated": "2026-10-30",
- "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily.",
+ "updated": "2026-11-02",
+ "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily. Forecasts for listed releases come from the live weekly economic-calendar feed.",
  "centralBanks": [
+  {
+   "bank": "Reserve Bank of Australia",
+   "region": "AU",
+   "date": "2026-11-03",
+   "current": "4.60%",
+   "expectation": "Hike to 4.85% expected per the economic calendar consensus (decision overnight Nov 2\u20133 U.S. time).",
+   "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+  },
   {
    "bank": "Bank of England",
    "region": "UK",
    "date": "2026-11-05",
    "current": "3.75%",
-   "expectation": "Hike to 4.00% widely expected (three MPC members voted for a hike in September); published pricing varies by source, roughly 63% (LSEG) to 90%. November Monetary Policy Report due.",
+   "expectation": "Hike to 4.00% expected (calendar consensus; MPC vote forecast 7-0-2 vs. 3-0-6 prior). November Monetary Policy Report due. Published pricing varies by source.",
    "source": "https://www.bluegamma.io/central-banks/central-bank-interest-rate-forecasts/the-bank-of-england-interest-rate-forecast"
   },
   {
    "bank": "Federal Reserve (FOMC)",
    "region": "US",
    "date": "2026-12-09",
-   "current": "3.75%–4.00% (held Oct 28; Cook and Hammack dissented in favor of a hike)",
-   "expectation": "December hike widely expected (about 85% priced before the Oct 28 meeting; post-meeting odds not verified). Dallas Fed's Logan sees at least 50 bp of further hikes; Chair Warsh kept December open.",
-   "source": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html"
+   "current": "3.75%\u20134.00% (held Oct 28; Cook and Hammack dissented in favor of a hike)",
+   "expectation": "Fed funds futures price about a 76% chance of a 25 bp hike in December (per Monday's market coverage). Dallas Fed's Logan sees at least 50 bp of further hikes; Chair Warsh kept December open.",
+   "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
   },
   {
-   "bank": "ECB · Bank of England",
+   "bank": "ECB \u00b7 Bank of England",
    "region": "EU/UK",
    "date": "2026-12-17",
    "current": null,
-   "expectation": "Final 2026 decisions for both; 64 of 73 economists expect an ECB hike. The BoJ follows Dec 17–18.",
+   "expectation": "Final 2026 decisions for both; 64 of 73 economists expect an ECB hike. The BoJ follows Dec 17\u201318.",
    "source": "https://tickward.com/en/calendars/central-bank-meeting-dates/2026"
   }
  ],
  "keyReleases": [
   {
-   "date": "2026-11-02",
-   "event": "U.S. ISM Manufacturing PMI (October)",
-   "forecast": null,
-   "previous": "54.5 (prices paid 77.9)",
-   "source": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/september/"
+   "date": "2026-11-03",
+   "event": "U.S. JOLTS Job Openings (September)",
+   "forecast": "7.11M",
+   "previous": "7.08M",
+   "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+  },
+  {
+   "date": "2026-11-04",
+   "event": "U.S. ISM Services PMI (October)",
+   "forecast": "54.9",
+   "previous": "54.9",
+   "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+  },
+  {
+   "date": "2026-11-04",
+   "event": "Eurozone flash CPI y/y (October)",
+   "forecast": "4.0% (core 2.5%)",
+   "previous": "3.8% (core 2.5%)",
+   "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
   },
   {
    "date": "2026-11-06",
    "event": "U.S. October jobs report",
-   "forecast": null,
+   "forecast": "Nonfarm payrolls +63K; unemployment 4.2%; AHE +0.3% m/m",
    "previous": "Payrolls +29K; unemployment 4.2%; AHE +3.0% y/y",
-   "source": "https://www.bls.gov/news.release/archives/empsit_10022026.htm"
+   "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
   }
  ]
 }

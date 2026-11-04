@@ -1,15 +1,7 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-04",
  "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily. Forecasts for listed releases come from the live weekly economic-calendar feed.",
  "centralBanks": [
-  {
-   "bank": "Reserve Bank of Australia",
-   "region": "AU",
-   "date": "2026-11-03",
-   "current": "4.60%",
-   "expectation": "Hike to 4.85% expected per the economic calendar consensus (decision overnight Nov 2\u20133 U.S. time).",
-   "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
-  },
   {
    "bank": "Bank of England",
    "region": "UK",
@@ -23,7 +15,7 @@
    "region": "US",
    "date": "2026-12-09",
    "current": "3.75%\u20134.00% (held Oct 28; Cook and Hammack dissented in favor of a hike)",
-   "expectation": "Fed funds futures price about a 76% chance of a 25 bp hike in December (per Monday's market coverage). Dallas Fed's Logan sees at least 50 bp of further hikes; Chair Warsh kept December open.",
+   "expectation": "Fed funds futures price about a 76% chance of a 25 bp hike in December (per Monday's market coverage). Dallas Fed's Logan sees at least 50 bp of further hikes; Chair Warsh kept December open. Pricing as of Nov 2; not re-verified after Wednesday's oil drop and yield decline.",
    "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
   },
   {
@@ -37,32 +29,25 @@
  ],
  "keyReleases": [
   {
-   "date": "2026-11-03",
-   "event": "U.S. JOLTS Job Openings (September)",
-   "forecast": "7.11M",
-   "previous": "7.08M",
-   "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
-  },
-  {
-   "date": "2026-11-04",
-   "event": "U.S. ISM Services PMI (October)",
-   "forecast": "54.9",
-   "previous": "54.9",
-   "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
-  },
-  {
-   "date": "2026-11-04",
-   "event": "Eurozone flash CPI y/y (October)",
-   "forecast": "4.0% (core 2.5%)",
-   "previous": "3.8% (core 2.5%)",
-   "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+   "date": "2026-11-05",
+   "event": "U.S. initial jobless claims",
+   "forecast": "197K",
+   "previous": "194K",
+   "source": "https://www.forexfactory.com/calendar"
   },
   {
    "date": "2026-11-06",
    "event": "U.S. October jobs report",
-   "forecast": "Nonfarm payrolls +63K; unemployment 4.2%; AHE +0.3% m/m",
-   "previous": "Payrolls +29K; unemployment 4.2%; AHE +3.0% y/y",
-   "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+   "forecast": "Nonfarm payrolls +65K; unemployment 4.2%; AHE +0.3% m/m",
+   "previous": "Payrolls +29K; unemployment 4.2%; AHE +0.1% m/m",
+   "source": "https://www.forexfactory.com/calendar"
+  },
+  {
+   "date": "2026-11-06",
+   "event": "U.S. UoM consumer sentiment (prelim, November)",
+   "forecast": "48.1",
+   "previous": "46.3",
+   "source": "https://www.forexfactory.com/calendar"
   }
  ]
 }

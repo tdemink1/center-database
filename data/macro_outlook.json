@@ -1,39 +1,67 @@
 {
- "updated": "2026-11-06",
- "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily. Forecasts for listed releases come from the live weekly economic-calendar feed.",
- "centralBanks": [
-  {
-   "bank": "Bank of Japan",
-   "region": "JP",
-   "date": "2026-12-18",
-   "current": null,
-   "expectation": "Meeting follows the ECB/BoE decisions on Dec 17; policy rate and pricing not verified.",
-   "source": "https://tickward.com/en/calendars/central-bank-meeting-dates/2026"
-  },
-  {
-   "bank": "Federal Reserve (FOMC)",
-   "region": "US",
-   "date": "2026-12-09",
-   "current": "3.75%\u20134.00% (held Oct 28; Cook and Hammack dissented in favor of a hike)",
-   "expectation": "CME FedWatch put the chance of a 25 bp hike on Dec 9 above 77% after Friday's strong jobs report, up from above 66% the day before.",
-   "source": "https://www.cnbc.com/2026/11/06/treasury-yields-inch-lower-as-investors-look-ahead-to-key-jobs-data-.html"
-  },
-  {
-   "bank": "ECB \u00b7 Bank of England",
-   "region": "EU/UK",
-   "date": "2026-12-17",
-   "current": null,
-   "expectation": "Final 2026 decisions for both; 64 of 73 economists expected an ECB hike. The BoE's Nov 5 outcome (consensus was a hike to 4.00%) could not be verified from reliable sources. BoJ follows Dec 17\u201318.",
-   "source": "https://tickward.com/en/calendars/central-bank-meeting-dates/2026"
-  }
- ],
- "keyReleases": [
-  {
-   "date": "2026-11-09",
-   "event": "Week ahead: October CPI and other U.S. data (dates/consensus not verified)",
-   "forecast": null,
-   "previous": null,
-   "source": "https://www.bls.gov/schedule/news_release/"
-  }
- ]
+  "updated": "2026-11-09",
+  "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily. Forecasts for listed releases come from the live weekly economic-calendar feed.",
+  "centralBanks": [
+    {
+      "bank": "Bank of Japan",
+      "region": "JP",
+      "date": "2026-12-18",
+      "current": null,
+      "expectation": "Meeting follows the ECB/BoE decisions on Dec 17; policy rate and pricing not verified.",
+      "source": "https://tickward.com/en/calendars/central-bank-meeting-dates/2026"
+    },
+    {
+      "bank": "Federal Reserve (FOMC)",
+      "region": "US",
+      "date": "2026-12-09",
+      "current": "3.75%–4.00% (held Oct 28; Cook and Hammack dissented in favor of a hike)",
+      "expectation": "CME FedWatch put the chance of a 25 bp hike on Dec 9 near 77–80% after Friday's strong jobs report; October CPI (Nov 10) is the next test. Post-CPI pricing not yet available.",
+      "source": "https://www.cnbc.com/2026/11/06/treasury-yields-inch-lower-as-investors-look-ahead-to-key-jobs-data-.html"
+    },
+    {
+      "bank": "ECB · Bank of England",
+      "region": "EU/UK",
+      "date": "2026-12-17",
+      "current": "BoE Bank Rate 4.00% (raised 25 bp from 3.75% on Nov 5, 8–1 vote; one member wanted 50 bp). ECB rate not verified.",
+      "expectation": "Final 2026 decisions for both on Dec 17; 64 of 73 economists expected an ECB hike. BoE says policy is not on a pre-set path, leaving December open.",
+      "source": "https://www.bankofengland.co.uk/monetary-policy-report/2026/November-2026"
+    }
+  ],
+  "keyReleases": [
+    {
+      "date": "2026-11-10",
+      "event": "U.S. October CPI m/m (headline)",
+      "forecast": "0.3%",
+      "previous": "0.6%",
+      "source": "https://www.morningstar.com/economy/october-cpi-forecasts-show-inflation-softening-december-rate-hike-still-looks-likely"
+    },
+    {
+      "date": "2026-11-10",
+      "event": "U.S. October Core CPI m/m",
+      "forecast": "0.2%",
+      "previous": "0.3%",
+      "source": "https://www.morningstar.com/economy/october-cpi-forecasts-show-inflation-softening-december-rate-hike-still-looks-likely"
+    },
+    {
+      "date": "2026-11-12",
+      "event": "U.S. initial jobless claims",
+      "forecast": "194K",
+      "previous": "189K",
+      "source": "https://www.bls.gov/schedule/news_release/"
+    },
+    {
+      "date": "2026-11-13",
+      "event": "U.S. PPI m/m",
+      "forecast": "0.4%",
+      "previous": "1.3%",
+      "source": "https://www.kitco.com/news/off-the-wire/2026-11-09/wall-st-jumps-back-oil-slide-eases-inflation-worries-nvidia-slumps"
+    },
+    {
+      "date": "2026-11-13",
+      "event": "U.S. Core PPI m/m",
+      "forecast": "0.3%",
+      "previous": "0.7%",
+      "source": "https://www.kitco.com/news/off-the-wire/2026-11-09/wall-st-jumps-back-oil-slide-eases-inflation-worries-nvidia-slumps"
+    }
+  ]
 }

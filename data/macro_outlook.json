@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-11",
   "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily. Forecasts for listed releases come from the live weekly economic-calendar feed.",
   "centralBanks": [
     {
@@ -14,34 +14,20 @@
       "bank": "Federal Reserve (FOMC)",
       "region": "US",
       "date": "2026-12-09",
-      "current": "3.75%–4.00% (held Oct 28; Cook and Hammack dissented in favor of a hike)",
-      "expectation": "CME FedWatch put the chance of a 25 bp hike on Dec 9 near 77–80% after Friday's strong jobs report; October CPI (Nov 10) is the next test. Post-CPI pricing not yet available.",
-      "source": "https://www.cnbc.com/2026/11/06/treasury-yields-inch-lower-as-investors-look-ahead-to-key-jobs-data-.html"
+      "current": "3.75%\u20134.00% (held Oct 28; Cook and Hammack dissented in favor of a hike)",
+      "expectation": "October CPI (Nov 10) ran hotter than forecast: headline +0.4% m/m vs 0.3% expected, core +0.3% vs 0.2%, the third straight 0.3% core reading. Commentators say this keeps a December hike in play; updated CME FedWatch probabilities not verified.",
+      "source": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
     },
     {
-      "bank": "ECB · Bank of England",
+      "bank": "ECB \u00b7 Bank of England",
       "region": "EU/UK",
       "date": "2026-12-17",
-      "current": "BoE Bank Rate 4.00% (raised 25 bp from 3.75% on Nov 5, 8–1 vote; one member wanted 50 bp). ECB rate not verified.",
+      "current": "BoE Bank Rate 4.00% (raised 25 bp from 3.75% on Nov 5, 8\u20131 vote; one member wanted 50 bp). ECB rate not verified.",
       "expectation": "Final 2026 decisions for both on Dec 17; 64 of 73 economists expected an ECB hike. BoE says policy is not on a pre-set path, leaving December open.",
       "source": "https://www.bankofengland.co.uk/monetary-policy-report/2026/November-2026"
     }
   ],
   "keyReleases": [
-    {
-      "date": "2026-11-10",
-      "event": "U.S. October CPI m/m (headline)",
-      "forecast": "0.3%",
-      "previous": "0.6%",
-      "source": "https://www.morningstar.com/economy/october-cpi-forecasts-show-inflation-softening-december-rate-hike-still-looks-likely"
-    },
-    {
-      "date": "2026-11-10",
-      "event": "U.S. October Core CPI m/m",
-      "forecast": "0.2%",
-      "previous": "0.3%",
-      "source": "https://www.morningstar.com/economy/october-cpi-forecasts-show-inflation-softening-december-rate-hike-still-looks-likely"
-    },
     {
       "date": "2026-11-12",
       "event": "U.S. initial jobless claims",

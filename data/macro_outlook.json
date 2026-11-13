@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-13",
   "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily. Forecasts for listed releases come from the live weekly economic-calendar feed.",
   "centralBanks": [
     {
@@ -15,8 +15,8 @@
       "region": "US",
       "date": "2026-12-09",
       "current": "3.75%\u20134.00% (held Oct 28; Cook and Hammack dissented in favor of a hike)",
-      "expectation": "October CPI (Nov 10) ran hotter than forecast: headline +0.4% m/m vs 0.3% expected, core +0.3% vs 0.2%, the third straight 0.3% core reading. Commentators say this keeps a December hike in play; updated CME FedWatch probabilities not verified.",
-      "source": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+      "expectation": "October CPI (Nov 10) ran hotter than forecast (headline +0.4% m/m vs 0.3%, core +0.3% vs 0.2%). Futures-based odds of a December hike were reported near 81% as of Nov 8 (secondary source; not refreshed after CPI or today's PPI). Next decision Dec 9.",
+      "source": "https://www.kucoin.com/blog/fed-holds-rates-hike-expectations-2026"
     },
     {
       "bank": "ECB \u00b7 Bank of England",
@@ -29,25 +29,32 @@
   ],
   "keyReleases": [
     {
-      "date": "2026-11-12",
-      "event": "U.S. initial jobless claims",
-      "forecast": "194K",
-      "previous": "189K",
-      "source": "https://www.bls.gov/schedule/news_release/"
+      "date": "2026-11-17",
+      "event": "Nvidia earnings (reported date; confirm after CEO transition) and Home Depot/Disney earnings",
+      "forecast": null,
+      "previous": null,
+      "source": "https://www.regardsofwallstreet.com/newsletter/2026-11-08-week-ahead"
     },
     {
-      "date": "2026-11-13",
-      "event": "U.S. PPI m/m",
-      "forecast": "0.4%",
-      "previous": "1.3%",
-      "source": "https://www.kitco.com/news/off-the-wire/2026-11-09/wall-st-jumps-back-oil-slide-eases-inflation-worries-nvidia-slumps"
+      "date": "2026-11-18",
+      "event": "Target earnings",
+      "forecast": null,
+      "previous": null,
+      "source": "https://www.regardsofwallstreet.com/newsletter/2026-11-08-week-ahead"
     },
     {
-      "date": "2026-11-13",
-      "event": "U.S. Core PPI m/m",
-      "forecast": "0.3%",
-      "previous": "0.7%",
-      "source": "https://www.kitco.com/news/off-the-wire/2026-11-09/wall-st-jumps-back-oil-slide-eases-inflation-worries-nvidia-slumps"
+      "date": "2026-11-19",
+      "event": "Walmart earnings",
+      "forecast": null,
+      "previous": null,
+      "source": "https://www.regardsofwallstreet.com/newsletter/2026-11-08-week-ahead"
+    },
+    {
+      "date": "2026-11-16",
+      "event": "U.S. retail sales and FOMC minutes (week of Nov 16; exact dates and consensus not verified)",
+      "forecast": null,
+      "previous": null,
+      "source": "https://thriveinmarkets.com/calendar/2026-11-16/"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-16",
   "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily. Forecasts for listed releases come from the live weekly economic-calendar feed.",
   "centralBanks": [
     {
@@ -15,7 +15,7 @@
       "region": "US",
       "date": "2026-12-09",
       "current": "3.75%\u20134.00% (held Oct 28; Cook and Hammack dissented in favor of a hike)",
-      "expectation": "October CPI (Nov 10) ran hotter than forecast (headline +0.4% m/m vs 0.3%, core +0.3% vs 0.2%). Futures-based odds of a December hike were reported near 81% as of Nov 8 (secondary source; not refreshed after CPI or today's PPI). Next decision Dec 9.",
+      "expectation": "October CPI (Nov 10) ran hotter than forecast (headline +0.4% m/m vs 0.3%, core +0.3% vs 0.2%). Futures-based odds of a December hike were reported near 81% as of Nov 8 (secondary source; not refreshed; no current FedWatch reading found). FOMC minutes of the Oct 28 meeting due Nov 18 at 2:00 pm ET. Next decision Dec 9.",
       "source": "https://www.kucoin.com/blog/fed-holds-rates-hike-expectations-2026"
     },
     {
@@ -30,31 +30,45 @@
   "keyReleases": [
     {
       "date": "2026-11-17",
-      "event": "Nvidia earnings (reported date; confirm after CEO transition) and Home Depot/Disney earnings",
+      "event": "Nvidia Q3 earnings (after the bell)",
       "forecast": null,
       "previous": null,
-      "source": "https://www.regardsofwallstreet.com/newsletter/2026-11-08-week-ahead"
+      "source": "https://finance.yahoo.com/technology/article/nvidia-to-report-q3-earnings-amid-huang-scandal-211859827.html"
+    },
+    {
+      "date": "2026-11-17",
+      "event": "U.S. retail sales m/m (core ex-autos forecast 0.4%, prev 0.9%)",
+      "forecast": "0.2%",
+      "previous": "0.8%",
+      "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
     },
     {
       "date": "2026-11-18",
-      "event": "Target earnings",
+      "event": "FOMC meeting minutes (Oct 28 meeting)",
       "forecast": null,
       "previous": null,
-      "source": "https://www.regardsofwallstreet.com/newsletter/2026-11-08-week-ahead"
+      "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
+    },
+    {
+      "date": "2026-11-18",
+      "event": "U.K. CPI y/y",
+      "forecast": "3.6%",
+      "previous": "3.5%",
+      "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
     },
     {
       "date": "2026-11-19",
-      "event": "Walmart earnings",
-      "forecast": null,
-      "previous": null,
-      "source": "https://www.regardsofwallstreet.com/newsletter/2026-11-08-week-ahead"
+      "event": "U.S. initial jobless claims; Philly Fed manufacturing index (forecast 19.2, prev 20.9)",
+      "forecast": "199K",
+      "previous": "200K",
+      "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
     },
     {
-      "date": "2026-11-16",
-      "event": "U.S. retail sales and FOMC minutes (week of Nov 16; exact dates and consensus not verified)",
-      "forecast": null,
-      "previous": null,
-      "source": "https://thriveinmarkets.com/calendar/2026-11-16/"
+      "date": "2026-11-20",
+      "event": "U. Michigan consumer sentiment, final (inflation expectations prev 4.3%)",
+      "forecast": "52.1",
+      "previous": "51.0",
+      "source": "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
     }
   ]
 }

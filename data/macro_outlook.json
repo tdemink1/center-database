@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-23",
   "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily. Forecasts for listed releases come from the live weekly economic-calendar feed.",
   "centralBanks": [
     {
@@ -14,26 +14,33 @@
       "bank": "Federal Reserve (FOMC)",
       "region": "US",
       "date": "2026-12-09",
-      "current": "3.75%–4.00% (held Oct 28; Cook and Hammack dissented in favor of a hike)",
-      "expectation": "October CPI (Nov 10) ran hotter than forecast (headline +0.4% m/m vs 0.3%, core +0.3% vs 0.2%). Minutes of the Oct 28 meeting, released Nov 18, showed growing unease about inflation. Futures pricing reported Nov 16-17 put a 25 bp hike on Dec 9-10 at roughly 90-95% (CME FedWatch via secondary sources; no Nov 20 reading found). Equities fell sharply Nov 20 with the 10-year yield near 4.91%.",
+      "current": "3.75%\u20134.00% (held Oct 28; Cook and Hammack dissented in favor of a hike)",
+      "expectation": "October CPI (Nov 10) ran hotter than forecast (headline +0.4% m/m vs 0.3%, core +0.3% vs 0.2%). Minutes of the Oct 28 meeting, released Nov 18, showed growing unease about inflation. Futures pricing reported Nov 16-17 put a 25 bp hike on Dec 9-10 at roughly 90-95% (CME FedWatch via secondary sources; no Nov 20 reading found). Equities fell sharply Nov 20 (Nasdaq down about 10% on the prior week per press reports), then rebounded Nov 23 with the 10-year yield at 4.92%. No fresh FedWatch reading verified Nov 23.",
       "source": "https://tradingeconomics.com/united-states/implied-rates/news/602003"
     },
     {
-      "bank": "ECB · Bank of England",
+      "bank": "ECB \u00b7 Bank of England",
       "region": "EU/UK",
       "date": "2026-12-17",
-      "current": "BoE Bank Rate 4.00% (raised 25 bp from 3.75% on Nov 5, 8–1 vote). ECB deposit rate 2.50% per Deutsche Bank commentary (not verified against the ECB).",
+      "current": "BoE Bank Rate 4.00% (raised 25 bp from 3.75% on Nov 5, 8\u20131 vote). ECB deposit rate 2.50% per Deutsche Bank commentary (not verified against the ECB).",
       "expectation": "Final 2026 decisions for both on Dec 17. A Reuters poll (reported Nov 12) had all 71 economists expecting an ECB hike of 25 bp to 2.75% in December. BoE says policy is not on a pre-set path, leaving December open.",
       "source": "https://www.fxstreet.com/news/economists-agree-ecb-will-hike-rates-to-275-in-december-reuters-poll-shows-202611121202"
     }
   ],
   "keyReleases": [
     {
+      "date": "2026-11-24",
+      "event": "U.S. Conference Board Consumer Confidence (Nov)",
+      "forecast": "92.4",
+      "previous": "91.7",
+      "source": "https://www.forexfactory.com/calendar"
+    },
+    {
       "date": "2026-11-25",
-      "event": "U.S. Q3 GDP second estimate and October personal income/outlays (PCE); date per one calendar, unconfirmed",
-      "forecast": null,
-      "previous": null,
-      "source": "https://www.financecalendar.com/events/2026-11-25/"
+      "event": "U.S. Prelim Q3 GDP (q/q) and Core PCE price index (m/m), 8:30 ET",
+      "forecast": "GDP 3.5%; core PCE 0.3%",
+      "previous": "GDP 3.4%; core PCE 0.3%",
+      "source": "https://www.forexfactory.com/calendar"
     },
     {
       "date": "2026-11-26",

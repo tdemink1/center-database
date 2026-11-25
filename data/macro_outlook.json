@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-25",
   "note": "Curated outlook: central-bank meetings and consensus previews beyond the live weekly calendar. Refresh when expectations shift; probabilities move daily. Forecasts for listed releases come from the live weekly economic-calendar feed.",
   "centralBanks": [
     {
@@ -15,7 +15,7 @@
       "region": "US",
       "date": "2026-12-09",
       "current": "3.75%\u20134.00% (held Oct 28; Cook and Hammack dissented in favor of a hike)",
-      "expectation": "October CPI (Nov 10) ran hotter than forecast (headline +0.4% m/m vs 0.3%, core +0.3% vs 0.2%). Minutes of the Oct 28 meeting, released Nov 18, showed growing unease about inflation. Futures pricing reported Nov 16-17 put a 25 bp hike on Dec 9-10 at roughly 90-95% (CME FedWatch via secondary sources; no Nov 20 reading found). Equities fell sharply Nov 20 (Nasdaq down about 10% on the prior week per press reports), then rebounded Nov 23 with the 10-year yield at 4.92%. No fresh FedWatch reading verified Nov 23.",
+      "expectation": "October CPI (Nov 10) ran hotter than forecast (headline +0.4% m/m vs 0.3%, core +0.3% vs 0.2%). Minutes of the Oct 28 meeting (released Nov 18) showed growing unease about inflation. Most recent futures pricing found (Trading Economics, Nov 17) put a 25 bp hike on Dec 9 at above 90%; no fresher CME FedWatch reading could be verified as of Nov 25. A Nov 25 MarketWatch headline described the Fed as saying inflation has not improved ahead of the December vote on raising rates. 10-year yield closed at about 4.85% on Nov 25.",
       "source": "https://tradingeconomics.com/united-states/implied-rates/news/602003"
     },
     {
@@ -29,25 +29,25 @@
   ],
   "keyReleases": [
     {
-      "date": "2026-11-24",
-      "event": "U.S. Conference Board Consumer Confidence (Nov)",
-      "forecast": "92.4",
-      "previous": "91.7",
-      "source": "https://www.forexfactory.com/calendar"
-    },
-    {
-      "date": "2026-11-25",
-      "event": "U.S. Prelim Q3 GDP (q/q) and Core PCE price index (m/m), 8:30 ET",
-      "forecast": "GDP 3.5%; core PCE 0.3%",
-      "previous": "GDP 3.4%; core PCE 0.3%",
-      "source": "https://www.forexfactory.com/calendar"
-    },
-    {
       "date": "2026-11-26",
       "event": "U.S. Thanksgiving: markets closed (early close for bonds expected the day after; verify with NYSE/SIFMA)",
       "forecast": null,
       "previous": null,
       "source": "https://www.nyse.com/markets/hours-calendars"
+    },
+    {
+      "date": "2026-11-26",
+      "event": "Japan Tokyo Core CPI (y/y), 18:30 ET",
+      "forecast": "3.0%",
+      "previous": "2.6%",
+      "source": "https://www.forexfactory.com/calendar"
+    },
+    {
+      "date": "2026-12-04",
+      "event": "U.S. November jobs report (date per usual BLS first-Friday schedule; consensus not yet verified)",
+      "forecast": null,
+      "previous": null,
+      "source": "https://www.bls.gov/schedule/news_release/empsit.htm"
     }
   ]
 }
